@@ -1,0 +1,8 @@
+{
+  "name": "trojan_war",
+  "label": "Trojan War",
+  "version": "0.0.1",
+  "url": "https://github.com/vpereira/0ad-trojan-war-mod",
+  "description": "Super mod for 0 A.D",
+  "dependencies": [ "0ad=0.0.26"]
+}
