@@ -44,10 +44,10 @@
   "Description": "this is the big trojan war, when the  Achaeans sieged troy . Will you capture troy or will you become defeated",
   "Keywords": [],
   "LockTeams": true,
-  "Name": "troy",
+  "Name": "Troy",
   "PlayerData": [
     {
-      "Civ": "athen",
+      "Civ": "trojan",
       "Color": {
         "b": 149,
         "g": 55,
@@ -73,10 +73,10 @@
       "Team": -1
     },
     {
-      "Civ": "gaul"
+      "Civ": "sparta"
     }
   ],
-  "Preview": "",
+  "Preview": "troy.png",
   "RevealMap": true,
   "VictoryConditions": [
     "conquest"
