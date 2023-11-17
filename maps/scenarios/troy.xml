@@ -47,13 +47,14 @@
   "Name": "Troy",
   "PlayerData": [
     {
-      "Civ": "trojan",
+      "Civ": "troj",
       "Color": {
         "b": 149,
         "g": 55,
         "r": 21
       },
-      "Name": " Achaeans"
+      "Name": "Hektor",
+	  "Team": 0
     },
     {
       "Civ": "athen",
@@ -62,7 +63,7 @@
         "g": 20,
         "r": 150
       },
-      "Name": "troy",
+      "Name": "Plato",
       "PopulationLimit": 300,
       "Resources": {
         "food": 300,
@@ -70,10 +71,12 @@
         "stone": 300,
         "wood": 300
       },
-      "Team": -1
+      "Team": 1
     },
     {
-      "Civ": "sparta"
+      "Civ": "spart",
+	  "Team": 1, 
+	  "Name": "Leonidas"
     }
   ],
   "Preview": "troy.png",
