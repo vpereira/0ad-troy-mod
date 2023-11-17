@@ -9,6 +9,6 @@
     <SpecificName>Ev</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/ptol/house.xml</Actor>
+    <Actor>structures/ptolemies/house.xml</Actor>
   </VisualActor>
 </Entity>
