@@ -72,11 +72,6 @@
         "wood": 300
       },
       "Team": 1
-    },
-    {
-      "Civ": "spart",
-	  "Team": 1, 
-	  "Name": "Leonidas"
     }
   ],
   "Preview": "troy.png",
