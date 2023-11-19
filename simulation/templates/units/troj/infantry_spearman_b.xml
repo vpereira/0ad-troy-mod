@@ -11,6 +11,6 @@
     <Entity>units/cart/infantry_spearman_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/carthaginians/infantry_spearman_b.xml</Actor>
+    <Actor>units/trojans/infantry_spearman_b.xml</Actor>
   </VisualActor>
 </Entity>
