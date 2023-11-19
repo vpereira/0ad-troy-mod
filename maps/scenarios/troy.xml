@@ -32,8 +32,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="905.947" y="269.052" z="-17.8927"/>
-		<Rotation angle="-0.69071"/>
+		<Position x="814.326" y="324.712" z="351.995"/>
+		<Rotation angle="-0.670729"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -47,13 +47,13 @@
   "Name": "Troy",
   "PlayerData": [
     {
-      "Civ": "troj",
+      "Civ": "athen",
       "Color": {
         "b": 149,
         "g": 55,
         "r": 21
       },
-      "Name": "Hektor",
+      "Name": "Plato",
       "PopulationLimit": 300,
       "Resources": {
         "food": 300,
@@ -76,13 +76,13 @@
       "Team": 0
     },
     {
-      "Civ": "athen",
+      "Civ": "troj",
       "Color": {
         "b": 20,
         "g": 20,
         "r": 150
       },
-      "Name": "Plato",
+      "Name": "Hektor",
       "PopulationLimit": 300,
       "Resources": {
         "food": 300,
@@ -102,7 +102,7 @@
           "z": 0.0000107306
         }
       },
-      "Team": 1
+      "Team": -1
     },
     {
       "Civ": "spart",
@@ -114,7 +114,19 @@
         "stone": 300,
         "wood": 300
       },
-      "Team": 1
+      "StartingCamera": {
+        "Position": {
+          "x": 482.775,
+          "y": 113.294,
+          "z": 982.024
+        },
+        "Rotation": {
+          "x": 35,
+          "y": -38.4299,
+          "z": 0.00000108987
+        }
+      },
+      "Team": 0
     }
   ],
   "Preview": "troy.png",
