@@ -18,4 +18,12 @@
     <Actor>structures/carthaginians/barracks.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
   </VisualActor>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/troj/infantry_swordsman_merc_b
+      units/troj/infantry_archer_b
+      units/troj/infantry_spearman_b
+    </Entities>
+  </Trainer>
 </Entity>
