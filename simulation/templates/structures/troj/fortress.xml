@@ -6,7 +6,7 @@
   </Identity>  
   <Trainer>
     <Entities datatype="tokens">
-      units/{civ}/hero_Paris
+      units/{civ}/hero_paris
       units/{civ}/hero_hannibal
       units/{civ}/hero_maharbal
       units/{civ}/champion_cavalry
