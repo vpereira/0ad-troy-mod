@@ -16,6 +16,7 @@
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
       units/troj/cavalry_spearman_b.xml
+      units/troj/cavalry_javelineer_merc_b.xml
     </Entities>
   </Trainer>
 </Entity>
