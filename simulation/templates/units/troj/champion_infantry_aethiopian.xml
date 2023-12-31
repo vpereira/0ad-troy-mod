@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_axeman">
   <Identity>
-    <Civ>kush</Civ>
+    <Civ>troj</Civ>
     <Lang>napatan</Lang>
-    <GenericName>Meroitic Temple Guard</GenericName>
+    <GenericName>Aethiopian Kings Guard</GenericName>
     <SpecificName>rs ʿIprmk</SpecificName>
     <Classes datatype="tokens">ApedemakGuard</Classes>
     <Icon>units/kush/champion_apedemak.png</Icon>
