@@ -3,7 +3,14 @@
   <Identity>
     <Civ>troj</Civ>
     <SpecificName>castro</SpecificName>
-  </Identity>
+  </Identity>  
+  <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/hero_hamilcar
+      units/{civ}/hero_hannibal
+      units/{civ}/hero_maharbal
+    </Entities>
+  </Trainer>
   <VisualActor>
     <Actor>structures/persians/fortress.xml</Actor>
   </VisualActor>
