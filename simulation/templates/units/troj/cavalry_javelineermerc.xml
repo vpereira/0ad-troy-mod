@@ -6,6 +6,7 @@
     <SelectionGroupName>units/mace/cavalry_javelineer_b</SelectionGroupName>
     <GenericName>Amazonian Javelineer Cavalry</GenericName>
     <SpecificName>Ippikó tou Amazoníou</SpecificName>
+    <Phenotype>female</Phenotype>
     <Icon>units/mace/cavalry_javelinist.png</Icon>
     <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
