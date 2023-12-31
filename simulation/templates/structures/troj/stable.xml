@@ -6,17 +6,12 @@
   <Trainer>
     <Entities datatype="tokens">
       -units/{civ}/champion_cavalry
+      -units/{civ}/cavalry_javelineer_merc_b
+      -units/{civ}/cavalry_spearman_b
     </Entities>
   </Trainer>
   <VisualActor>
     <Actor>structures/carthaginians/stable.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
   </VisualActor>
-   <Trainer>
-    <BatchTimeModifier>0.8</BatchTimeModifier>
-    <Entities datatype="tokens">
-      units/troj/cavalry_spearman_b.xml
-      units/troj/cavalry_javelineer_merc_b.xml
-    </Entities>
-  </Trainer>
 </Entity>
