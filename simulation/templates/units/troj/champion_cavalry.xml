@@ -2,14 +2,12 @@
 <Entity parent="template_unit_champion_cavalry_spearman">
    <Attack>
     <Melee>
-      <MaxRange op="add">4.0</MaxRange>
+      <MaxRange op="add">3.0</MaxRange>
     </Melee>
   </Attack>
   <Cost>
     <Resources>
-      <metal op="add">100</metal>
-      <wood op="add">80</wood>
-      <food op="add">140</food>
+      <metal op="add">10</metal>
     </Resources>
   </Cost>
   <Identity>
@@ -19,26 +17,24 @@
     <SpecificName>Troikí Katapraktikí</SpecificName>
     <Icon>units/sele/champion_cavalry.png</Icon>
   </Identity>
-  <Loot>
-    <metal op="add">10</metal>
-    <wood op="add">8</wood>
-    <food op="add">14</food>
+ <Loot>
+    <metal op="add">1</metal>
   </Loot>
   <Position>
-    <TurnRate op="mul">1,8</TurnRate>
+    <TurnRate op="mul">0.8</TurnRate>
   </Position>
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">5</Hack>
-        <Pierce op="add">5</Pierce>
-        <Crush op="add">5</Crush>
+        <Hack op="add">1</Hack>
+        <Pierce op="add">1</Pierce>
+        <Crush op="add">1</Crush>
       </Damage>
     </Entity>
   </Resistance>
   <UnitMotion>
-    <WalkSpeed op="mul">18</WalkSpeed>
-    <Acceleration op="mul">35</Acceleration>
+    <WalkSpeed op="mul">0.95</WalkSpeed>
+    <Acceleration op="mul">0.8</Acceleration>
   </UnitMotion>
   <VisualActor>
     <Actor>art/actors/units/trojans/cavalry_spearman_c_m.xml</Actor>
