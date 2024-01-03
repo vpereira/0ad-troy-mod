@@ -12,8 +12,7 @@
   <Identity>
     <Civ>troj<Civ>
     <GenericName>Commercial Port</GenericName>
-    <SpecificName>liman</SpecificName>
-    <History>The Carthaginians were famous for their sea trade. Carthage itself had an entire harbour dedicated to nothing more than commercial sea trade.</History>
+    <SpecificName>Liman</SpecificName>
 	<Tooltip>Construct fishing boats to gather meat and merchant ships to trade with other docks.</Tooltip>
   </Identity>
   <Obstruction>
