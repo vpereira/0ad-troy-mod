@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_ranged_javelineer">
+  <Cost>
+    <Resources>
+      <metal>35</metal>
+    </Resources>
+  </Cost>
+  <Loot>
+    <metal>3</metal>
+  </Loot>
+</Entity>
   <Identity>
     <Civ>troj</Civ>
     <SelectionGroupName>units/athen/infantry_javelineer_b</SelectionGroupName>
