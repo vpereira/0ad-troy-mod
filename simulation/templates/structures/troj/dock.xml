@@ -10,7 +10,7 @@
     <Height>8.0</Height>
   </Footprint>
   <Identity>
-    <Civ>troj<Civ>
+    <Civ>troj</Civ>
     <GenericName>Commercial Port</GenericName>
     <SpecificName>Liman</SpecificName>
 	<Tooltip>Construct fishing boats to gather meat and merchant ships to trade with other docks.</Tooltip>
