@@ -57,19 +57,19 @@
 		}
 	],
 	"AINames": [
-		"Hasdrubal Barca",
-		"Hasdrubal Gisco",
-		"Hanno the Elder",
-		"Mago Barca",
-		"Hasdrubal the Fair",
-		"Hanno the Great",
-		"Himilco",
-		"Hampsicora",
-		"Hannibal Gisco",
-		"Dido",
-		"Xanthippus",
-		"Himilco Phameas",
-		"Hasdrubal the Boetharch"
+		"Hektor",
+		"Paris",
+		"Troilus",
+		"Rhesos",
+		"Aenaeas",
+		"Priam",
+		"Pandaros",
+		"Memnon",
+		"Kyknos",
+		"Penthesilea",
+		"Sarpedon",
+		"Glaukos",
+		"Polydamas"
 	],
 	"SkirmishReplacements": {
 		"skirmish/units/default_infantry_ranged_b": "units/troj/infantry_archer_b",

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_fortress">
+  <Identity>
+    <Civ>troj</Civ>
+    <SpecificName>castro</SpecificName>
+  </Identity>  
+  <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/hero_paris
+      units/{civ}/hero_hektor
+      units/{civ}/hero_penthesilea
+      units/{civ}/hero_memnon
+      units/{civ}/champion_cavalry
+      units/{civ}/champion_infantry
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <Actor>structures/persians/fortress.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>24.5</Length>
+    <Indent>7.6</Indent>
+  </WallPiece>
+</Entity>
