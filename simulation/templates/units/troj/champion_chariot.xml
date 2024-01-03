@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="chariot|template_unit_champion_cavalry_archer">
+<Entity parent="template_unit_champion_cavalry_archer">
+   <Cost>
+    <BuildTime op="mul">1.2</BuildTime>
+    <Resources>
+      <food op="mul_round">1.2</food>
+      <wood op="mul_round">1.25</wood>
+      <stone op="mul_round">1.2</stone>
+      <metal op="mul_round">1.2</metal>
+    </Resources>
+  </Cost>
+  <Health>
+    <Max op="mul">1.25</Max>
+  </Health>
   <Footprint replace="">
     <Square width="11.0" depth="11.0"/>
     <Height>6.0</Height>
@@ -11,6 +23,24 @@
     <SpecificName>troikó drepáni árma</SpecificName>
     <Icon>units/sele/champion_chariot.png</Icon>
   </Identity>
+  <Loot>
+    <food op="mul_round">1.2</food>
+    <wood op="mul_round">1.2</wood>
+    <stone op="mul_round">1.2</stone>
+    <metal op="mul_round">1.2</metal>
+    <xp op="mul_round">1.2</xp>
+  </Loot>
+  <Position>
+    <TurnRate>5</TurnRate>
+  </Position>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">-2</Hack>
+        <Pierce op="add">2</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
   <VisualActor>
     <Actor>units/seleucids/chariot_archer_c_m.xml</Actor>
   </VisualActor>
