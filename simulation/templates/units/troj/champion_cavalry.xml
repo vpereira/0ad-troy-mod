@@ -37,6 +37,6 @@
     <Acceleration op="mul">0.8</Acceleration>
   </UnitMotion>
   <VisualActor>
-    <Actor>art/actors/units/trojans/cavalry_spearman_c_m.xml</Actor>
+    <Actor>units/trojans/cavalry_spearman_c_m.xml</Actor>
   </VisualActor>
 </Entity>
