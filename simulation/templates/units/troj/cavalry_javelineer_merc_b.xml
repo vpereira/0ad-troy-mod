@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_cavalry_ranged_javelineer">
-   <Cost>
-    <Resources>
-      <metal>50</metal>
-      <food>10</food>
-    </Resources>
-  </Cost>
-  <Loot>
-    <metal>5</metal>
-    <food>1</food>
-  </Loot>
   <Identity>
     <Civ>troj</Civ>
     <Lang>greek</Lang>
