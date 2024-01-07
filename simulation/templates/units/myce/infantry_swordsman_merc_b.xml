@@ -8,6 +8,6 @@
     <Icon>units/cart/infantry_swordsman_2.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/carthaginians/infantry_swordsman_b.xml</Actor>
+    <Actor>units/myce/infantry_swordsman_b.xml</Actor>
   </VisualActor>
 </Entity>
