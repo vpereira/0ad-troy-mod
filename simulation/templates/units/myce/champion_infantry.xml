@@ -10,6 +10,6 @@
     </Requirements>
   </Identity>
   <VisualActor>
-    <Actor>units/carthaginians/infantry_spearman_c.xml</Actor>
+    <Actor>units/myce/infantry_spearman_c.xml</Actor>
   </VisualActor>
 </Entity>
