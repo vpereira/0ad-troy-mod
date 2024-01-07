@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_spearman">
+  <Identity>
+    <Civ>myce</Civ>
+    <GenericName>myrmidon</GenericName>
+    <SpecificName>myrmidónas</SpecificName>
+    <Icon>units/spart/champion_infantry.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/carthaginians/infantry_spearman_c.xml</Actor>
+  </VisualActor>
+</Entity>
