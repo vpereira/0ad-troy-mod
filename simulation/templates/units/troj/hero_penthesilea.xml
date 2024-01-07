@@ -11,6 +11,6 @@
     <Icon>units/brit/hero_boudicca.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>art/actors/units/trojans/hero_penthesilea_m.xml</Actor>
+    <Actor>units/trojans/hero_penthesilea_m.xml</Actor>
   </VisualActor>
 </Entity>

@@ -8,9 +8,6 @@
     <SpecificName>Akontistikó ippikó</SpecificName>
     <Icon>units/pers/cavalry_javelinist.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/pers/cavalry_javelineer_a</Entity>
-  </Promotion>
   <VisualActor>
     <Actor>units/persians/cavalry_javelinist_b_m.xml</Actor>
   </VisualActor>

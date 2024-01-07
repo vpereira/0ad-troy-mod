@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent=template_unit_cavalry_ranged_javelineer">
-   <Cost>
-    <Resources>
-      <metal>50</metal>
-      <food>10</food>
-    </Resources>
-  </Cost>
-  <Loot>
-    <metal>5</metal>
-    <food>1</food>
-  </Loot>
+<Entity parent="template_unit_cavalry_ranged_javelineer">
   <Identity>
     <Civ>troj</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/mace/cavalry_javelineer_b</SelectionGroupName>
     <GenericName>Amazonian Javelineer Cavalry</GenericName>
     <SpecificName>Ippikó tou Amazoníou</SpecificName>
-    <Phenotype>female</Phenotype>
     <Icon>units/mace/cavalry_javelinist.png</Icon>
   </Identity>
   <VisualActor>
