@@ -5,7 +5,7 @@
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/infantry_spearman_b</SelectionGroupName>
     <GenericName>Achaean Hoplite</GenericName>
-    <SpecificName>Hoplítēs Períoikos</SpecificName>
+    <SpecificName>Achaiós Hoplítis</SpecificName>
     <Icon>units/spart/infantry_spearman.png</Icon>
   </Identity>
   <VisualActor>
