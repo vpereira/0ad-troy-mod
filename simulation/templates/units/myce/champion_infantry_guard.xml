@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_swordsman">
+    <Civ>myce</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Achaean Bodyguard</GenericName>
+    <SpecificName>Agema Achaiós</SpecificName>
+    <SelectionGroupName>units/rome/champion_infantry_swordsman</SelectionGroupName>
+    <Icon>units/rome/champion_infantry.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city unlock_champion_infantry</Techs>
+    </Requirements>
+  </Identity>
+  <VisualActor>
+    <Actor>units/romans/infantry_swordsman_c.xml</Actor>
+  </VisualActor>
+</Entity>
