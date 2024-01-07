@@ -38,7 +38,7 @@
 			"Template": "structures/spart/civil_centre"
 		},
 		{
-			"Template": "units/spart/support_female_citizen",
+			"Template": "units/myce/support_female_citizen.xml",
 			"Count": 4
 		},
 		{
