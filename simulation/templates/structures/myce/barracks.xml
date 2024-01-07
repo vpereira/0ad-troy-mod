@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_barracks">
+  <Identity>
+    <Civ>myce</Civ>
+    <SpecificName>stratónas</SpecificName>
+  </Identity>
+  <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/infantry_spearman_b
+      units/{civ}/infantry_javelineer_b
+      units/myce/infantry_swordsman_merc_b
+      units/{civ}/champion_infantry_guard
+      units/{civ}/champion_infantry
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <Actor>structures/persians/barracks.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -7,6 +7,6 @@
     <Icon>units/cart/champion_infantry.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>art/actors/units/trojans/infantry_spearman_c.xml</Actor>
+    <Actor>units/trojans/infantry_spearman_c.xml</Actor>
   </VisualActor>
 </Entity>

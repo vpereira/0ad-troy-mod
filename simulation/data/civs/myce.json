@@ -35,22 +35,22 @@
 	],
 	"StartEntities": [
 		{
-			"Template": "structures/spart/civil_centre"
+			"Template": "structures/myce/civil_centre"
 		},
 		{
-			"Template": "units/spart/support_female_citizen",
+			"Template": "units/myce/support_female_citizen.xml",
 			"Count": 4
 		},
 		{
-			"Template": "units/spart/infantry_spearman_b",
+			"Template": "units/myce/infantry_spearman_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/spart/infantry_javelineer_b",
+			"Template": "units/myce/infantry_javelineer_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/spart/cavalry_javelineer_b"
+			"Template": "units/myce/cavalry_javelineer_b"
 		}
 	],
 	"AINames": [

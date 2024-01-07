@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|template_unit_infantry_melee_spearman">
+  <Identity>
+    <Civ>myce</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/spart/infantry_spearman_b</SelectionGroupName>
+    <GenericName>Achaean Hoplite</GenericName>
+    <SpecificName>Achaiós Hoplítis</SpecificName>
+    <Icon>units/spart/infantry_spearman.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/myce/infantry_spearman_b.xml</Actor>
+  </VisualActor>
+</Entity>
