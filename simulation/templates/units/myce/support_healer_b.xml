@@ -3,7 +3,7 @@
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
-    <GenericName>Pylian Healer</GenericName>
+    <GenericName>Pylian Doctor</GenericName>
     <SpecificName>Iatros</SpecificName>
     <Icon>units/hele/support_healer.png</Icon>
   </Identity>
