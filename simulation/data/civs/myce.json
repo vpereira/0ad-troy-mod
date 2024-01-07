@@ -35,7 +35,7 @@
 	],
 	"StartEntities": [
 		{
-			"Template": "structures/spart/civil_centre"
+			"Template": "structures/myce/civil_centre"
 		},
 		{
 			"Template": "units/myce/support_female_citizen.xml",
