@@ -42,11 +42,11 @@
 			"Count": 4
 		},
 		{
-			"Template": "units/myce/infantry_spearman_b.xml",
+			"Template": "units/myce/infantry_spearman_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/spart/infantry_javelineer_b",
+			"Template": "units/myce/infantry_javelineer_b",
 			"Count": 2
 		},
 		{
