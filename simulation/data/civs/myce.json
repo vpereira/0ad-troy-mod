@@ -42,7 +42,7 @@
 			"Count": 4
 		},
 		{
-			"Template": "units/spart/infantry_spearman_b",
+			"Template": "units/myce/infantry_spearman_b.xml",
 			"Count": 2
 		},
 		{
