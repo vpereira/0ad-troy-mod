@@ -1,4 +1,5 @@
-"Code": "myce",
+{
+	"Code": "myce",
 	"Culture": "myce",
 	"Music": [
 		{
@@ -61,10 +62,10 @@
 		"Idomeneus",
 		"Odysseus",
 		"Diomedes",
-		"Ajax The Great",
+		"Ajax The Telamonian",
 		"Antilochos",
 		"Nestor"
-    "Neoptolemos"
+    		"Neoptolemos"
 	],
 	"SkirmishReplacements": {
 		"skirmish/structures/default_house_10": "structures/{civ}/house",
