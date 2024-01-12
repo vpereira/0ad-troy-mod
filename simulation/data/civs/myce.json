@@ -22,14 +22,14 @@
 			"File": "Only_300_Stood.ogg",
 			"Type": "peace"
 		}
-	],
+		 ],
 	"CivBonuses": [
 		{
 			"Name": "Spartan Women",
 			"History": "",
 			"Description": "Female Citizens +40% health and +50% melee attack hack damage."
 		},
-	],
+		      ],
 	"WallSets": [
 		"structures/wallset_palisade",
 		"structures/spart/wallset_stone"
