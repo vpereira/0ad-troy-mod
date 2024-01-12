@@ -33,7 +33,7 @@
 	"WallSets": [
 		"structures/wallset_palisade",
 		"structures/spart/wallset_stone"
-	],
+		    ],
 	"StartEntities": [
 		{
 			"Template": "structures/myce/civil_centre"
@@ -64,8 +64,8 @@
 		"Diomedes",
 		"Ajax The Telamonian",
 		"Antilochos",
+    		"Neoptolemos",
 		"Nestor"
-    		"Neoptolemos"
 	],
 	"SkirmishReplacements": {
 		"skirmish/structures/default_house_10": "structures/{civ}/house",
