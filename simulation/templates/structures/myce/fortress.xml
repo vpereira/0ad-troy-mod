@@ -6,7 +6,7 @@
   </Footprint>
   <Identity>
     <Civ>myce</Civ>
-    <SpecificName>Pylianó Froúrio</SpecificName>
+    <SpecificName>Pylianó Phroúrio</SpecificName>
     <Tooltip>Train Heroes. Garrison Soldiers for additional arrows.</Tooltip>
   </Identity>
   <Obstruction>
@@ -14,7 +14,7 @@
   </Obstruction>
   <Trainer>
     <Entities datatype="tokens">
-      units/{civ}/hero_nastasen
+      units/{civ}/hero_achilles
       units/{civ}/hero_amanirenas
       units/{civ}/hero_arakamani
     </Entities>
