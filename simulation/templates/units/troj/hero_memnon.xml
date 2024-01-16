@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
-    units/heroes/spart_hero_leonidas
+    troj/memnon
   </Auras>
   <Identity>
     <Civ>troj</Civ>
     <Lang>greek</Lang>
-    <GenericName>memnon</GenericName>
+    <GenericName>Memnon</GenericName>
     <SpecificName> </SpecificName>
     <Icon>units/spart/hero_leonidas.png</Icon>
   </Identity>
