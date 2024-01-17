@@ -11,6 +11,6 @@
     <Icon>units/mace/hero_craterus.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/macedonians/hero_infantry_swordsman_craterus.xml</Actor>
+    <Actor>units/myce/hero_aias.xml</Actor>
   </VisualActor>
 </Entity>
