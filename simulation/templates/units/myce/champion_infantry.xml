@@ -2,12 +2,15 @@
 <Entity parent="template_unit_champion_infantry_spearman">
   <Identity>
     <Civ>myce</Civ>
-    <GenericName>myrmidon</GenericName>
+    <GenericName>myrmidons</GenericName>
     <SpecificName>myrmidónas</SpecificName>
     <Icon>units/spart/champion_infantry.png</Icon>
     <Requirements>
       <Techs datatype="tokens">-phase_city unlock_champion_infantry</Techs>
     </Requirements>
+  <Health>
+    <Max>250</Max>
+  </Health>
   </Identity>
   <VisualActor>
     <Actor>units/myce/infantry_spearman_c.xml</Actor>

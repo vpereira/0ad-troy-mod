@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
-    troj/memnon
+    units/heroes/spart_hero_leonidas
   </Auras>
   <Identity>
-    <Civ>troj</Civ>
+    <Civ>myce</Civ>
     <Lang>greek</Lang>
-    <GenericName>Memnon</GenericName>
+    <GenericName>Achilles</GenericName>
     <SpecificName> </SpecificName>
     <Icon>units/spart/hero_leonidas.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/trojans/hero_memnon.xml</Actor>
+    <Actor>units/spartans/hero_infantry_spearman_leonidas.xml</Actor>
   </VisualActor>
 </Entity>
