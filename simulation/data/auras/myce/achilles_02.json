@@ -1,0 +1,13 @@
+{
+	"type": "range",
+	"radius": 40,
+	"affects": ["Spearman"],
+	"modifications": [
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.25 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.25 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.25 }
+	],
+	"auraName": "Myrmidon battalion",
+	"auraDescription": "Spearmen +25% melee attack damage.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}
