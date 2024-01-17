@@ -7,7 +7,7 @@
   <Identity>
     <Civ>myce</Civ>
     <SpecificName>Pylianó Phroúrio</SpecificName>
-    <Tooltip>Train Heroes. Garrison Soldiers for additional arrows.</Tooltip>
+    <Tooltip>Train Heroes and Siege Engines. Garrison Soldiers for additional arrows.</Tooltip>
   </Identity>
   <Obstruction>
     <Static width="28.0" depth="28.0"/>
