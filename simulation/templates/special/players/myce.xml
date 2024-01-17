@@ -1,1 +1,24 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_player">
+  <Auras datatype="tokens">
+    teambonuses/cart_player_teambonus
+  </Auras>
+  <Identity>
+    <Civ>myce</Civ>
+    <GenericName>Myceneans</GenericName>
+    <History>
+      The Myceneans were a greek kingdom in the late bronze age,
+      but in this context we mean the greek alliance, that wanted to capture Troy,
+      because the trojan prince Paris kidnapped the spartan queen Helen.
+      The trojans were excellent warriors, but the greek still had an ace up their sleeve.
+      Achilles, joung king of Pthia, the best warrior of his era,
+      led 4000 of the most disciplined soldiers of greece, called "Myrmidons".
+    </History>
+    <Icon>emblems/emblem_seleucids.png</Icon>
+  </Identity>
+  <Player>
+    <Formations datatype="tokens">
+      special/formations/phalanx
+    </Formations>
+  </Player>
+</Entity>
