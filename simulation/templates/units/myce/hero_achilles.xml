@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
-    units/heroes/spart_hero_leonidas
+    myce/achilles_01
+    myce/achilles_02
   </Auras>
   <Identity>
     <Civ>myce</Civ>
