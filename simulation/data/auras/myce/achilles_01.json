@@ -12,7 +12,7 @@
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.8 },
 		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 0.8 }
 	],
-	"auraName": "Intimidating Sound",
+	"auraName": "Fearsome Warrior",
 	"auraDescription": "Enemy Soldiers −20% attack damage and capture attack strength.",
 	"overlayIcon": "art/textures/ui/session/auras/broken_sword.png"
 }
