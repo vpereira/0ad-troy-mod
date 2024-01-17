@@ -11,6 +11,6 @@
     <Icon>units/spart/hero_brasidas.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/spartans/hero_infantry_swordsman_brasidas.xml</Actor>
+    <Actor>units/myce/hero_idomeneus.xml</Actor>
   </VisualActor>
 </Entity>
