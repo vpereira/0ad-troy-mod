@@ -16,9 +16,10 @@
     <Entities datatype="tokens">
       units/{civ}/hero_achilles
       units/{civ}/hero_agamemnon
-      units/{civ}/hero_arakamani
-      units/{civ}/hero_
+      units/{civ}/hero_idomeneus
+      units/{civ}/hero_aias
       units/{civ}/champion_infantry
+      units/{civ}/siege_ram
     </Entities>
   </Trainer>
   <VisualActor>
