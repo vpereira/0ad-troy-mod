@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_hero_infantry_swordsman">
   <Auras datatype="tokens">
-    myce/idomeneus
+    myce/aias
   </Auras>
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
-    <GenericName>Idomeneus</GenericName>
+    <GenericName>Aias</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/spart/hero_brasidas.png</Icon>
+    <Icon>units/mace/hero_craterus.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/myce/hero_idomeneus.xml</Actor>
+    <Actor>units/myce/hero_aias.xml</Actor>
   </VisualActor>
 </Entity>

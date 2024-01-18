@@ -1,0 +1,12 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Worker"],
+	"modifications": [
+		{ "value": "Builder/Rate", "multiply": 2 },
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 2, "affects": "Builder" }
+	],
+	"auraName": "Great King",
+	"auraDescription": "Workers +100% build rate and gather speed.",
+	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png"
+}

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_hero_infantry_spearman">
+  <Attack>
+    <Melee>
+      <Damage>
+        <Pierce op="mul">1,5</Pierce>
+      </Damage>
+    </Melee>
+  </Attack>
   <Auras datatype="tokens">
-    units/heroes/spart_hero_leonidas
+    myce/achilles_01
+    myce/achilles_02
   </Auras>
   <Identity>
     <Civ>myce</Civ>
@@ -11,6 +19,6 @@
     <Icon>units/spart/hero_leonidas.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/spartans/hero_infantry_spearman_leonidas.xml</Actor>
+    <Actor>units/myce/hero_achilles.xml</Actor>
   </VisualActor>
 </Entity>
