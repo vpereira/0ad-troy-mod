@@ -8,6 +8,9 @@
     <GenericName>myrmidons</GenericName>
     <SpecificName>myrmidónas</SpecificName>
     <Icon>units/spart/champion_infantry.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city unlock_champion_infantry</Techs>
+    </Requirements>
   </Identity>
   <VisualActor>
     <Actor>units/myce/infantry_spearman_c.xml</Actor>
