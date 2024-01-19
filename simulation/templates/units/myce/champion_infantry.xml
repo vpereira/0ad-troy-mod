@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_spearman">
+  <Health>
+    <Max>250</Max>
+  </Health>
   <Identity>
     <Civ>myce</Civ>
     <GenericName>myrmidons</GenericName>
     <SpecificName>myrmidónas</SpecificName>
     <Icon>units/spart/champion_infantry.png</Icon>
-  <Health>
-    <Max>250</Max>
-  </Health>
   </Identity>
   <VisualActor>
     <Actor>units/myce/infantry_spearman_c.xml</Actor>
