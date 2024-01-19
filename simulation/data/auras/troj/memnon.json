@@ -5,8 +5,8 @@
 	"affectedPlayers": ["Ally"],
 	"modifications": [
 		{ "value": "Attack/Capture/Capture", "add": 1 },
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 2 },
-	]
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 2 }
+	],
 	"auraName": "Strong Leader",
 	"auraDescription": "Own and Allied Soldiers +1 capture attack strength, +100% hack attack damage.",
 	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
