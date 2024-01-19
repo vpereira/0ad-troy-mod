@@ -3,10 +3,10 @@
   <Identity>
     <Civ>troj</Civ>
     <Lang>greek</Lang>
-    <SelectionGroupName>units/mace/cavalry_javelineer_b</SelectionGroupName>
+    <SelectionGroupName>units/spart/cavalry_javelineer_b</SelectionGroupName>
     <GenericName>Amazonian Javelineer Cavalry</GenericName>
     <SpecificName>Ippikó tou Amazoníou</SpecificName>
-    <Icon>units/mace/cavalry_javelinist.png</Icon>
+    <Icon>units/spart/cavalry_javelinist.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/macedonians/cavalry_javelinist_b_m.xml</Actor>
