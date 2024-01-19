@@ -4,8 +4,8 @@
     <Civ>troj</Civ>
     <GenericName>thracian Mercenary Swordsman</GenericName>
     <SpecificName>thrakiotis xiphomachus</SpecificName>
-    <SelectionGroupName>units/ptol/infantry_swordsman_merc_b</SelectionGroupName>
-    <Icon>units/cart/infantry_swordsman.png</Icon>
+    <SelectionGroupName>units/iber/infantry_swordsman_b</SelectionGroupName>
+    <Icon>units/iber/infantry_swordsman.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/trojans/infantry_swordsman_b.xml</Actor>
