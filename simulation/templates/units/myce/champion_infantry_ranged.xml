@@ -22,6 +22,6 @@
     </Requirements>
   </Identity>
   <VisualActor>
-    <Actor>units/myce/infantry_javelinist_c.xml</Actor>
+    <Actor>units/myce/infantry_javelineer_c.xml</Actor>
   </VisualActor>
 </Entity>
