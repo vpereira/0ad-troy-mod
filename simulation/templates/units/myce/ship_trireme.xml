@@ -7,6 +7,9 @@
     <Square width="10.0" depth="40.0"/>
     <Height>8.0</Height>
   </Footprint>
+  <Health>
+    <Max op="add">450</Max>
+  </Health>
   <Identity>
     <Civ>myce</Civ>
     <SpecificName>Polemikó ploío Ithákis</SpecificName>

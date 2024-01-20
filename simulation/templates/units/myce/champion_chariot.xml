@@ -50,6 +50,9 @@
     <GenericName>Guard Chariot</GenericName>
     <SpecificName>Drepanèphoros Agema</SpecificName>
     <Icon>units/sele/champion_chariot.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city unlock_champion_chariot</Techs>
+    </Requirements>
   </Identity>
   <VisualActor>
     <Actor>units/seleucids/chariot_archer_c_m.xml</Actor>

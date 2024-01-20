@@ -17,8 +17,11 @@
     <GenericName>Ithacaean Peltast</GenericName>
     <SpecificName>Ithákis Akontistís</SpecificName>
     <Icon>units/mace/infantry_javelinist.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city unlock_champion_infantry</Techs>
+    </Requirements>
   </Identity>
   <VisualActor>
-    <Actor>units/myce/infantry_javelinist_c.xml</Actor>
+    <Actor>units/myce/infantry_javelineer_c.xml</Actor>
   </VisualActor>
 </Entity>
