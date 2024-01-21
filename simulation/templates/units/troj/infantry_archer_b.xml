@@ -11,6 +11,6 @@
     <Entity>units/cart/infantry_archer_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/carthaginians/infantry_archer_b.xml</Actor>
+    <Actor>units/persians/infantry_archer_b.xml</Actor>
   </VisualActor>
 </Entity>
