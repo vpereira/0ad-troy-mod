@@ -2,10 +2,10 @@
 	"type": "global",
 	"affects": ["Human", "Structure"],
 	"modifications": [
-		{ "value": "Resistance/Entity/Damage/Hack", "add": 2 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 2 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": 2 }
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 3 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 3 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 3 }
 	],
 	"auraName": "Pillar in times of need",
-	"auraDescription": "Humans and Structures +2 crush, hack, pierce resistance."
+	"auraDescription": "Humans and Structures +3 crush, hack, pierce resistance."
 }
