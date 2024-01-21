@@ -15,8 +15,8 @@
         <prop actor="props/units/armor/greave_02_bronze_l.xml" attachpoint="leg_L"/>
       </props>
       <textures>
-        <texture file="skeletal/mace/compound_linothorax_02_01.png" name="baseTex"/>
-        <texture file="skeletal/mace/compound_linothorax_02_spec.png" name="specTex"/>
+        <texture file="skeletal/sele/cuirass_07.png" name="baseTex"/>
+        <texture file="skeletal/sele/cuirass_07.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
