@@ -16,12 +16,12 @@
   <group>
     <variant frequency="3" name="padded_brasidas_01">
       <textures>
-        <texture file="skeletal/spart/padded_brasidas_01.png" name="baseTex"/>
+        <texture file="skeletal/sele/cuirass_07.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="2" name="padded_brasidas_02">
       <textures>
-        <texture file="skeletal/spart/padded_brasidas_02.png" name="baseTex"/>
+        <texture file="skeletal/sele/cuirass_07.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
