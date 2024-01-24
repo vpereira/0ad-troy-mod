@@ -7,7 +7,7 @@
       <props>
         <prop actor="props/units/heads/new/head_hele_a.xml" attachpoint="head"/>
         <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield"/>
-        <prop actor="props/units/weapons/broadswoard.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/weapons/cswoard.xml" attachpoint="weapon_R"/>
       </props>
     </variant>
   </group>
