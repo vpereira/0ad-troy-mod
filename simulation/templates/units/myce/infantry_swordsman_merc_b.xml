@@ -4,8 +4,8 @@
     <Civ>myce</Civ>
     <GenericName>Cretan Mercenary Swordsman</GenericName>
     <SpecificName>Kritikós Misthophóros Xiphomáchos</SpecificName>
-    <SelectionGroupName>units/cart/infantry_swordsman_ital_b</SelectionGroupName>
-    <Icon>units/cart/infantry_swordsman_2.png</Icon>
+    <SelectionGroupName>units/iber/infantry_swordsman</SelectionGroupName>
+    <Icon>units/iber/infantry_swordsman.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/myce/infantry_swordsman_b.xml</Actor>
