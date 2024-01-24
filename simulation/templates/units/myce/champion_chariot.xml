@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_cavalry_archer">
- <Cost>
+   <Cost>
     <BuildTime op="mul">1.2</BuildTime>
     <Resources>
       <food op="mul_round">1.2</food>
@@ -12,8 +12,16 @@
   <Health>
     <Max op="mul">1.25</Max>
   </Health>
+  <Footprint replace="">
+    <Square width="11.0" depth="11.0"/>
+    <Height>6.0</Height>
+  </Footprint>
   <Identity>
-    <VisibleClasses datatype="tokens">Chariot</VisibleClasses>
+    <Civ>myce</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Trojan Scythed Chariot</GenericName>
+    <SpecificName>troikó drepáni árma</SpecificName>
+    <Icon>units/sele/champion_chariot.png</Icon>
   </Identity>
   <Loot>
     <food op="mul_round">1.2</food>
@@ -33,27 +41,6 @@
       </Damage>
     </Entity>
   </Resistance>
-  <ResourceGatherer disable=""/>
-  <UnitMotion>
-    <WalkSpeed op="mul_round">1.1</WalkSpeed>
-    <PassabilityClass>large</PassabilityClass>
-    <Acceleration op="mul">0.5</Acceleration>
-    <Weight op="mul">3.0</Weight>
-  </UnitMotion>
-  <Footprint replace="">
-    <Square width="11.0" depth="11.0"/>
-    <Height>6.0</Height>
-  </Footprint>
-  <Identity>
-    <Civ>myce</Civ>
-    <Lang>greek</Lang>
-    <GenericName>Guard Chariot</GenericName>
-    <SpecificName>Drepanèphoros Agema</SpecificName>
-    <Icon>units/sele/champion_chariot.png</Icon>
-    <Requirements>
-      <Techs datatype="tokens">-phase_city unlock_champion_chariot</Techs>
-    </Requirements>
-  </Identity>
   <VisualActor>
     <Actor>units/seleucids/chariot_archer_c_m.xml</Actor>
   </VisualActor>

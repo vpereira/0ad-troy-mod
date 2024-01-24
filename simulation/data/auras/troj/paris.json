@@ -4,11 +4,11 @@
 	"affects": ["Soldier", "Siege"],
 	"affectedPlayers": ["Ally"],
 	"modifications": [
-		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.5 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.5 },
-		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.5 }
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.6 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.6 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.6 }
 	],
 	"auraName": "Archer",
-	"auraDescription": "Own and Allied Soldiers +20% ranged attack damage.",
+	"auraDescription": "Own and Allied Soldiers +60% ranged attack damage.",
 	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }

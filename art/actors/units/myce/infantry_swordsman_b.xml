@@ -7,7 +7,7 @@
       <props>
         <prop actor="props/units/heads/new/head_hele_a.xml" attachpoint="head"/>
         <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield"/>
-        <prop actor="props/units/weapons/xiphos.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/weapons/broadswoard.xml" attachpoint="weapon_R"/>
       </props>
     </variant>
   </group>
@@ -41,22 +41,19 @@
   <group>
     <variant frequency="1" name="cardiopylax_01_01">
       <textures>
-        <texture file="skeletal/ital/cardiopylax_01_01.png" name="baseTex"/>
-        <texture file="skeletal/ital/cardiopylax_01_spec.png" name="specTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cardiopylax_01_02">
       <textures>
-        <texture file="skeletal/ital/cardiopylax_01_02.png" name="baseTex"/>
-        <texture file="skeletal/ital/cardiopylax_01_spec.png" name="specTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cardiopylax_01_03">
       <textures>
-        <texture file="skeletal/ital/cardiopylax_01_03.png" name="baseTex"/>
-        <texture file="skeletal/ital/cardiopylax_01_spec.png" name="specTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
