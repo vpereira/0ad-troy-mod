@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_ship_warship_light">
+<Entity parent="template_unit_ship_warship_arrow">
   <Footprint>
     <Square width="7.0" depth="37.0"/>
     <Height>8.0</Height>
@@ -9,9 +9,9 @@
     <Lang>greek</Lang>
     <GenericName>Trojan Warship</GenericName>
     <SpecificName>Troikó polemikó ploío</SpecificName>
-    <Icon>units/pers/ship_bireme.png</Icon>
+    <Icon>units/pers/ship_arrow.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/persians/bireme.xml</Actor>
+    <Actor>structures/persians/bireme_scout.xml</Actor>
   </VisualActor>
 </Entity>
