@@ -42,18 +42,21 @@
     <variant frequency="1" name="cardiopylax_01_01">
       <textures>
         <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cardiopylax_01_02">
       <textures>
         <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cardiopylax_01_03">
       <textures>
         <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
