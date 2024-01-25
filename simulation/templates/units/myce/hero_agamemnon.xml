@@ -14,6 +14,6 @@
     <Max>1000</Max>
   </Health>
   <VisualActor>
-    <Actor>units/spartans/hero_infantry_spearman_agis.xml</Actor>
+    <Actor>units/myce/hero_agamemnon.xml</Actor>
   </VisualActor>
 </Entity>
