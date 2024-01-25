@@ -12,6 +12,6 @@
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/ptolemies/cavalry_spearman_b_m.xml</Actor>
+    <Actor>units/myce/cavalry_spearman_b_m.xml</Actor>
   </VisualActor>
 </Entity>
