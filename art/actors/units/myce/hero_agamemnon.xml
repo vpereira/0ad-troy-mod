@@ -13,9 +13,9 @@
         <prop actor="props/units/weapons/sheath_celt_iron.xml" attachpoint="sheath_02_L"/>
       </props>
       <textures>
-        <texture file="skeletal/spart/cuirass_gorgon_01_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_gorgon_01_01.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
-        <texture file="skeletal/spart/cuirass_gorgon_01_01.png" name="specTex"/>
+        <texture file="skeletal/mace/cuirass_gorgon_01_01.png" name="specTex"/>
       </textures>
     </variant>
   </group>
