@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
-     myce/agamemnon.json
+     myce/agamemnon
   </Auras>
   <Identity>
     <Civ>myce</Civ>
