@@ -8,6 +8,7 @@
     <SpecificName>Ippikó tou Amazoníou</SpecificName>
     <Icon>units/spart/cavalry_javelinist.png</Icon>
   </Identity>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/macedonians/cavalry_javelinist_b_m.xml</Actor>
   </VisualActor>

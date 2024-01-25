@@ -27,16 +27,19 @@
     <variant frequency="1" name="tunic_01_01">
       <textures>
         <texture file="skeletal/cart/tunic_01_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/tunic_01_01.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tunic_01_02">
       <textures>
         <texture file="skeletal/cart/tunic_01_02.png" name="baseTex"/>
+        <texture file="skeletal/cart/tunic_01_01.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tunic_01_03">
       <textures>
         <texture file="skeletal/cart/tunic_01_03.png" name="baseTex"/>
+        <texture file="skeletal/cart/tunic_01_01.png" name="specTex"/>
       </textures>
     </variant>
   </group>

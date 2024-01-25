@@ -8,7 +8,7 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_6x6</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Civ>troj</Civ>
+    <Civ>myce</Civ>
     <GenericName>Mycenean Palace</GenericName>
     <SpecificName>Xšaçapāvan</SpecificName>
   </Identity>

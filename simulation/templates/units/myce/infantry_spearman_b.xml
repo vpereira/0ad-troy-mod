@@ -8,6 +8,7 @@
     <SpecificName>Achaiós Hoplítis</SpecificName>
     <Icon>units/spart/infantry_spearman.png</Icon>
   </Identity>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/myce/infantry_spearman_b.xml</Actor>
   </VisualActor>

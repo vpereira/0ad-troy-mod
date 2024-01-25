@@ -12,7 +12,7 @@
   <Attack>
     <Melee>
       <Damage>
-        <Pierce op="mul">1,5</Pierce>
+        <Pierce op="mul">2</Pierce>
       </Damage>
     </Melee>
   </Attack>
@@ -28,8 +28,8 @@
     <Icon>units/spart/hero_leonidas.png</Icon>
   </Identity>
   <UnitMotion>
-    <WalkSpeed op="mul_round">1.25</WalkSpeed>
-    <Acceleration op="mul">1.25</Acceleration>
+    <WalkSpeed op="mul_round">1.5</WalkSpeed>
+    <Acceleration op="mul">2</Acceleration>
   </UnitMotion>
   <VisualActor>
     <Actor>units/myce/hero_achilles.xml</Actor>

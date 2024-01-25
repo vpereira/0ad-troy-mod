@@ -18,6 +18,7 @@
     <SpecificName>Ithákis Akontistís</SpecificName>
     <Icon>units/mace/infantry_javelinist.png</Icon>
   </Identity>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/myce/infantry_javelineer_c.xml</Actor>
   </VisualActor>

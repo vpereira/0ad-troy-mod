@@ -8,9 +8,7 @@
     <SpecificName>Ippikó lónchi</SpecificName>
     <Icon>units/pers/cavalry_spearman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/pers/cavalry_spearman_a</Entity>
-  </Promotion>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/persians/cavalry_spearman_b_m.xml</Actor>
   </VisualActor>

@@ -7,6 +7,7 @@
     <SpecificName>Thracic Acontium</SpecificName>
     <Icon>units/mace/infantry_javelinist.png</Icon>
   </Identity>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/athenians/infantry_javelinist_b.xml</Actor>
   </VisualActor>

@@ -8,6 +8,7 @@
     <SpecificName>Achaïkós akontistís</SpecificName>
     <Icon>units/spart/infantry_javelinist.png</Icon>
   </Identity>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/spartans/infantry_javelinist_b.xml</Actor>
   </VisualActor>
