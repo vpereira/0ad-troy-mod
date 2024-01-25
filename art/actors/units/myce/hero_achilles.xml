@@ -7,10 +7,10 @@
       <props>
         <prop actor="props/units/heads/new/head_xerxes.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
-        <prop actor="props/units/shields/kush_beja_reinforced_gold_rhino.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/pers_buckler_1.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/helmets/hele_pilos_crested_transversal.xml" attachpoint="helmet"/>
         <prop actor="props/units/capes/cape_long_player.xml" attachpoint="root"/>
-        <prop actor="props/units/weapons/sheath_xiphos.xml" attachpoint="sheath_02_L"/>
+        <prop actor="props/units/weapons/sheath_celt_iron.xml" attachpoint="sheath_02_L"/>
       </props>
       <textures>
         <texture file="skeletal/spart/cuirass_leonidas_01.png" name="baseTex"/>

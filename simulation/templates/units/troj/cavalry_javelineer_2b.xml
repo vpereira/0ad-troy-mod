@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_cavalry_ranged_javelineer">
+  <Identity>
+    <Civ>troj</Civ>
+    <Lang>persian</Lang>
+    <SelectionGroupName>units/pers/cavalry_javelineer_b</SelectionGroupName>
+    <GenericName>Trojan Light Cavalry</GenericName>
+    <SpecificName>Akontistikó ippikó</SpecificName>
+    <Icon>units/pers/cavalry_javelinist.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/persians/cavalry_javelinist_b_m.xml</Actor>
+  </VisualActor>
+</Entity>

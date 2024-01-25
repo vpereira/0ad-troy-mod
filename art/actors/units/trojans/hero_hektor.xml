@@ -14,6 +14,7 @@
       </props>
       <textures>
         <texture file="skeletal/sele/cuirass_07.png" name="baseTex"/>
+        <texture file="skeletal/sele/cuirass_07.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>

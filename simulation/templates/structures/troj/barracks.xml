@@ -21,7 +21,8 @@
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/troj/infantry_swordsman_merc_b
+      units/{civ}/infantry_swordsman_b
+      units/{civ}/infantry_javelineer
       units/{civ}/infantry_archer_b
       units/{civ}/infantry_spearman_b
       units/troj/champion_infantry_aethiopian

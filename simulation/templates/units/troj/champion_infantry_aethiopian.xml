@@ -9,6 +9,6 @@
     <Icon>units/kush/champion_apedemak.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/kushites/infantry_axeman_c.xml</Actor>
+    <Actor>units/trojans/infantry_axeman_c.xml</Actor>
   </VisualActor>
 </Entity>
