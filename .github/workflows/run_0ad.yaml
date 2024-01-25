@@ -1,0 +1,33 @@
+name: 0 A.D. Mod Test
+
+on: [push, pull_request]
+
+jobs:
+  test-mod:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install 0 A.D.
+      run: |
+        sudo add-apt-repository ppa:wfg/0ad
+        sudo apt-get update
+        sudo apt-get install -y 0ad
+
+    - name: Run 0 A.D. with mod
+      run: |
+        0ad -mod=my_mod -autostart="random/random" -autostart-civ="athen" -autostart-ai="petra" -autostart-ai="petra" -autostart-ais="2" -norender -exit-when-done
+        # Replace `my_mod` with the name of your mod
+        # Modify autostart options as needed
+        # The `-norender` option runs the game without rendering, suitable for a headless environment
+        # The `-exit-when-done` option makes the game exit after the autostarted game finishes
+        # Add a delay if necessary to let the game run for a few seconds
+        sleep 20
+
+    - name: Upload interesting.log
+      uses: actions/upload-artifact@v2
+      with:
+        name: interesting-log
+        path: ~/.config/0ad/logs/interesting.log
