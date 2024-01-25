@@ -18,13 +18,13 @@ jobs:
 
     - name: Run 0 A.D. with mod
       run: |
-        0ad -mod=my_mod -autostart="random/random" -autostart-civ="athen" -autostart-ai="petra" -autostart-ai="petra" -autostart-ais="2" -norender -exit-when-done
+        0ad -mod=0ad-troy -autostart="random/random" -autostart-civ="athen" -autostart-ai="petra" -autostart-ai="petra" -autostart-ais="2" -norender -exit-when-done
         # Replace `my_mod` with the name of your mod
         # Modify autostart options as needed
         # The `-norender` option runs the game without rendering, suitable for a headless environment
         # The `-exit-when-done` option makes the game exit after the autostarted game finishes
         # Add a delay if necessary to let the game run for a few seconds
-        sleep 20
+        # sleep 20
 
     - name: Upload interesting.log
       uses: actions/upload-artifact@v2
