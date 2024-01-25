@@ -41,19 +41,19 @@
   "AISeed": 0,
   "AllyView": true,
   "CircularMap": true,
-  "Description": "this is the big trojan war, when the  Achaeans sieged troy . Will you capture troy or will you become defeated",
+  "Description": "you are involved in the big trojan war, when the  Achaeans sieged Troy . Will you capture it or will you become defeated?",
   "Keywords": [],
   "LockTeams": true,
   "Name": "Troy",
   "PlayerData": [
     {
-      "Civ": "athen",
+      "Civ": "myce",
       "Color": {
         "b": 149,
         "g": 55,
         "r": 21
       },
-      "Name": "Plato",
+      "Name": "Agamemnon",
       "PopulationLimit": 300,
       "Resources": {
         "food": 300,
@@ -73,7 +73,7 @@
           "z": 0.00000526539
         }
       },
-      "Team": 0
+      "Team": 2
     },
     {
       "Civ": "troj",
@@ -102,31 +102,7 @@
           "z": 0.0000107306
         }
       },
-      "Team": -1
-    },
-    {
-      "Civ": "spart",
-      "Name": "Leonidas",
-      "PopulationLimit": 300,
-      "Resources": {
-        "food": 300,
-        "metal": 300,
-        "stone": 300,
-        "wood": 300
-      },
-      "StartingCamera": {
-        "Position": {
-          "x": 482.775,
-          "y": 113.294,
-          "z": 982.024
-        },
-        "Rotation": {
-          "x": 35,
-          "y": -38.4299,
-          "z": 0.00000108987
-        }
-      },
-      "Team": 0
+      "Team": 1
     }
   ],
   "Preview": "troy.png",
