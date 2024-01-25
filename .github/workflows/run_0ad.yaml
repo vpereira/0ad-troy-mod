@@ -20,7 +20,7 @@ jobs:
       run: |
         Xvfb :99 &
         export DISPLAY=:99
-        0ad -mod=trojan_war -nosound -autostart="random/random" -autostart-civ="athen" -autostart-ai="petra" -autostart-ai="petra" -autostart-ais="2" -quickstart -exit-when-done || true
+        0ad -mod=trojan_war -nosound -autostart="random/random" -autostart-civ="troj" -autostart-ai="petra" -autostart-ai="petra" -autostart-ais="2" -quickstart -exit-when-done || true
 
     - name: Upload interesting.log
       uses: actions/upload-artifact@v2
