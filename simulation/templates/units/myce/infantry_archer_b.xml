@@ -3,12 +3,12 @@
   <Attack>
     <Ranged>
       <Damage>
-        <Pierce op="mul">2</Pierce>
+        <Pierce op="mul">1.5</Pierce>
       </Damage>
     </Ranged>
   </Attack>
   <Health>
-    <Max op="mul">2.4</Max>
+    <Max op="mul">1.25</Max>
   </Health>
   <Identity>
     <Civ>myce</Civ>
