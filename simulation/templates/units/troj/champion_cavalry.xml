@@ -10,6 +10,9 @@
       <metal op="add">10</metal>
     </Resources>
   </Cost>
+  <Health>
+    <Max op="mul">1.25</Max>
+  </Health>
   <Identity>
     <Civ>troj</Civ>
     <Lang>greek</Lang>
