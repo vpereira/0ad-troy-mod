@@ -8,7 +8,7 @@
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
 	],
-	"auraName": "Helot Reforms",
+	"auraName": "Archer",
 	"auraDescription": "Infantry Archers +1 crush, hack, pierce resistance, +100% ranged attack pierce damage.",
 	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }
