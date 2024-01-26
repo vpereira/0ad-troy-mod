@@ -17,9 +17,6 @@
     <GenericName>Cretan Mercenary Cavalry</GenericName>
     <SpecificName>Hippeús Kritikos</SpecificName>
     <Icon>units/spart/cavalry_spearman.png</Icon>
-    <Requirements>
-      <Techs datatype="tokens">phase_town</Techs>
-    </Requirements>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
