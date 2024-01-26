@@ -31,7 +31,7 @@
     </variant>
   </group>
   <group>
-    <variant file="biped/base_hoplite.xml"/>
+    <variant file="biped/base_hoplite_fast.xml"/>
     <variant file="biped/formations/phalanx_front.xml"/>
     <variant file="biped/formations/phalanx_mid.xml"/>
     <variant file="biped/formations/phalanx_back.xml"/>
