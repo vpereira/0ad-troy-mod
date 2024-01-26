@@ -5,7 +5,7 @@
     <GenericName>Thracian Mercenary Swordsman</GenericName>
     <SpecificName>Thrakiotis xiphomachus</SpecificName>
     <SelectionGroupName>units/iber/infantry_swordsman_b</SelectionGroupName>
-    <Icon>units/iber/infantry_swordsman.png</Icon>
+    <Icon>units/cart/infantry_swordsman.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
