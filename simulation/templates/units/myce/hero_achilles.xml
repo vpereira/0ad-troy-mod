@@ -12,7 +12,6 @@
   <Attack>
     <Melee>
       <Damage>
-        <MaxRange op="add">1.0</MaxRange>
         <Pierce op="mul">2</Pierce>
       </Damage>
     </Melee>
@@ -29,7 +28,7 @@
     <Icon>units/mace/hero_alexander.png</Icon>
   </Identity>
   <UnitMotion>
-    <WalkSpeed op="mul_round">2</WalkSpeed>
+    <WalkSpeed op="mul_round">1.5</WalkSpeed>
     <Acceleration op="mul">2</Acceleration>
   </UnitMotion>
   <Health>
