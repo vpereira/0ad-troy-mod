@@ -1,0 +1,33 @@
+name: 0 A.D. Mod Test
+
+on: [push, pull_request]
+
+jobs:
+  test-mod:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install 0 A.D. and Xvfb
+      run: |
+        sudo add-apt-repository ppa:wfg/0ad -y
+        sudo apt-get update
+        sudo apt-get install -y 0ad xvfb libgl1-mesa-dri libgl1-mesa-glx libpulse0 libnss3 lynx
+
+    - name: Run 0 A.D. with mod using Xvfb
+      run: |
+        Xvfb :99 -screen 0 1024x768x24 &
+        export DISPLAY=:99
+        sleep 3 # Give Xvfb some time to start
+        timeout 5s 0ad -mod=trojan_war -nosound -autostart="random/random" -autostart-civ="athen" -autostart-ai="petra" -autostart-ai="petra" -autostart-ais="2" -quickstart -exit-when-done || true
+
+    - name: Display HTML content as text
+      run: lynx -dump ~/.config/0ad/logs/interestinglog.html
+
+    - name: Upload interesting.log
+      uses: actions/upload-artifact@v2
+      with:
+        name: interesting-log
+        path: ~/.config/0ad/logs/interestinglog.html
