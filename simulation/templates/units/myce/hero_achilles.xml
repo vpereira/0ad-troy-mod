@@ -26,7 +26,7 @@
     <Lang>greek</Lang>
     <GenericName>Achilles</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/spart/hero_leonidas.png</Icon>
+    <Icon>units/mace/hero_alexander.png</Icon>
   </Identity>
   <UnitMotion>
     <WalkSpeed op="mul_round">2</WalkSpeed>
