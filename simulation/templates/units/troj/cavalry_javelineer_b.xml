@@ -16,6 +16,7 @@
     <SelectionGroupName>units/spart/cavalry_javelineer_b</SelectionGroupName>
     <GenericName>Amazonian Javelineer Cavalry</GenericName>
     <SpecificName>Ippikó tou Amazoníou</SpecificName>
+    <Phenotype>female</Phenotype>
     <Icon>units/pers/cavalry_javelinist.png</Icon>
   </Identity>
   <Promotion disable=""/>
