@@ -8,7 +8,7 @@
     <Lang>greek</Lang>
     <GenericName>Memnon</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/spart/hero_leonidas.png</Icon>
+    <Icon>units/kush/hero_nastasen.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/trojans/hero_memnon.xml</Actor>
