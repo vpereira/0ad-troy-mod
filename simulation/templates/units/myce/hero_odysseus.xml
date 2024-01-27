@@ -11,6 +11,6 @@
     <Icon>units/spart/hero_brasidas.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/myce/hero_idomeneus.xml</Actor>
+    <Actor>units/myce/hero_odysseus.xml</Actor>
   </VisualActor>
 </Entity>
