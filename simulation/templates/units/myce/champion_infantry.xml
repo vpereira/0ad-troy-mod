@@ -3,14 +3,23 @@
   <Auras datatype="tokens">
     myce/achilles_01
   </Auras>
+  <Cost>
+    <BuildTime op="mul">1.5</BuildTime>
+    <Resources>
+      <food op="mul_round">1.5</food>
+      <wood op="mul_round">1.5</wood>
+      <stone op="mul_round">1.5</stone>
+      <metal op="mul_round">1.5</metal>
+    </Resources>
+  </Cost>
   <Identity>
     <Civ>myce</Civ>
-    <GenericName>myrmidons</GenericName>
-    <SpecificName>myrmidónas</SpecificName>
-    <Icon>units/spart/champion_infantry.png</Icon>
+    <GenericName>Myrmidons</GenericName>
+    <SpecificName>Myrmidónas</SpecificName>
+    <Icon>units/hele/champion_infantry_polis.png</Icon>
   </Identity>
   <Health>
-    <Max>250</Max>
+    <Max>300</Max>
   </Health>
   <VisualActor>
     <Actor>units/myce/infantry_spearman_c.xml</Actor>

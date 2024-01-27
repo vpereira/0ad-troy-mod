@@ -6,7 +6,7 @@
   <Identity>
     <Civ>troj</Civ>
     <SpecificName>Hektor</SpecificName>
-    <Icon>units/iber/hero_viriato.png</Icon>
+    <Icon>units/ptol/hero_ptolemy_I.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/trojans/hero_hektor.xml</Actor>

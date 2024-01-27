@@ -10,12 +10,15 @@
       <metal op="add">10</metal>
     </Resources>
   </Cost>
+  <Health>
+    <Max op="mul">1.25</Max>
+  </Health>
   <Identity>
     <Civ>troj</Civ>
     <Lang>greek</Lang>
     <GenericName>Trojan Cataphract</GenericName>
     <SpecificName>Troikí Katapraktikí</SpecificName>
-    <Icon>units/sele/champion_cavalry.png</Icon>
+    <Icon>units/pers/champion_cavalry.png</Icon>
   </Identity>
  <Loot>
     <metal op="add">1</metal>

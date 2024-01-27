@@ -4,7 +4,7 @@
     <Civ>troj</Civ>
     <GenericName>Rundiyan Guard</GenericName>
     <SpecificName>Rountigián Muhafızı</SpecificName>
-    <Icon>units/cart/champion_infantry.png</Icon>
+    <Icon>units/theb/champion_infantry_hoplite.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/trojans/infantry_spearman_c.xml</Actor>

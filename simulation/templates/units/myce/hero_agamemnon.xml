@@ -8,7 +8,7 @@
     <Lang>greek</Lang>
     <GenericName>Agamemnon</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/spart/hero_agis.png</Icon>
+    <Icon>units/mace/hero_craterus.png</Icon>
   </Identity>
   <Health>
     <Max>1000</Max>
