@@ -16,7 +16,7 @@
     <Civ>myce</Civ>
     <GenericName>Myrmidons</GenericName>
     <SpecificName>Myrmidónas</SpecificName>
-    <Icon>units/spart/champion_infantry.png</Icon>
+    <Icon>units/hele/champion_infantry_polis.png</Icon>
   </Identity>
   <Health>
     <Max>300</Max>
