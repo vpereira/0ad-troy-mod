@@ -12,6 +12,6 @@
     <Icon>units/pers/ship_arrow.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/persians/bireme_scout.xml</Actor>
+    <Actor>units/trojans/ship_warship.xml</Actor>
   </VisualActor>
 </Entity>
