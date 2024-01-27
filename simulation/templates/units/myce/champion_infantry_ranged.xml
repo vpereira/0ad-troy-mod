@@ -16,7 +16,7 @@
     <SelectionGroupName>units/mace/infantry_javelineer_b</SelectionGroupName>
     <GenericName>Ithacaean Peltast</GenericName>
     <SpecificName>Ithákis Akontistís</SpecificName>
-    <Icon>units/mace/infantry_javelinist.png</Icon>
+    <Icon>units/hele/champion_ranged_polis.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
