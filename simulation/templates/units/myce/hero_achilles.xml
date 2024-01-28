@@ -12,6 +12,7 @@
   <Attack>
     <Melee>
       <Damage>
+        <Range op="add">1.0</Range>
         <Pierce op="mul">2</Pierce>
       </Damage>
     </Melee>
