@@ -37,13 +37,6 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Hele Phrygian Helmet-02">
-      <props>
-        <prop actor="props/units/shields/pelta_thra_elite.xml" attachpoint="shield_arm"/>
-      </props>
-    </variant>
-  </group>
-  <group>
     <variant frequency="2" name="Scale-1b">
       <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <textures>
