@@ -7,6 +7,9 @@
     <SpecificName>Agema Mykenaios</SpecificName>
     <Icon>units/ptol_champion_infantry.png</Icon>
   </Identity>
+  <Health>
+    <Max>220</Max>
+  </Health>
   <VisualActor>
     <Actor>units/myce/infantry_pike_c.xml</Actor>
   </VisualActor>
