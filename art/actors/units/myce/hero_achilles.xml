@@ -5,7 +5,7 @@
     <variant>
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
-        <prop actor="props/units/heads/new/head_xerxes.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/new/head_alexander.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/spear_long.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/kush_beja_reinforced_gold_rhino.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/helmets/hele_chalcidean_a4.xml" attachpoint="helmet"/>
