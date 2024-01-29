@@ -20,6 +20,8 @@
       units/{civ}/hero_aias
       units/{civ}/champion_infantry
       units/{civ}/siege_ram
+      units/{civ}/champion_infantry_guard
+      units/{civ}/champion_infantry_guard_02
     </Entities>
   </Trainer>
   <VisualActor>
