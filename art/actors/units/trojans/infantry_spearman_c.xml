@@ -75,7 +75,7 @@
     </variant>
     <variant frequency="1" name="Hele Phrygian Helmet-02">
       <props>
-        <prop actor="props/units/shields/celt_round_swirl.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
   </group>
