@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_infantry_pikeman">
+<Entity parent="hoplite|template_unit_champion_infantry_spearman">
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
     <GenericName>Mycenean Guard Infantry</GenericName>
     <SpecificName>Agema Mykenaios</SpecificName>
-    <Icon>units/sele_champion_infantry.png</Icon>
+    <Icon>units/spart_champion_infantry.png</Icon>
   </Identity>
   <Health>
     <Max>220</Max>
