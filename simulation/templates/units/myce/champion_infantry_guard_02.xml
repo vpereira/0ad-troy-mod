@@ -11,6 +11,6 @@
     <Max>220</Max>
   </Health>
   <VisualActor>
-    <Actor>units/myce/infantry_pike_c.xml</Actor>
+    <Actor>units/myce/infantry_spearman_c.xml</Actor>
   </VisualActor>
 </Entity>
