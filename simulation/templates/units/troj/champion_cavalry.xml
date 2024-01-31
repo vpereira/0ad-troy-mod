@@ -16,8 +16,8 @@
   <Identity>
     <Civ>troj</Civ>
     <Lang>greek</Lang>
-    <GenericName>Trojan Cataphract</GenericName>
-    <SpecificName>Troikí Katapraktikí</SpecificName>
+    <GenericName>City Guard</GenericName>
+    <SpecificName>Epilektoi Ippiko</SpecificName>
     <Icon>units/pers/champion_cavalry.png</Icon>
   </Identity>
  <Loot>
