@@ -5,7 +5,7 @@
     <SelectionGroupName>units/athen/cavalry_javelineer_b</SelectionGroupName>
     <GenericName>Boeotian Cavalry</GenericName>
     <SpecificName>Boiotikó Ippikó</SpecificName>
-    <Icon>units/athen/cavalry_javelinist.png</Icon>
+    <Icon>units/hele/cavalry_javelinist.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
