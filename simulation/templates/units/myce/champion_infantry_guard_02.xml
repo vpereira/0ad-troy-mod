@@ -5,7 +5,7 @@
     <Lang>greek</Lang>
     <GenericName>Mycenean Guard Infantry</GenericName>
     <SpecificName>Agema Mykenaios</SpecificName>
-    <Icon>units/spart_champion_infantry_spear.png</Icon>
+    <Icon>units/hele/champion_infantry_spear.png</Icon>
   </Identity>
   <Health>
     <Max>250</Max>

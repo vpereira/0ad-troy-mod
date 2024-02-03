@@ -4,7 +4,7 @@
     <Civ>troj</Civ>
     <GenericName>Rundiyan Guard</GenericName>
     <SpecificName>Rountigián Muhafızı</SpecificName>
-    <Icon>units/theb/champion_infantry_hoplite.png</Icon>
+    <Icon>units/troj/champion_infantry_hoplite.png</Icon>
   </Identity>
   <Resistance>
     <Entity>

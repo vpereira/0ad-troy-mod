@@ -6,7 +6,7 @@
     <SelectionGroupName>units/spart/infantry_javelineer_b</SelectionGroupName>
     <GenericName>Achaean Skirmisher</GenericName>
     <SpecificName>Achaïkós akontistís</SpecificName>
-    <Icon>units/spart/infantry_javelinist.png</Icon>
+    <Icon>units/hele/infantry_javelinist.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>

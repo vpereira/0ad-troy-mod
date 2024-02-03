@@ -9,7 +9,7 @@
     <Lang>greek</Lang>
     <GenericName>Corinthian Trade Ship</GenericName>
     <SpecificName>Korinthiakó Emporikó Ploío</SpecificName>
-    <Icon>units/pers/ship_merchant.png</Icon>
+    <Icon>units/hele/ship_merchant.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/persians/merchant.xml</Actor>

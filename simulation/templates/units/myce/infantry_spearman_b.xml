@@ -9,7 +9,7 @@
     <SelectionGroupName>units/spart/infantry_spearman_b</SelectionGroupName>
     <GenericName>Achaean Hoplite</GenericName>
     <SpecificName>Achaiós Hoplítis</SpecificName>
-    <Icon>units/spart/infantry_spearman.png</Icon>
+    <Icon>units/hele/infantry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
