@@ -21,7 +21,7 @@
     <Lang>greek</Lang>
     <GenericName>Trojan Scythed Chariot</GenericName>
     <SpecificName>troikó drepáni árma</SpecificName>
-    <Icon>units/sele/champion_chariot.png</Icon>
+    <Icon>units/hele/champion_chariot.png</Icon>
   </Identity>
   <Loot>
     <food op="mul_round">1.2</food>
