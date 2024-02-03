@@ -6,6 +6,14 @@
     <SpecificName>Rountigián Muhafızı</SpecificName>
     <Icon>units/theb/champion_infantry_hoplite.png</Icon>
   </Identity>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">2.5</Hack>
+        <Pierce op="add">0.5</Pierce>
+        <Crush op="add">1.5</Crush>
+      </Damage>
+    </Entity>
   <VisualActor>
     <Actor>units/trojans/infantry_spearman_c.xml</Actor>
   </VisualActor>
