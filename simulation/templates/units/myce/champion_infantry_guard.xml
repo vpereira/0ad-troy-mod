@@ -3,8 +3,8 @@
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
-    <GenericName>Achaean Bodyguard</GenericName>
-    <SpecificName>Agema Achaiós</SpecificName>
+    <GenericName>Athenian Bodyguard</GenericName>
+    <SpecificName>Agema Athinaíos</SpecificName>
     <SelectionGroupName>units/rome/champion_infantry_swordsman</SelectionGroupName>
     <Icon>units/rome/champion_infantry.png</Icon>
   </Identity>
