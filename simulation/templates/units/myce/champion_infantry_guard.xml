@@ -9,7 +9,7 @@
     <Icon>units/rome/champion_infantry.png</Icon>
   </Identity>
   <Health>
-    <Max>240</Max>
+    <Max>250</Max>
   </Health>
   <VisualActor>
     <Actor>units/romans/infantry_swordsman_c.xml</Actor>
