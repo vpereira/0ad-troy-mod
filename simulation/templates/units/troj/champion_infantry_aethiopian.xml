@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_axeman">
+  <Attack>
+    <Melee>
+      <Damage>
+        <Hack op="add">2</Hack>
+        <Crush op="add">1</Crush>
+      </Damage>
+    </Melee>
+  </Attack>
   <Identity>
     <Civ>troj</Civ>
     <Lang>napatan</Lang>

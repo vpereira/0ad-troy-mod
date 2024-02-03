@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_swordsman">
   <Identity>
-    <Civ>myce</Civ>
+    <Civ>troj</Civ>
     <Lang>greek</Lang>
-    <GenericName>Athenian Bodyguard</GenericName>
-    <SpecificName>Agema Athinaíos</SpecificName>
+    <GenericName>City Guard</GenericName>
+    <SpecificName>Epilektos</SpecificName>
     <SelectionGroupName>units/rome/champion_infantry_swordsman</SelectionGroupName>
-    <Icon>units/rome/champion_infantry.png</Icon>
+    <Icon>units/iber/champion_infantry.png</Icon>
   </Identity>
   <Health>
-    <Max>250</Max>
+    <Max>220</Max>
   </Health>
   <VisualActor>
-    <Actor>units/romans/infantry_swordsman_c.xml</Actor>
+    <Actor>units/trojans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
 </Entity>

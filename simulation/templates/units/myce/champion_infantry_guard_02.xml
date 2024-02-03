@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|template_unit_champion_infantry_spearman">
+  <Identity>
+    <Civ>myce</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Mycenean Guard Infantry</GenericName>
+    <SpecificName>Agema Mykenaios</SpecificName>
+    <Icon>units/spart_champion_infantry_spear.png</Icon>
+  </Identity>
+  <Health>
+    <Max>250</Max>
+  </Health>
+  <VisualActor>
+    <Actor>units/myce/infantry_spearman_c2.xml</Actor>
+  </VisualActor>
+</Entity>

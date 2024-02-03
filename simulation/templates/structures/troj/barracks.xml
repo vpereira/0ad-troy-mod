@@ -25,7 +25,8 @@
       units/{civ}/infantry_javelineer
       units/{civ}/infantry_archer_b
       units/{civ}/infantry_spearman_b
-      units/troj/champion_infantry_aethiopian
+      units/{civ}/champion_infantry_aethiopian
+      units/{civ}/champion_infantry_guard
     </Entities>
   </Trainer>
 </Entity>

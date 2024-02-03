@@ -42,6 +42,6 @@
     </Entity>
   </Resistance>
   <VisualActor>
-    <Actor>units/persians/chariot_archer_c_m.xml</Actor>
+    <Actor>units/persians/chariot_archer_e_m.xml</Actor>
   </VisualActor>
 </Entity>

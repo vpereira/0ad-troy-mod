@@ -16,7 +16,7 @@
     <SelectionGroupName>units/cart/infantry_archer</SelectionGroupName>
     <GenericName>Cretan Mercenary Archer</GenericName>
     <SpecificName>Kritikós Misthofóros Toxótis</SpecificName>
-    <Icon>units/cart/infantry_archer.png</Icon>
+    <Icon>units/hele/infantry_archer.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>

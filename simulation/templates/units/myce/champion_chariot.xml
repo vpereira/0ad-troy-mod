@@ -21,7 +21,7 @@
     <Lang>greek</Lang>
     <GenericName>Trojan Scythed Chariot</GenericName>
     <SpecificName>troikó drepáni árma</SpecificName>
-    <Icon>units/sele/champion_chariot.png</Icon>
+    <Icon>units/hele/champion_chariot.png</Icon>
   </Identity>
   <Loot>
     <food op="mul_round">1.2</food>
@@ -42,6 +42,6 @@
     </Entity>
   </Resistance>
   <VisualActor>
-    <Actor>units/seleucids/chariot_archer_c_m.xml</Actor>
+    <Actor>units/persians/chariot_archer_e_m.xml</Actor>
   </VisualActor>
 </Entity>

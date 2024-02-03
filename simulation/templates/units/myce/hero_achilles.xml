@@ -12,7 +12,7 @@
   <Attack>
     <Melee>
       <Damage>
-        <MaxRange op="add">1.0</MaxRange>
+        <Range op="add">1.0</Range>
         <Pierce op="mul">2</Pierce>
       </Damage>
     </Melee>
@@ -26,10 +26,10 @@
     <Lang>greek</Lang>
     <GenericName>Achilles</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/mace/hero_alexander.png</Icon>
+    <Icon>units/hele/hero_alexander.png</Icon>
   </Identity>
   <UnitMotion>
-    <WalkSpeed op="mul_round">2</WalkSpeed>
+    <WalkSpeed op="mul_round">1.5</WalkSpeed>
     <Acceleration op="mul">2</Acceleration>
   </UnitMotion>
   <Health>
