@@ -8,7 +8,7 @@
     <Icon>units/spart_champion_infantry.png</Icon>
   </Identity>
   <Health>
-    <Max>220</Max>
+    <Max>240</Max>
   </Health>
   <VisualActor>
     <Actor>units/myce/infantry_spearman_c2.xml</Actor>
