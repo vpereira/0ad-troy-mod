@@ -21,7 +21,7 @@ jobs:
         Xvfb :99 -screen 0 1024x768x24 &
         export DISPLAY=:99
         sleep 3 # Give Xvfb some time to start
-        timeout 5s 0ad -mod=trojan_war -nosound -autostart="random/random" -autostart-civ="athen" -autostart-ai="petra" -autostart-ai="petra" -autostart-ais="2" -quickstart -exit-when-done || true
+        timeout 5s 0ad -mod=mod -mod=public -mod=trojan_war -nosound -autostart="random/random" -autostart-civ="athen" -autostart-ai="petra" -autostart-ai="petra" -autostart-ais="2" -quickstart -exit-when-done || true
 
     - name: Display HTML content as text
       run: lynx -dump ~/.config/0ad/logs/interestinglog.html
