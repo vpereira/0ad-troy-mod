@@ -39,7 +39,7 @@
 			"Template": "structures/myce/civil_centre"
 		},
 		{
-			"Template": "units/myce/support_female_citizen.xml",
+			"Template": "units/myce/support_female_citizen",
 			"Count": 4
 		},
 		{
@@ -64,7 +64,7 @@
 		"Diomedes",
 		"Ajax The Telamonian",
 		"Antilochos",
-    		"Neoptolemos",
+    	"Neoptolemos",
 		"Nestor"
 	],
 	"SkirmishReplacements": {
