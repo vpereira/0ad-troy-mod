@@ -8,7 +8,7 @@
     <Lang>greek</Lang>
     <GenericName>Aias</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/spart/hero_leonidas.png</Icon>
+    <Icon>units/hele/hero_leonidas.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/myce/hero_aias.xml</Actor>
