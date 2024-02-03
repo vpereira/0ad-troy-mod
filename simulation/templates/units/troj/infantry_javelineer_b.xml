@@ -15,7 +15,7 @@
     <SelectionGroupName>units/mace/infantry_javelineer_b</SelectionGroupName>
     <GenericName>Thracian Javelineer</GenericName>
     <SpecificName>Thracic Acontium</SpecificName>
-    <Icon>units/mace/infantry_javelinist.png</Icon>
+    <Icon>units/troj/infantry_javelinist.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>

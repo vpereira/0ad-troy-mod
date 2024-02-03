@@ -9,7 +9,7 @@
     <Lang>greek</Lang>
     <GenericName>Trojan Warship</GenericName>
     <SpecificName>Troikó polemikó ploío</SpecificName>
-    <Icon>units/pers/ship_arrow.png</Icon>
+    <Icon>units/troj/ship_arrow.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/trojans/ship_warship.xml</Actor>

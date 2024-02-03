@@ -6,7 +6,7 @@
     <GenericName>City Guard</GenericName>
     <SpecificName>Epilektos</SpecificName>
     <SelectionGroupName>units/rome/champion_infantry_swordsman</SelectionGroupName>
-    <Icon>units/iber/champion_infantry.png</Icon>
+    <Icon>units/troj/champion_infantry.png</Icon>
   </Identity>
   <Health>
     <Max>220</Max>

@@ -14,7 +14,7 @@
     <GenericName>Aethiopian Kings Guard</GenericName>
     <SpecificName>rs ʿIprmk</SpecificName>
     <Classes datatype="tokens">ApedemakGuard</Classes>
-    <Icon>units/kush/champion_apedemak.png</Icon>
+    <Icon>units/troj/champion_apedemak.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/trojans/infantry_axeman_c.xml</Actor>

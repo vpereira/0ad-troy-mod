@@ -17,7 +17,7 @@
     <GenericName>Amazonian Javelineer Cavalry</GenericName>
     <SpecificName>Ippikó tou Amazoníou</SpecificName>
     <Phenotype>female</Phenotype>
-    <Icon>units/pers/cavalry_javelinist.png</Icon>
+    <Icon>units/troj/cavalry_javelinist.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>

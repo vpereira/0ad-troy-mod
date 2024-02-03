@@ -12,7 +12,7 @@
     <Lang>greek</Lang>
     <GenericName>Rundiyan Guard Archer</GenericName>
     <SpecificName>Rountigián Toxotes</SpecificName>
-    <Icon>units/athen/champion_ranged.png</Icon>
+    <Icon>units/troj/champion_ranged.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/persians/infantry_archer_e.xml</Actor>

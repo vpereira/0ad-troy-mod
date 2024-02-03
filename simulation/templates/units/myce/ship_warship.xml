@@ -10,7 +10,7 @@
   <Identity>
     <Civ>myce</Civ>
     <SpecificName>Polemikó ploío Ithákis</SpecificName>
-    <Icon>units/ptol/ship_arrow.png</Icon>
+    <Icon>units/hele/ship_arrow.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/myce/ship_warship.xml</Actor>

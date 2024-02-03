@@ -6,7 +6,7 @@
     <SelectionGroupName>units/pers/cavalry_spearman_b</SelectionGroupName>
     <GenericName>Trojan Cavalry</GenericName>
     <SpecificName>Ippikó lónchi</SpecificName>
-    <Icon>units/pers/cavalry_spearman.png</Icon>
+    <Icon>units/troj/cavalry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>

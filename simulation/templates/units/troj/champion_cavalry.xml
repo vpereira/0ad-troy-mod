@@ -18,7 +18,7 @@
     <Lang>greek</Lang>
     <GenericName>City Guard</GenericName>
     <SpecificName>Epilektoi Ippiko</SpecificName>
-    <Icon>units/pers/champion_cavalry.png</Icon>
+    <Icon>units/troj/champion_cavalry.png</Icon>
   </Identity>
  <Loot>
     <metal op="add">1</metal>

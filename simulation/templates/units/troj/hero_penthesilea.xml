@@ -8,7 +8,7 @@
     <GenericName>Penthesilea</GenericName>
     <SpecificName> </SpecificName>
     <Phenotype>female</Phenotype>
-    <Icon>units/brit/hero_boudicca.png</Icon>
+    <Icon>units/troj/hero_boudicca.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/trojans/hero_penthesilea_m.xml</Actor>
