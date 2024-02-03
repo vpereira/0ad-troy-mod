@@ -16,7 +16,7 @@
     <SelectionGroupName>units/spart/cavalry_spearman_b</SelectionGroupName>
     <GenericName>Cretan Mercenary Cavalry</GenericName>
     <SpecificName>Hippeús Kritikos</SpecificName>
-    <Icon>units/spart/cavalry_spearman.png</Icon>
+    <Icon>units/ptol/cavalry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
