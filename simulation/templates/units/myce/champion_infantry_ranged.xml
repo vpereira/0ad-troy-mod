@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_ranged_javelineer">
+ <Cost>
+    <Resources>
+      <food op="mul_round">1.6</food>
+      <wood op="mul_round">1.6</wood>
+      <stone op="mul_round">0</stone>
+      <metal op="add">60</metal>
+    </Resources>
+  </Cost>
  <Attack>
     <Ranged>
       <Damage>
