@@ -25,6 +25,7 @@
     <GenericName>Ithacaean Peltast</GenericName>
     <SpecificName>Ithákis Akontistís</SpecificName>
     <Icon>units/hele/champion_ranged_polis.png</Icon>
+   <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
