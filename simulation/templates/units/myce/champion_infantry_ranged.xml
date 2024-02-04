@@ -30,4 +30,6 @@
   <VisualActor>
     <Actor>units/myce/infantry_javelineer_c.xml</Actor>
   </VisualActor>
+   <ResourceGatherer disable=""/>
+   <Builder disable=""/>
 </Entity>
