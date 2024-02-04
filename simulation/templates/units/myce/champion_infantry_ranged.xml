@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_ranged_javelineer">
- <Cost>
-    <Resources>
-      <food op="mul_round">1.6</food>
-      <wood op="mul_round">1.6</wood>
-      <stone op="mul_round">0</stone>
-      <metal op="add">60</metal>
-    </Resources>
-  </Cost>
- <Attack>
-    <Ranged>
-      <Damage>
-        <Pierce op="mul">2</Pierce>
-      </Damage>
-    </Ranged>
-  </Attack>
-  <Health>
-    <Max op="mul">2.4</Max>
-  </Health>
+<Entity parent="template_unit_champion_infantry_javelineer">
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
@@ -27,10 +9,7 @@
     <Icon>units/hele/champion_ranged_polis.png</Icon>
    <RequiredTechnology>phase_city</RequiredTechnology>
   </Identity>
-  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/myce/infantry_javelineer_c.xml</Actor>
   </VisualActor>
-   <ResourceGatherer disable=""/>
-   <Builder disable=""/>
 </Entity>
