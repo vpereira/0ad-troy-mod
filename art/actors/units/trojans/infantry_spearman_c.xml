@@ -22,17 +22,17 @@
   <group>
     <variant frequency="1" name="Helmet-Thracian-Bronze-Black">
       <props>
-        <prop actor="props/units/helmets/iber_helmet_montefortino_01.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet-Thracian-Bronze">
       <props>
-        <prop actor="props/units/helmets/iber_helmet_montefortino_01.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet-Phrygian-Bronze">
       <props>
-        <prop actor="props/units/helmets/iber_helmet_montefortino_01.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
