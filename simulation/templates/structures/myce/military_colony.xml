@@ -6,7 +6,7 @@
   </Footprint>
   <Identity>
     <Civ>myce</Civ>
-    <SpecificName>stratópedo</SpecificName>
+    <SpecificName>Stratópedo</SpecificName>
     <Classes datatype="tokens">CivSpecific</Classes>
   </Identity>
   <Obstruction>

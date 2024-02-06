@@ -6,9 +6,9 @@
   </Identity>
   <Trainer>
     <Entities datatype="tokens">
-      -units/{civ}/cavalry_javelineer_b
-      -units/{civ}/cavalry_spearman_b
-      -units/{civ}/champion_chariot
+      units/{civ}/cavalry_javelineer_b
+      units/{civ}/cavalry_spearman_b
+      units/{civ}/champion_chariot
     </Entities>
   </Trainer>
   <Obstruction>

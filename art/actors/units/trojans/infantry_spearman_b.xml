@@ -14,12 +14,12 @@
   <group>
     <variant frequency="1" name="Helmet-Thracian-Bronze-01">
       <props>
-        <prop actor="props/units/helmets/iber_helmet_montefortino_01.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_pilos.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet-Thracian-Bronze-02">
       <props>
-        <prop actor="props/units/helmets/iber_helmet_montefortino_01.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_pilos.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
@@ -29,14 +29,14 @@
         <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
-    <variant frequency="1" name="Hele Phrygian Helmet-02">
+    <variant frequency="2" name="Hele Phrygian Helmet-02">
       <props>
         <prop actor="props/units/shields/pelta_thra_elite.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
-    <variant frequency="1" name="Hele Phrygian Helmet-02">
+    <variant frequency="3" name="Hele Phrygian Helmet-02">
       <props>
-        <prop actor="props/units/shields/celt_round_swirl.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
   </group>
