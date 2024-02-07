@@ -10,7 +10,7 @@
         <prop actor="props/units/weapons/csword.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/kush_beja_reinforced_gold_rhino.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/capes/cape_med_swordsman_alexander.xml" attachpoint="root"/>
-        <prop actor="props/units/weapons/sheath_celt_iron_e.xml" attachpoint="sheath_02_L"/>
+        <prop actor="props/units/weapons/sheath_celt_iron_e.xml" attachpoint="sheath_01_L"/>
       </props>
     </variant>
   </group>
