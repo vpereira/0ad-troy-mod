@@ -73,12 +73,12 @@
         <prop actor="props/units/shields/pelta_thra_elite.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
-    <variant frequency="2" name="Hele Phrygian Helmet-02">
+    <variant frequency="2" name="Hele Phrygian Helmet-03">
       <props>
         <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
-    <variant frequency="3" name="Hele Phrygian Helmet-02">
+    <variant frequency="3" name="Hele Phrygian Helmet-04">
       <props>
         <prop actor="props/units/shields/kush_beja_reinforced_rhino.xml" attachpoint="shield_arm"/>
       </props>
