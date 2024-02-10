@@ -10,6 +10,7 @@
         <prop actor="props/units/heads/new/head_hele_e.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/kush_beja_reinforced_gold_rhino.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/armor/pers_neckguard_iron.xml" attachpoint="root"/>
         <prop actor="props/units/weapons/sheath_celt_iron.xml" attachpoint="sheath_02_L"/>
       </props>
       <textures>
