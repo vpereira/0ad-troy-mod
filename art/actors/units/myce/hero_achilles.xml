@@ -9,7 +9,7 @@
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/iber_round_viriato.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/helmets/hele_chalcidean_a4.xml" attachpoint="helmet"/>
-        <prop actor="props/units/capes/cape_long_player.xml" attachpoint="root"/>
+        <prop actor="props/units/armor/pers_neckguard_bronze.xml" attachpoint="root"/>
         <prop actor="props/units/weapons/sheath_celt_iron.xml" attachpoint="sheath_02_L"/>
       </props>
       <textures>
