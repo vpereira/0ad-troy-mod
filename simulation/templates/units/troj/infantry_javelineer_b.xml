@@ -24,6 +24,6 @@
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/athenians/infantry_javelinist_b.xml</Actor>
+    <Actor>units/athenians/infantry_javelinist_e.xml</Actor>
   </VisualActor>
 </Entity>
