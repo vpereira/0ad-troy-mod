@@ -8,7 +8,7 @@
         <prop actor="props/units/heads/new/head_hele_e.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/weapons/sheath_celt_iron.xml" attachpoint="sheath_02_L"/>
-        <prop actor="props/units/capes/cape_long_player.xml" attachpoint="root"/>
+        <prop actor="props/units/armor/pers_neckguard_bronze.xml" attachpoint="root"/>
       </props>
     </variant>
   </group>
@@ -55,17 +55,17 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Hele Phrygian Helmet-02">
+    <variant frequency="1" name="Hele Phrygian Helmet-05">
       <props>
         <prop actor="props/units/shields/pelta_thra_elite.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
-    <variant frequency="2" name="Hele Phrygian Helmet-02">
+    <variant frequency="2" name="Hele Phrygian Helmet-06">
       <props>
         <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
-    <variant frequency="3" name="Hele Phrygian Helmet-02">
+    <variant frequency="3" name="Hele Phrygian Helmet-07">
       <props>
         <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
       </props>
