@@ -72,16 +72,10 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="cuirass-2a">
+    <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="baseTex"/>
-        <texture file="skeletal/pers/scale_02_06.png" name="specTex"/>
-      </textures>
-    </variant>
-    <variant frequency="5" name="cuirass-2b">
-      <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="baseTex"/>
-        <texture file="skeletal/pers/scale_02_06.png" name="specTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass-2c">
@@ -89,17 +83,23 @@
         <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
         <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
       </textures>
-    </variant>mit 
-    <variant frequency="1" name="cuirass-2d">
+    </variant>
+    <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="baseTex"/>
-        <texture file="skeletal/pers/scale_02_06.png" name="specTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="cuirass-2e">
+    <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="baseTex"/>
-        <texture file="skeletal/pers/scale_02_06.png" name="specTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-2c">
+      <textures>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
       </textures>
     </variant>
   </group>
