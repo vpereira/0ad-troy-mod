@@ -3,6 +3,9 @@
   <Health>
     <Max op="add">450</Max>
   </Health>
+  <GarrisonHolder>
+    <Max>35</Max>
+  </GarrisonHolder>
   <Footprint>
     <Square width="10.0" depth="40.0"/>
     <Height>8.0</Height>
