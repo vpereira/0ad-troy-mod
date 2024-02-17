@@ -12,6 +12,9 @@
   <Health>
     <Max op="mul">1.25</Max>
   </Health>
+  <GarrisonHolder>
+    <Max>1</Max>
+  </GarrisonHolder>
   <Footprint replace="">
     <Square width="11.0" depth="11.0"/>
     <Height>6.0</Height>
