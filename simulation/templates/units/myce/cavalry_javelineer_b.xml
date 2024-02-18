@@ -2,6 +2,7 @@
 <Entity parent="template_unit_cavalry_ranged_javelineer">
   <Identity>
     <Civ>myce</Civ>
+    <Lang>greek</Lang>
     <SelectionGroupName>units/athen/cavalry_javelineer_b</SelectionGroupName>
     <GenericName>Boeotian Cavalry</GenericName>
     <SpecificName>Boiotikó Ippikó</SpecificName>
