@@ -2,6 +2,7 @@
 <Entity parent="template_unit_infantry_ranged_archer">
   <Identity>
     <Civ>troj</Civ>
+    <Lang>persian</Lang>
     <SelectionGroupName>units/cart/infantry_archer_b</SelectionGroupName>
     <GenericName>Trojan Archer</GenericName>
     <SpecificName>Doúreios toxótis</SpecificName>
