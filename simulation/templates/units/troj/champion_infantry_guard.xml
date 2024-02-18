@@ -2,7 +2,7 @@
 <Entity parent="template_unit_champion_infantry_swordsman">
   <Identity>
     <Civ>troj</Civ>
-    <Lang>greek</Lang>
+    <Lang>persian</Lang>
     <GenericName>City Guard</GenericName>
     <SpecificName>Epilektos</SpecificName>
     <SelectionGroupName>units/rome/champion_infantry_swordsman</SelectionGroupName>
