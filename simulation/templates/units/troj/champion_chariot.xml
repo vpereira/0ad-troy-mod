@@ -10,10 +10,12 @@
     </Resources>
   </Cost>
   <Health>
-    <Max op="mul">1.25</Max>
+    <Max op="mul">1.5</Max>
   </Health>
   <GarrisonHolder>
     <Max>1</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Infantry</List>
   </GarrisonHolder>
   <Footprint replace="">
@@ -40,8 +42,8 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">-2</Hack>
-        <Pierce op="add">2</Pierce>
+        <Hack op="add">-1</Hack>
+        <Pierce op="add">4</Pierce>
       </Damage>
     </Entity>
   </Resistance>
