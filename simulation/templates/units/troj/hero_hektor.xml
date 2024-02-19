@@ -5,6 +5,7 @@
   </Auras>
   <Identity>
     <Civ>troj</Civ>
+    <Lang>persian</Lang>
     <SpecificName>Hektor</SpecificName>
     <Icon>units/troj/hero_ptolemy_I.png</Icon>
   </Identity>

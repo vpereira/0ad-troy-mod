@@ -12,13 +12,17 @@
   <Health>
     <Max op="mul">1.25</Max>
   </Health>
+  <GarrisonHolder>
+    <Max>1</Max>
+    <List datatype="tokens">Infantry</List>
+  </GarrisonHolder>
   <Footprint replace="">
     <Square width="11.0" depth="11.0"/>
     <Height>6.0</Height>
   </Footprint>
   <Identity>
     <Civ>troj</Civ>
-    <Lang>greek</Lang>
+    <Lang>persian</Lang>
     <GenericName>Trojan Scythed Chariot</GenericName>
     <SpecificName>Troikó drepáni árma</SpecificName>
     <Icon>units/troj/chariot_archer.png</Icon>

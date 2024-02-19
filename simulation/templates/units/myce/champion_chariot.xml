@@ -12,6 +12,10 @@
   <Health>
     <Max op="mul">1.25</Max>
   </Health>
+  <GarrisonHolder>
+    <Max>1</Max>
+    <List datatype="tokens">Infantry</List>
+  </GarrisonHolder>
   <Footprint replace="">
     <Square width="11.0" depth="11.0"/>
     <Height>6.0</Height>
@@ -20,8 +24,8 @@
     <Civ>myce</Civ>
     <Lang>greek</Lang>
     <GenericName>Trojan Scythed Chariot</GenericName>
-    <SpecificName>mykinaïkós drepáni árma</SpecificName>
-    <Icon>units/hele/champion_chariot.png</Icon>
+    <SpecificName>Mykinaïkós drepáni árma</SpecificName>
+    <Icon>units/hele/chariot_archer.png</Icon>
   </Identity>
   <Loot>
     <food op="mul_round">1.2</food>

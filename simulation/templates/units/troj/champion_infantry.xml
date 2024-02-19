@@ -2,6 +2,7 @@
 <Entity parent="hoplite|template_unit_champion_infantry_spearman">
   <Identity>
     <Civ>troj</Civ>
+    <Lang>persian</Lang>
     <GenericName>Rundiyan Guard</GenericName>
     <SpecificName>Rountigián Muhafızı</SpecificName>
     <Icon>units/troj/champion_infantry_hoplite.png</Icon>

@@ -6,6 +6,7 @@
   </Builder> 
   <Identity>
     <Civ>troj</Civ>
+    <Lang>persian</Lang>
     <SpecificName>Kadın</SpecificName>
     <GenericName>Trojan Woman</GenericName>
     <Icon>units/cart/support_female_citizen.png</Icon>

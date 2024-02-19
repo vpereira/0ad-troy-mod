@@ -6,7 +6,6 @@
   </Footprint>
   <Identity>
     <Civ>troj</Civ>
-    <Lang>greek</Lang>
     <GenericName>Trojan Trade Ship</GenericName>
     <SpecificName>Emporos</SpecificName>
     <Icon>units/hele/ship_merchant.png</Icon>

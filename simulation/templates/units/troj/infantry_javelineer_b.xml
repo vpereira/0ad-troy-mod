@@ -17,6 +17,7 @@
   </Health>
   <Identity>
     <Civ>troj</Civ>
+    <Lang>greek</Lang>
     <SelectionGroupName>units/mace/infantry_javelineer_b</SelectionGroupName>
     <GenericName>Thracian Javelineer</GenericName>
     <SpecificName>Thracic Acontium</SpecificName>

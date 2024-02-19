@@ -17,6 +17,7 @@
   </Health>
   <Identity>
     <Civ>myce</Civ>
+    <Lang>greek</Lang>
     <GenericName>Cretan Mercenary Swordsman</GenericName>
     <SpecificName>Kritikós Misthophóros Xiphomáchos</SpecificName>
     <SelectionGroupName>units/iber/infantry_swordsman</SelectionGroupName>

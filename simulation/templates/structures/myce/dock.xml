@@ -11,6 +11,11 @@
   <Obstruction>
     <Static width="25.0" depth="29.0"/>
   </Obstruction>
+  <Trainer>
+    <Entities replace="" datatype="tokens">
+      units/{civ}/ship_warship
+    </Entities>
+  </Trainer>
   <VisualActor>
     <Actor>structures/ptolemies/dock.xml</Actor>
     <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>

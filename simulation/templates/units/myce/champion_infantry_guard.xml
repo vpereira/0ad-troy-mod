@@ -6,7 +6,7 @@
     <GenericName>Athenian Bodyguard</GenericName>
     <SpecificName>Agema Athinaíos</SpecificName>
     <SelectionGroupName>units/rome/champion_infantry_swordsman</SelectionGroupName>
-    <Icon>units/rome/champion_infantry.png</Icon>
+    <Icon>units/hele/champion_infantry.png</Icon>
   </Identity>
   <Health>
     <Max>250</Max>
