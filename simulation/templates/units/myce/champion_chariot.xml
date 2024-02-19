@@ -14,6 +14,7 @@
   </Health>
   <GarrisonHolder>
     <Max>1</Max>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Infantry</List>
   </GarrisonHolder>
   <Footprint replace="">
