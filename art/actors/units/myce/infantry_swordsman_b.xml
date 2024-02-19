@@ -9,7 +9,6 @@
         <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield"/>
         <prop actor="props/units/weapons/csword.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/weapons/sheath_celt_iron_e.xml" attachpoint="sheath_02_L"/>
-        <prop actor="props/units/armor/pers_neckguard_bronze_archer.xml" attachpoint="root"/>
       </props>
     </variant>
   </group>
