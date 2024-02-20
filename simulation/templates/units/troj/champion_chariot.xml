@@ -17,6 +17,7 @@
     <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Infantry</List>
+    <BuffHeal>0</BuffHeal>
   </GarrisonHolder>
   <Footprint replace="">
     <Square width="11.0" depth="11.0"/>
