@@ -39,6 +39,11 @@
         <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
+    <variant frequency="4" name="Hele Phrygian Helmet-06">
+      <props>
+        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
+      </props>
+    </variant>
   </group>
   <group>
     <variant frequency="1" name="tunic_01_01">
