@@ -20,9 +20,9 @@
     <Civ>myce</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/cavalry_spearman_b</SelectionGroupName>
-    <GenericName>Cretan Mercenary Cavalry</GenericName>
+    <GenericName>Cretan Cavalry</GenericName>
     <SpecificName>Hippeús Kritikos</SpecificName>
-    <Icon>units/hele/cavalry_spearman.png</Icon>
+    <Icon>units/troj/cavalry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
