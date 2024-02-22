@@ -16,7 +16,7 @@
     <Entities replace="" datatype="tokens">
       units/{civ}/support_female_citizen
       units/{civ}/infantry_archer_b
-      units/{civ}/infantry_swordsman_b
+      units/{civ}/infantry_spearman_b2
       units/{civ}/cavalry_spearman_b
     </Entities>
   </Trainer>
