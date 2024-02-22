@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_melee_swordsman">
+<Entity parent="template_unit_infantry_melee_spearman">
   <Cost>
     <Resources>
       <metal op="add">30</metal>
@@ -18,13 +18,13 @@
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
-    <GenericName>Cretan Mercenary Swordsman</GenericName>
-    <SpecificName>Kritikós Misthophóros Xiphomáchos</SpecificName>
+    <GenericName>Cretan Heavy Spearman</GenericName>
+    <SpecificName>Kritikós Hoplitis</SpecificName>
     <SelectionGroupName>units/iber/infantry_swordsman</SelectionGroupName>
-    <Icon>units/cart/infantry_swordsman.png</Icon>
+    <Icon>units/cart/infantry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/myce/infantry_swordsman_b.xml</Actor>
+    <Actor>units/myce/infantry_spearman_b2.xml</Actor>
   </VisualActor>
 </Entity>
