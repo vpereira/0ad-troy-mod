@@ -19,8 +19,8 @@
     <Civ>myce</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/cart/infantry_archer</SelectionGroupName>
-    <GenericName>Cretan Mercenary Archer</GenericName>
-    <SpecificName>Kritikós Misthofóros Toxótis</SpecificName>
+    <GenericName>Locrian Archer</GenericName>
+    <SpecificName>Lokrós Toxótis</SpecificName>
     <Icon>units/hele/infantry_archer.png</Icon>
   </Identity>
   <Promotion disable=""/>
