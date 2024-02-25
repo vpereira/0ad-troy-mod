@@ -2,6 +2,7 @@
 <Entity parent="hoplite|template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
      myce/agamemnon
+     troj/hektor
   </Auras>
   <Identity>
     <Civ>myce</Civ>
