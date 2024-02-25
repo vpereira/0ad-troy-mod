@@ -2,6 +2,7 @@
 <Entity parent="template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
     troj/memnon
+    troj/penthesilea
   </Auras>
   <Identity>
     <Civ>troj</Civ>
