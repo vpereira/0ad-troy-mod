@@ -4,8 +4,8 @@
     <Civ>troj</Civ>
     <Lang>persian</Lang>
     <SelectionGroupName>units/cart/infantry_spearman_b</SelectionGroupName>
-    <GenericName>Trojan Spearman</GenericName>
-    <SpecificName>Doúreios lónchis</SpecificName>
+    <GenericName>Trojan People</GenericName>
+    <SpecificName>Doúreios Laos</SpecificName>
     <Icon>units/cart/infantry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
