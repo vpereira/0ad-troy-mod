@@ -3,7 +3,7 @@
 	"radius": 120,
 	"affects": ["Human", "Siege", "Ship"],
 	"modifications": [
-		{ "value": "Looter/Resource/metal", "add": 20 }
+		{ "value": "Looter/Resource/metal", "add": 30 }
 	],
 	"auraName": "Armor removal",
 	"auraDescription": "Humans, Siege Engines, and Ships gain +20 metal loot."

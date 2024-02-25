@@ -2,6 +2,7 @@
 <Entity parent="template_unit_hero_cavalry_javelineer">
   <Auras datatype="tokens">
     troj/penthesilea
+    troj/hektor
   </Auras>
   <Identity>
     <Civ>troj</Civ>

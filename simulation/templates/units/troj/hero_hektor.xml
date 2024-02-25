@@ -2,6 +2,7 @@
 <Entity parent="template_unit_hero_infantry_swordsman">
   <Auras datatype="tokens">
     troj/hektor
+    troj/penthesilea
   </Auras>
   <Identity>
     <Civ>troj</Civ>
