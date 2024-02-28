@@ -14,11 +14,6 @@
   <Obstruction>
     <Static width="22.0" depth="23.0"/>
   </Obstruction>
-  <Researcher>
-    <Technologies datatype="tokens">
-      barracks_batch_training
-    </Technologies>
-  </Researcher>
   <VisualActor>
     <Actor>structures/carthaginians/barracks.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
