@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_structure_military_barracks_mod">
+<Entity parent="template_structure_military_barracks">
   <Footprint>
     <Square width="24.0" depth="25.0"/>
     <Height>15.0</Height>
@@ -14,6 +14,11 @@
   <Obstruction>
     <Static width="22.0" depth="23.0"/>
   </Obstruction>
+  <Researcher>
+    <Technologies datatype="tokens">
+      barracks_batch_training
+    </Technologies>
+  </Researcher>
   <VisualActor>
     <Actor>structures/carthaginians/barracks.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
