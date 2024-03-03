@@ -7,8 +7,8 @@
     <Civ>myce</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/infantry_spearman_b</SelectionGroupName>
-    <GenericName>Achaean Hoplite</GenericName>
-    <SpecificName>Achaiós Hoplítis</SpecificName>
+    <GenericName>Achaean People</GenericName>
+    <SpecificName>Achaiós Laos</SpecificName>
     <Icon>units/hele/infantry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
