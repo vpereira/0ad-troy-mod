@@ -18,7 +18,8 @@
       <Projectile>
         <Spread>0</Spread>
       </Projectile>
-      <RepeatTime>1500</RepeatTime>
+      <PrepareTime>800</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
     </Ranged>
   </Attack>
   <Identity>
