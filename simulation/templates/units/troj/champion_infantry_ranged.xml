@@ -2,9 +2,24 @@
 <Entity parent="template_unit_champion_infantry_archer">
   <Attack>
     <Ranged>
-      <Damage>
-        <Pierce op="mul">1.25</Pierce>
+      <ApplyStatus>
+        <Burning>
+          <Interval>3000</Interval>
+          <Damage>
+            <Fire>10</Fire>
+          </Damage>
+          <Stackability>Stack</Stackability>
+          <Duration>9000</Duration>
+        </Burning>
+      </ApplyStatus>
+     <Damage>
+        <Pierce>15</Pierce>
       </Damage>
+      <Projectile>
+        <Spread>0</Spread>
+      </Projectile>
+      <PrepareTime>800</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
     </Ranged>
   </Attack>
   <Identity>
