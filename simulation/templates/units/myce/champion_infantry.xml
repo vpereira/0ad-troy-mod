@@ -4,11 +4,11 @@
     myce/achilles_01
   </Auras>
   <Cost>
-    <BuildTime op="mul">1.5</BuildTime>
+    <BuildTime op="mul">1.375</BuildTime>
     <Resources>
-      <food op="mul_round">1.5</food>
-      <wood op="mul_round">1.5</wood>
-      <stone op="mul_round">1.5</stone>
+      <food op="mul_round">1.25</food>
+      <wood op="mul_round">1.25</wood>
+      <stone op="mul_round">1.25</stone>
       <metal op="mul_round">1.5</metal>
     </Resources>
   </Cost>
