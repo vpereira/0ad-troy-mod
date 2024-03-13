@@ -9,7 +9,7 @@
     <Icon>units/hele/champion_infantry.png</Icon>
   </Identity>
   <Health>
-    <Max>250</Max>
+    <Max>225</Max>
   </Health>
   <VisualActor>
     <Actor>units/romans/infantry_swordsman_c.xml</Actor>
