@@ -22,6 +22,10 @@
       units/{civ}/champion_infantry
     </Entities>
   </Trainer>
+  <ResourceDropsite>
+    <Types>food wood stone metal</Types>
+    <Sharable>true</Sharable>
+  </ResourceDropsite>
   <VisualActor>
     <Actor>structures/persians/fortress.xml</Actor>
   </VisualActor>
