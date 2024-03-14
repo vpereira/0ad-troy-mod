@@ -8,9 +8,15 @@
     <SelectionGroupName>units/rome/champion_infantry_swordsman</SelectionGroupName>
     <Icon>units/hele/champion_infantry.png</Icon>
   </Identity>
-  <Health>
-    <Max>225</Max>
-  </Health>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">3</Hack>
+        <Pierce op="add">7</Pierce>
+        <Crush op="add">4</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
   <VisualActor>
     <Actor>units/romans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
