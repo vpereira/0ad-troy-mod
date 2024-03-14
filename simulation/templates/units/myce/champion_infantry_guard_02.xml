@@ -8,7 +8,7 @@
     <Icon>units/hele/champion_infantry_spear.png</Icon>
   </Identity>
   <Health>
-    <Max>250</Max>
+    <Max>240</Max>
   </Health>
   <VisualActor>
     <Actor>units/myce/infantry_spearman_c2.xml</Actor>

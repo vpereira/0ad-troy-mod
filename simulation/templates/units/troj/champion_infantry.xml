@@ -10,9 +10,9 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">2.5</Hack>
-        <Pierce op="add">0.5</Pierce>
-        <Crush op="add">1.5</Crush>
+        <Hack op="add">2</Hack>
+        <Pierce op="add">3</Pierce>
+        <Crush op="add">2.5</Crush>
       </Damage>
     </Entity>
   </Resistance>

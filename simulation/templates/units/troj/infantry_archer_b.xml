@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_ranged_archer">
+  <Attack>
+    <Ranged>
+      <Damage>
+        <Pierce>7</Pierce>
+      </Damage>
+    </Ranged>
+  </Attack>
   <Identity>
     <Civ>troj</Civ>
     <Lang>persian</Lang>
