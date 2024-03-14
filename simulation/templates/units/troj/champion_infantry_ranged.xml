@@ -13,7 +13,7 @@
         </Burning>
       </ApplyStatus>
      <Damage>
-        <Pierce>15</Pierce>
+        <Pierce>20</Pierce>
       </Damage>
       <Projectile>
         <Speed>120</Speed>
