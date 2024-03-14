@@ -12,7 +12,7 @@
           <Duration>9000</Duration>
         </Burning>
       </ApplyStatus>
-     <Damage>
+      <Damage>
         <Pierce>20</Pierce>
       </Damage>
       <Projectile>
@@ -24,6 +24,16 @@
       </Projectile>
       <PrepareTime>800</PrepareTime>
       <RepeatTime>1000</RepeatTime>
+      <Bonuses>
+        <bonusStruct>
+          <Classes>Structure</Classes>
+          <Multiplier>50</Multiplier>
+        </bonusStruct>
+        <bonusSiege>
+          <Classes>Siege</Classes>
+          <Multiplier>30</Multiplier>
+        </bonusSiege>
+      </Bonuses>
     </Ranged>
   </Attack>
   <Identity>
