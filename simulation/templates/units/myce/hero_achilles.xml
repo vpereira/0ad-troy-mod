@@ -37,9 +37,7 @@
     <GenericName>Achilles</GenericName>
     <SpecificName> </SpecificName>
     <Icon>units/hele/hero_alexander.png</Icon>
-    <Tooltip>Counters: 3x vs. Heroes.
-                       4x vs. cavalry.
-    </Tooltip>
+    <Tooltip>Counters: 3x vs. Heroes. 4x vs. cavalry.</Tooltip>
   </Identity>
   <UnitMotion>
     <WalkSpeed op="mul_round">1.5</WalkSpeed>
