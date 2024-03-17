@@ -6,7 +6,7 @@
       <food op="mul_round">0.95</food>
       <wood op="mul_round">1</wood>
       <stone op="mul_round">1</stone>
-      <metal op="mul_round">20.95</metal>
+      <metal op="mul_round">0.95</metal>
     </Resources>
   </Cost>
    <Attack>
