@@ -13,7 +13,7 @@
     </Ranged>
   </Attack>
   <Health>
-    <Max op="mul">1.35</Max>
+    <Max op="mul">1.38</Max>
   </Health>
   <Identity>
     <Civ>troj</Civ>
