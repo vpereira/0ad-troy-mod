@@ -2,7 +2,7 @@
 <Entity parent="template_unit_infantry_ranged_javelineer">
   <Cost>
     <Resources>
-      <metal op="add">30</metal>
+      <metal op="add">10</metal>
     </Resources>
   </Cost>
   <Attack>
