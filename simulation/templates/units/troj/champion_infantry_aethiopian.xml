@@ -3,8 +3,8 @@
   <Attack>
     <Melee>
       <Damage>
-        <Hack op="add">2</Hack>
-        <Crush op="add">1</Crush>
+        <Hack op="add">3</Hack>
+        <Crush op="add">1.5</Crush>
       </Damage>
     </Melee>
   </Attack>
