@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_cavalry_melee_spearman">
+  <Cost>
+    <BuildTime op="mul_round">0.95</BuildTime>
+    <Resources>
+      <food op="mul_round">0.95</food>
+      <wood op="mul_round">1</wood>
+      <stone op="mul_round">1</stone>
+      <metal op="mul_round">0.95</metal>
+    </Resources>
+  </Cost>
   <Health>
     <Max op="mul">1.11</Max>
   </Health>
