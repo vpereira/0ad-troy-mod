@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_archer">
+  <Cost>
+    <BuildTime op="mul_round">0.9</BuildTime>
+    <Resources>
+      <food op="mul_round">0.9</food>
+      <wood op="mul_round">0.95</wood>
+      <stone op="mul_round">1</stone>
+      <metal op="mul_round">1.11</metal>
+    </Resources>
+  </Cost>
   <Attack>
     <Ranged>
       <ApplyStatus>
         <Burning>
           <Interval>3000</Interval>
           <Damage>
-            <Fire>10</Fire>
+            <Fire>6</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
           <Duration>9000</Duration>
         </Burning>
       </ApplyStatus>
-     <Damage>
+      <Damage>
         <Pierce>20</Pierce>
       </Damage>
       <Projectile>
@@ -24,6 +33,16 @@
       </Projectile>
       <PrepareTime>800</PrepareTime>
       <RepeatTime>1000</RepeatTime>
+      <Bonuses>
+        <bonusStruct>
+          <Classes>Structure</Classes>
+          <Multiplier>50</Multiplier>
+        </bonusStruct>
+        <bonusSiege>
+          <Classes>Siege</Classes>
+          <Multiplier>30</Multiplier>
+        </bonusSiege>
+      </Bonuses>
     </Ranged>
   </Attack>
   <Identity>
@@ -32,6 +51,7 @@
     <GenericName>Rundiyan Guard Archer</GenericName>
     <SpecificName>Rountigián Toxotes</SpecificName>
     <Icon>units/troj/champion_ranged.png</Icon>
+    <Tooltip>Counters: 50x vs. Structures. 30x vs. Siege Units</Tooltip>
   </Identity>
   <VisualActor>
     <Actor>units/persians/infantry_archer_e.xml</Actor>

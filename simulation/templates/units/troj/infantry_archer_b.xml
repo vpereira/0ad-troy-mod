@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_ranged_archer">
+  <Cost>
+    <BuildTime op="mul_round">0.9</BuildTime>
+    <Resources>
+      <food op="mul_round">0.9</food>
+      <wood op="mul_round">0.95</wood>
+      <stone op="mul_round">1</stone>
+      <metal op="mul_round">2</metal>
+    </Resources>
+  </Cost>
   <Attack>
     <Ranged>
       <Damage>
-        <Pierce>7</Pierce>
+        <Pierce>8</Pierce>
       </Damage>
     </Ranged>
   </Attack>

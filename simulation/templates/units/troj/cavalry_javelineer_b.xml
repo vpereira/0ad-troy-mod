@@ -2,7 +2,7 @@
 <Entity parent="template_unit_cavalry_ranged_javelineer">
   <Cost>
     <Resources>
-      <metal op="add">30</metal>
+      <metal op="add">15</metal>
     </Resources>
   </Cost>
   <Attack>
@@ -13,7 +13,7 @@
     </Ranged>
   </Attack>
   <Health>
-    <Max op="mul">1.25</Max>
+    <Max op="mul">1.38</Max>
   </Health>
   <Identity>
     <Civ>troj</Civ>
