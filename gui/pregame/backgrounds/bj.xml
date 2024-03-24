@@ -16,7 +16,7 @@
 	</sprite>
   <sprite name="AgamemnonCelebrating">
 		<image
-			texture="pregame/backgrounds/Agamemnon_celebrating.jpg"
+			texture="pregame/backgrounds/Agamemnon_celebrating.png"
 			fixed_h_aspect_ratio="2"
 			round_coordinates="false"
 		/>
