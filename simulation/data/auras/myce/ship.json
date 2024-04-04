@@ -1,0 +1,9 @@
+{
+	"type": "garrison",
+	"affects": ["Ship"],
+	"modifications": [
+		{ "value": "Attack/Melee/Damage/Pierce", "add": 6 }
+	],
+	"auraName": "Naval Warfare",
+	"auraDescription": "Ships −50% metal cost, construction time, and +15% movement speed."
+}
