@@ -2,6 +2,7 @@
 <Entity parent="hoplite|template_unit_champion_infantry_spearman">
   <Auras datatype="tokens">
     myce/achilles_01
+    myce/ship
   </Auras>
   <Cost>
     <BuildTime op="mul">1.375</BuildTime>
