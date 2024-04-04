@@ -5,7 +5,7 @@
     <Height>20</Height>
   </Footprint>
 <Health>
-    <Max>2000</Max>
+    <Max>12000</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
   </Health>
   <Identity>
