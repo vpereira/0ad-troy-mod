@@ -2,7 +2,7 @@
 <Entity parent="template_wallset">
   <Identity>
     <Civ>troj</Civ>
-    <SpecificName>Jdar</SpecificName>
+    <SpecificName>Teíchos</SpecificName>
   </Identity>
   <WallSet>
     <Templates>
