@@ -4,6 +4,9 @@
     <Square width="25.0" depth="8.0"/>
     <Height>13.0</Height>
   </Footprint>
+  <Health>
+    <Max>6000</Max>
+  </Health>
   <Identity>
     <Civ>troj</Civ>
     <SpecificName>Teíchos</SpecificName>
