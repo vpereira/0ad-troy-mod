@@ -4,6 +4,9 @@
     <Square width="37.0" depth="9.0"/>
     <Height>16.5</Height>
   </Footprint>
+  <Health>
+    <Max>7500</Max>
+  </Health>
   <Identity>
     <Civ>troj</Civ>
     <SpecificName>Stóchos</SpecificName>
