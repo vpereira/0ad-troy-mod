@@ -19,7 +19,7 @@
     </variant>
   </group>
   <group>
-    <variant file="biped/rider/cavalry/base_swordsman_relax.xml" name="Swordsman-Relax" frequency="1"/>
+    <variant file="biped/rider/cavalry/base_swordsman_ready_shield_aspis.xml" name="Swordsman-Ready-Aspis" frequency="1"/>
     <variant file="biped/rider/death.xml"/>
   </group>
   <material>player_trans_norm_spec.xml</material>
