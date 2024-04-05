@@ -4,9 +4,12 @@
     <Square width="13" depth="8"/>
     <Height>13</Height>
   </Footprint>
+  <Health>
+    <Max>3000</Max>
+  </Health>
   <Identity>
     <Civ>troj</Civ>
-    <SpecificName>Homah</SpecificName>
+    <SpecificName>Teíchos</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="12" depth="7"/>

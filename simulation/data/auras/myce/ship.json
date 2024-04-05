@@ -1,0 +1,10 @@
+{
+	"type": "garrison",
+	"affects": ["Ship"],
+	"modifications": [
+		{ "value": "Attack/Melee/Damage/Pierce", "add": 6 }
+	],
+	"auraName": "Naval Warfare",
+	"auraDescription": "Ships +6 melee pierce damage"
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

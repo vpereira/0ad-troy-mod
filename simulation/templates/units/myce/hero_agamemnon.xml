@@ -3,6 +3,7 @@
   <Auras datatype="tokens">
     myce/agamemnon
     troj/penthesilea
+    myce/ship
   </Auras>
   <Identity>
     <Civ>myce</Civ>

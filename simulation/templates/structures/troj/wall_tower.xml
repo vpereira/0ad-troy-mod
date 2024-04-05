@@ -4,12 +4,13 @@
     <Square width="12" depth="12"/>
     <Height>20</Height>
   </Footprint>
-  <Health>
-    <SpawnEntityOnDeath>decay|rubble/rubble_stone_2x2</SpawnEntityOnDeath>
+<Health>
+    <Max>12000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
   </Health>
   <Identity>
     <Civ>troj</Civ>
-    <SpecificName>Mijdil</SpecificName>
+    <SpecificName>Amyntikós pýrgos</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="11" depth="11"/>

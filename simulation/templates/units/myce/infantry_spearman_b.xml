@@ -3,6 +3,9 @@
   <Health>
     <Max op="mul">1.11</Max>
   </Health>
+  <Auras datatype="tokens">
+    myce/ship
+  </Auras>
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
