@@ -5,5 +5,6 @@
 		{ "value": "Attack/Melee/Damage/Pierce", "add": 6 }
 	],
 	"auraName": "Naval Warfare",
-	"auraDescription": "Ships −50% metal cost, construction time, and +15% movement speed."
+	"auraDescription": "Ships +6 melee pierce damage"
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }
