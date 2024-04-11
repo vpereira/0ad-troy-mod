@@ -5,7 +5,7 @@
     <variant>
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
-        <prop actor="props/units/helmets/iber_helmet_montefortino_01.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_pilos_crested_transversal.xml" attachpoint="helmet"/>
         <prop actor="props/units/heads/new/head_iber_hero_1.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/csword.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/kush_beja_reinforced_gold_rhino.xml" attachpoint="shield_arm"/>
