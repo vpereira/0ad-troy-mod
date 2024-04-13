@@ -26,6 +26,11 @@
     <Types>food wood stone metal</Types>
     <Sharable>true</Sharable>
   </ResourceDropsite>
+  <TerritoryInfluence>
+    <Root>true</Root>
+    <Radius>140</Radius>
+    <Weight>10000</Weight>
+  </TerritoryInfluence>
   <VisualActor>
     <Actor>structures/persians/fortress.xml</Actor>
   </VisualActor>
