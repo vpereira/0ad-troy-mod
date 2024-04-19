@@ -36,9 +36,11 @@
   </Footprint>
   <GarrisonHolder>
     <Max>35</Max>
+    <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">FemaleCitizen Infantry Dog</EjectClassesOnDestroy>
     <List datatype="tokens">Siege</List>
     <LoadingRange>10</LoadingRange>
+    <BuffHeal>0.5</BuffHeal>
   </GarrisonHolder>
   <Health>
     <Max>1500</Max>
