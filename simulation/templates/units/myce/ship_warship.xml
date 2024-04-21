@@ -10,6 +10,6 @@
     <Icon>units/hele/ship_arrow.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/myce/ship_warship.xml</Actor>
+    <Actor>structures/athenians/trireme.xml</Actor>
   </VisualActor>
 </Entity>
