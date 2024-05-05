@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_ship_bireme">
   <GarrisonHolder>
-    <Max>35</Max>
+    <Max>40</Max>
     <List datatype="tokens">Siege</List>
   </GarrisonHolder>
   <Footprint>
@@ -14,6 +14,6 @@
     <Icon>units/hele/ship_arrow.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/athenians/trireme.xml</Actor>
+    <Actor>structures/carthaginians/bireme.xml</Actor>
   </VisualActor>
 </Entity>
