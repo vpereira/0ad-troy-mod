@@ -37,7 +37,7 @@
     <Lang>greek</Lang>
     <GenericName>Achilles</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/hele/hero_alexander.png</Icon>
+    <Icon>units/hele/hero_achilles.png</Icon>
     <Tooltip>Counters: 3x vs. Heroes. 4x vs. cavalry.</Tooltip>
   </Identity>
   <Loot>
