@@ -16,6 +16,7 @@
       units/{civ}/ship_warship
       units/{civ}/ship_fishing
       units/{civ}/ship_merchant
+      units/{civ}/champion_infantry_marine
     </Entities>
   </Trainer>
   <VisualActor>
