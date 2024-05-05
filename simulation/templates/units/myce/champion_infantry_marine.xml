@@ -10,6 +10,9 @@
     <SpecificName>Itháki Epibátēs</SpecificName>
     <Icon>units/hele/champion_pikeman.png</Icon>
   </Identity>
+  <Health>
+    <Max>240</Max>
+  </Health>
   <VisualActor>
     <Actor>units/myce/infantry_pikeman_c.xml</Actor>
   </VisualActor>
