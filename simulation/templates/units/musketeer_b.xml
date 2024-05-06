@@ -8,7 +8,6 @@
         <Crush>227</Crush>
       </Damage>
       <MaxRange>120</MaxRange>
-      <MinRange>80</MinRange>
       <PrepareTime>9000</PrepareTime>
       <RepeatTime>1000</RepeatTime>
       <Projectile>
@@ -21,12 +20,10 @@
     </Ranged>
   </Attack>
   <Identity>
+    <Civ>ptol</Civ>
     <SelectionGroupName>units/iber/infantry_slinger_b</SelectionGroupName>
     <SpecificName>musketeer</SpecificName>
     <Icon>units/iber/infantry_slinger.png</Icon>
-    <Requirements>
-      <Techs datatype="tokens">phase_town</Techs>
-    </Requirements>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
