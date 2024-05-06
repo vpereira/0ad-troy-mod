@@ -4,14 +4,14 @@
     <Ranged>
       <AttackName context="American independence soldier.">Gun</AttackName>
       <Damage>
-        <Pierce>100</Pierce>
-        <Crush>227</Crush>
+        <Pierce>110</Pierce>
+        <Crush>120</Crush>
       </Damage>
-      <MaxRange>120</MaxRange>
-      <PrepareTime>9000</PrepareTime>
-      <RepeatTime>1000</RepeatTime>
+      <MaxRange>800</MaxRange>
+      <PrepareTime>600</PrepareTime>
+      <RepeatTime>3000</RepeatTime>
       <Projectile>
-        <Speed>250</Speed>
+        <Speed>20</Speed>
         <Spread>1</Spread>
         <Gravity>9.81</Gravity>
         <FriendlyFire>false</FriendlyFire>
