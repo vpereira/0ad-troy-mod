@@ -42,22 +42,22 @@
   <group>
     <variant frequency="1" name="cardiopylax_01_01">
       <textures>
-        <texture file="skeletal/athen/linothorax_01_02.png" name="baseTex"/>
-        <texture file="skeletal/athen/linothorax_01_02.png" name="specTex"/>
+        <texture file="skeletal/mace/linothorax_01_07.png" name="baseTex"/>
+        <texture file="skeletal/mace/linothorax_01_07.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cardiopylax_01_02">
       <textures>
-        <texture file="skeletal/athen/linothorax_01_02.png" name="baseTex"/>
-        <texture file="skeletal/athen/linothorax_01_02.png" name="specTex"/>
+        <texture file="skeletal/mace/linothorax_01_07.png" name="baseTex"/>
+        <texture file="skeletal/mace/linothorax_01_07.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cardiopylax_01_03">
       <textures>
-        <texture file="skeletal/athen/linothorax_01_02.png" name="baseTex"/>
-        <texture file="skeletal/athen/linothorax_01_02.png" name="specTex"/>
+        <texture file="skeletal/mace/linothorax_01_07.png" name="baseTex"/>
+        <texture file="skeletal/mace/linothorax_01_07.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
