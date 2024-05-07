@@ -22,6 +22,7 @@
   <Identity>
     <Civ>ptol</Civ>
     <SelectionGroupName>units/iber/infantry_slinger_b</SelectionGroupName>
+    <GenericName>musketeer</GenericName>
     <SpecificName>musketeer</SpecificName>
     <Icon>units/iber/infantry_slinger.png</Icon>
   </Identity>
