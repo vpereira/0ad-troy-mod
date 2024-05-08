@@ -10,7 +10,7 @@
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_L"/>
       </props>
       <textures>
-        <texture file="skeletal/celt/druid_04.png" name="specTex"/>
+        <texture file="skeletal/brit/leather_03.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
@@ -18,17 +18,17 @@
   <group>
     <variant name="Han-Armor-Lamellar-02-Lacqurered-01">
       <textures>
-        <texture file="skeletal/celt/druid_04.png" name="baseTex"/>
+        <texture file="skeletal/brit/leather_03.png" name="baseTex"/>
       </textures>
     </variant>
     <variant name="Han-Armor-Lamellar-02-Lacqurered-02">
       <textures>
-        <texture file="skeletal/celt/druid_04.png" name="baseTex"/>
+        <texture file="skeletal/brit/leather_03.png" name="baseTex"/>
       </textures>
     </variant>
     <variant name="Han-Armor-Lamellar-02-Lacqurered-03">
       <textures>
-        <texture file="skeletal/celt/druid_04.png" name="baseTex"/>
+        <texture file="skeletal/brit/leather_03.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
