@@ -7,7 +7,7 @@
       <props>
         <prop actor="props/units/heads/new/head_spart_a.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/han_advanced_melee_helmet.xml" attachpoint="helmet"/>
-        <prop actor="props/units/weapons/jav.xml" attachpoint="weapon_L"/>
+        <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_L"/>
       </props>
       <textures>
         <texture file="skeletal/celt/druid_04.png" name="specTex"/>
