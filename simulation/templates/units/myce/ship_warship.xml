@@ -13,6 +13,7 @@
     <SpecificName>Polemikó ploío Ithákis</SpecificName>
     <Icon>units/hele/ship_arrow.png</Icon>
   </Identity>
+  <ProductionQueue/>
   <Trainer>
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_marine
