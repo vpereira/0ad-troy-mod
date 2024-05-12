@@ -11,6 +11,7 @@
   <Obstruction>
     <Static width="25.0" depth="29.0"/>
   </Obstruction>
+  <ProductionQueue/>
   <Trainer>
     <Entities replace="" datatype="tokens">
       units/{civ}/ship_warship
