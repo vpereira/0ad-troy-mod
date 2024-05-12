@@ -5,5 +5,5 @@
 		{ "value": "Attack/Ranged/Damage/Pierce", "add": 2 }
 	],
 	"auraName": "Naval Warfare",
-	"auraDescription": "Ships +6 melee pierce damage"
+	"auraDescription": "Ships +2 ranged pierce damage"
 }
