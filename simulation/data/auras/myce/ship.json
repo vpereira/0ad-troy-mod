@@ -2,7 +2,7 @@
 	"type": "garrison",
 	"affects": ["Ship"],
 	"modifications": [
-		{ "value": "Attack/Melee/Damage/Pierce", "add": 6 }
+		{ "value": "Attack/Ranged/Damage/Pierce", "add": 2 }
 	],
 	"auraName": "Naval Warfare",
 	"auraDescription": "Ships +6 melee pierce damage"
