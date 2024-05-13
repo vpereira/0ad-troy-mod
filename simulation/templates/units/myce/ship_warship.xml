@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_ship_bireme">
+  <Auras datatype="tokens">
+    myce/ship
+  </Auras>
   <GarrisonHolder>
     <Max>40</Max>
     <List datatype="tokens">Siege</List>
