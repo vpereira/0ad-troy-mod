@@ -37,6 +37,11 @@
       <Time>15</Time>
     </Tent>
   </Upgrade>
+  <TerritoryInfluence>
+    <Root>true</Root>
+    <Radius>60</Radius>
+    <Weight>10000</Weight>
+  </TerritoryInfluence>
   <VisualActor>
     <Actor>units/myce/ship_warship_tent.xml</Actor>
     <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
