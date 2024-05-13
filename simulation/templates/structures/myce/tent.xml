@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_dock">
+  <Footprint>
+    <Square width="30.0" depth="34.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>myce</Civ>
+    <SpecificName>Limēn</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="25.0" depth="29.0"/>
+  </Obstruction>
+  <ProductionQueue/>
+  <Trainer>
+    <Entities replace="" datatype="tokens">
+      units/{civ}/ship_warship
+      units/{civ}/ship_fishing
+      units/{civ}/ship_merchant
+      units/{civ}/champion_infantry_marine
+    </Entities>
+  </Trainer>
+  <Upgrade>
+    <Tent>
+      <Entity>units/myce/ship_warship</Entity>
+      <Tooltip>Pack your tent to a ship.</Tooltip>
+      <Variant>upgrading</Variant>
+      <Time>15</Time>
+    </Tent>
+  </Upgrade>
+  <VisualActor>
+    <Actor>structures/ptolemies/dock.xml</Actor>
+    <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
+  </VisualActor>
+</Entity>
