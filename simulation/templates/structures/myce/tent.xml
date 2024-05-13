@@ -6,7 +6,8 @@
   </Footprint>
   <Identity>
     <Civ>myce</Civ>
-    <SpecificName>Limēn</SpecificName>
+    <GenericName>Tent</GenericName>
+    <SpecificName>Skiní</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="25.0" depth="29.0"/>
@@ -14,9 +15,10 @@
   <ProductionQueue/>
   <Trainer>
     <Entities replace="" datatype="tokens">
-      units/{civ}/ship_warship
-      units/{civ}/ship_fishing
-      units/{civ}/ship_merchant
+      units/{civ}/infantry_archer_b
+      units/{civ}/infantry_spearman_2_b
+      units/{civ}/infantry_spearman_b
+      units/{civ}/infantry_javelineer_b
       units/{civ}/champion_infantry_marine
     </Entities>
   </Trainer>
@@ -29,7 +31,7 @@
     </Tent>
   </Upgrade>
   <VisualActor>
-    <Actor>structures/ptolemies/dock.xml</Actor>
+    <Actor>units/myce/ship_warship_tent.xml</Actor>
     <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
   </VisualActor>
 </Entity>
