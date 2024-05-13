@@ -1,4 +1,5 @@
-"type": "range",
+{
+	"type": "range",
 	"radius": 60,
 	"affects": ["Infantry Pikeman"],
 	"modifications": [
