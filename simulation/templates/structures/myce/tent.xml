@@ -7,9 +7,9 @@
     <Max>40</Max>
     <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
-    <List datatype="tokens">Siege</List>
+    <List datatype="tokens">Unit</List>
     <BuffHeal>0</BuffHeal>
-    <LoadingRange>5</LoadingRange>
+    <LoadingRange>3</LoadingRange>
   </GarrisonHolder>
   <Footprint>
     <Square width="30.0" depth="34.0"/>
