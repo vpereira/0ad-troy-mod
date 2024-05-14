@@ -44,7 +44,7 @@
   </Upgrade>
   <TerritoryInfluence>
     <Root>true</Root>
-    <Radius>60</Radius>
+    <Radius>80</Radius>
     <Weight>4000</Weight>
   </TerritoryInfluence>
   <VisualActor>
