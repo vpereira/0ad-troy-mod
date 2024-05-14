@@ -1,7 +1,7 @@
 g_BackgroundLayerData.push(
   [
     {
-      "offset": (time, width) => 1,
+      "offset": (time, width) => 0,
       "sprite": "TrojanHorse",
       "tiling": false,
     },
