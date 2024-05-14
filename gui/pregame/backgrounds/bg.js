@@ -12,7 +12,7 @@ g_BackgroundLayerData.push(
     },
     {
       "offset": (time, width) => 0,
-      "sprite": "AgamemnonCelebrating",
+      "sprite": "TrojanHorse",
       "tiling": false,
     },
   ]);
