@@ -10,14 +10,14 @@
 	<sprite name="HektorAchilles">
 		<image
 			texture="pregame/backgrounds/HektorAchilles.png"
-			fixed_h_aspect_ratio="2"
+			fixed_h_aspect_ratio="0"
 			round_coordinates="false"
 		/>
 	</sprite>
   <sprite name="AgamemnonCelebrating">
 		<image
 			texture="pregame/backgrounds/Agamemnon_celebrating.png"
-			fixed_h_aspect_ratio="2"
+			fixed_h_aspect_ratio="0"
 			round_coordinates="false"
 		/>
 	</sprite>
