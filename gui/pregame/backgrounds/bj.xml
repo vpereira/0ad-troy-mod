@@ -9,7 +9,7 @@
 	</sprite>
 	<sprite name="HektorAchilles">
 		<image
-			texture="pregame/backgrounds/HektorAchilles.png"
+			texture="pregame/backgrounds/TrojanHorse.png"
 			fixed_h_aspect_ratio="0"
 			round_coordinates="false"
 		/>
