@@ -45,7 +45,7 @@
   <TerritoryInfluence>
     <Root>true</Root>
     <Radius>60</Radius>
-    <Weight>10000</Weight>
+    <Weight>4000</Weight>
   </TerritoryInfluence>
   <VisualActor>
     <Actor>units/myce/ship_warship_tent.xml</Actor>
