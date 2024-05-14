@@ -7,7 +7,7 @@ g_BackgroundLayerData.push(
     },
     {
       "offset": (time, width) => 0,
-      "sprite": "HektorAchilles",
+      "sprite": "TrojanHorse",
       "tiling": false,
     },
     {
