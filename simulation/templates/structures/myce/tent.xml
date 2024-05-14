@@ -19,6 +19,7 @@
     <Civ>myce</Civ>
     <GenericName>Tent</GenericName>
     <SpecificName>Skiní</SpecificName>
+    <Icon>structures/mercenary_camp.png</Icon>
   </Identity>
   <Obstruction>
     <Static width="25.0" depth="29.0"/>
