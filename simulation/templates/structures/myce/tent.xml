@@ -5,7 +5,11 @@
   </Auras>
   <GarrisonHolder>
     <Max>40</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Siege</List>
+    <BuffHeal>0</BuffHeal>
+    <LoadingRange>2</LoadingRange>
   </GarrisonHolder>
   <Footprint>
     <Square width="30.0" depth="34.0"/>
