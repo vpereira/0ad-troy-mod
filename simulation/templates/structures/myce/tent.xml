@@ -9,7 +9,7 @@
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Unit</List>
     <BuffHeal>0</BuffHeal>
-    <LoadingRange>3</LoadingRange>
+    <LoadingRange>2</LoadingRange>
   </GarrisonHolder>
   <Footprint>
     <Square width="30.0" depth="34.0"/>
