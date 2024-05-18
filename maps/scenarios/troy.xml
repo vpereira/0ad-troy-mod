@@ -4001,231 +4001,231 @@
 			<Actor seed="31531"/>
 		</Entity>
 		<Entity uid="608">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="844.07068" z="133.2295"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="31531"/>
 		</Entity>
 		<Entity uid="609">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="839.67011" z="138.32834"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="26816"/>
 		</Entity>
 		<Entity uid="610">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="797.67957" z="101.87453"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="26816"/>
 		</Entity>
 		<Entity uid="611">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="805.92835" z="104.63968"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="65413"/>
 		</Entity>
 		<Entity uid="612">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="808.10303" z="107.1975"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="65413"/>
 		</Entity>
 		<Entity uid="613">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="810.6164" z="108.8656"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="40631"/>
 		</Entity>
 		<Entity uid="614">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="846.60035" z="137.95197"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="40631"/>
 		</Entity>
 		<Entity uid="615">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="850.50959" z="139.72764"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="40631"/>
 		</Entity>
 		<Entity uid="616">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="854.41907" z="142.09006"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="56618"/>
 		</Entity>
 		<Entity uid="617">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="858.66742" z="149.12687"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="56618"/>
 		</Entity>
 		<Entity uid="618">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="859.4198" z="153.96409"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="56618"/>
 		</Entity>
 		<Entity uid="619">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="860.84021" z="158.43241"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="56618"/>
 		</Entity>
 		<Entity uid="620">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="861.52009" z="161.48667"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="56618"/>
 		</Entity>
 		<Entity uid="621">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="706.54603" z="47.10141"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="31734"/>
 		</Entity>
 		<Entity uid="622">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="707.81635" z="47.12763"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="23579"/>
 		</Entity>
 		<Entity uid="623">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="710.34003" z="47.963"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39216"/>
 		</Entity>
 		<Entity uid="624">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="713.28064" z="49.2101"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39216"/>
 		</Entity>
 		<Entity uid="625">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="715.766" z="49.59548"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39216"/>
 		</Entity>
 		<Entity uid="626">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="717.86878" z="50.8263"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39216"/>
 		</Entity>
 		<Entity uid="627">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="719.96009" z="52.06742"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39216"/>
 		</Entity>
 		<Entity uid="628">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="724.6391" z="54.43339"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39216"/>
 		</Entity>
 		<Entity uid="629">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="735.26081" z="56.89936"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="14880"/>
 		</Entity>
 		<Entity uid="630">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="737.8042" z="59.88891"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="41978"/>
 		</Entity>
 		<Entity uid="631">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="744.89301" z="64.8252"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="41978"/>
 		</Entity>
 		<Entity uid="632">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="739.1789" z="62.46146"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="41978"/>
 		</Entity>
 		<Entity uid="633">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="737.98023" z="62.53533"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="41978"/>
 		</Entity>
 		<Entity uid="634">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="733.02637" z="60.17277"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="46020"/>
 		</Entity>
 		<Entity uid="635">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="731.4657" z="60.21673"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="46020"/>
 		</Entity>
 		<Entity uid="636">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="746.28455" z="64.51125"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="46020"/>
 		</Entity>
 		<Entity uid="637">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="750.35865" z="68.01928"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="25173"/>
 		</Entity>
 		<Entity uid="638">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="751.64985" z="69.23105"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="25173"/>
 		</Entity>
 		<Entity uid="639">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="757.49195" z="71.6034"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="25173"/>
 		</Entity>
 		<Entity uid="640">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="762.5694" z="74.7041"/>
 			<Orientation y="2.35621"/>
