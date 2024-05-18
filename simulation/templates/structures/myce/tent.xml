@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_dock">
+  <Auras datatype="tokens">
+    myce/ship
+  </Auras>
+  <AlertRaiser>
+    <List datatype="tokens">FemaleCitizen</List>
+    <RaiseAlertRange>120</RaiseAlertRange>
+    <EndOfAlertRange>180</EndOfAlertRange>
+    <SearchRange>100</SearchRange>
+  </AlertRaiser>
+  <Attack>
+    <Ranged>
+      <AttackName>Bow</AttackName>
+      <Damage>
+        <Pierce>10</Pierce>
+      </Damage>
+      <MaxRange>60</MaxRange>
+      <PrepareTime>1200</PrepareTime>
+      <RepeatTime>2000</RepeatTime>
+      <Projectile>
+        <Speed>90</Speed>
+        <Spread>1.5</Spread>
+        <Gravity>50</Gravity>
+        <FriendlyFire>false</FriendlyFire>
+        <LaunchPoint y="3"/>
+      </Projectile>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+      <RangeOverlay>
+        <LineTexture>outline_border.png</LineTexture>
+        <LineTextureMask>outline_border_mask.png</LineTextureMask>
+        <LineThickness>0.175</LineThickness>
+      </RangeOverlay>
+    </Ranged>
+  </Attack>
+  <BuildingAI>
+    <DefaultArrowCount>2</DefaultArrowCount>
+    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
+    <GarrisonArrowClasses>Soldier</GarrisonArrowClasses>
+  </BuildingAI>
+  <GarrisonHolder>
+    <Max>40</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Unit</List>
+    <BuffHeal>0</BuffHeal>
+    <LoadingRange>2</LoadingRange>
+  </GarrisonHolder>
+  <Footprint>
+    <Square width="30.0" depth="34.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>myce</Civ>
+    <GenericName>Tent</GenericName>
+    <SpecificName>Skiní</SpecificName>
+    <Icon>structures/mercenary_camp.png</Icon>
+  </Identity>
+  <Obstruction>
+    <Static width="25.0" depth="29.0"/>
+  </Obstruction>
+  <ProductionQueue/>
+  <Trainer>
+    <Entities replace="" datatype="tokens">
+      units/{civ}/infantry_archer_b
+      units/{civ}/infantry_spearman_2_b
+      units/{civ}/infantry_spearman_b
+      units/{civ}/infantry_javelineer_b
+      units/{civ}/champion_infantry_marine
+    </Entities>
+  </Trainer>
+  <Upgrade>
+    <Tent>
+      <Entity>units/myce/ship_warship</Entity>
+      <Tooltip>Pack your tent to a ship.</Tooltip>
+      <Variant>upgrading</Variant>
+      <Time>15</Time>
+    </Tent>
+  </Upgrade>
+  <TerritoryInfluence>
+    <Root>true</Root>
+    <Radius>80</Radius>
+    <Weight>4000</Weight>
+  </TerritoryInfluence>
+  <VisualActor>
+    <Actor>units/myce/ship_warship_tent.xml</Actor>
+    <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
+  </VisualActor>
+</Entity>

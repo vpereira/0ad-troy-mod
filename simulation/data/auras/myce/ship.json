@@ -1,9 +1,14 @@
 {
-	"type": "garrison",
-	"affects": ["Ship"],
+	"type": "range",
+	"radius": 60,
+	"affects": ["Infantry Pikeman"],
 	"modifications": [
-		{ "value": "Attack/Melee/Damage/Pierce", "add": 6 }
+		{ "value": "Attack/Capture/Capture", "multiply": 1.5 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.8 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.8 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.8 }
 	],
 	"auraName": "Naval Warfare",
-	"auraDescription": "Ships +6 melee pierce damage"
+	"auraDescription": "Infantry Pikemen +50% capture attack strength, +80% melee attack damage.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }

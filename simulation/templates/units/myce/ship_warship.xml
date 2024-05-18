@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_ship_bireme">
+  <Auras datatype="tokens">
+    myce/ship
+  </Auras>
   <GarrisonHolder>
     <Max>40</Max>
     <List datatype="tokens">Siege</List>
@@ -13,11 +16,20 @@
     <SpecificName>Polemikó ploío Ithákis</SpecificName>
     <Icon>units/hele/ship_arrow.png</Icon>
   </Identity>
+  <ProductionQueue/>
   <Trainer>
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_marine
     </Entities>
   </Trainer>
+  <Upgrade>
+    <Tent>
+      <Entity>structures/myce/tent</Entity>
+      <Tooltip>Upgrade your ship to a tent.</Tooltip>
+      <Variant>upgrading</Variant>
+      <Time>15</Time>
+    </Tent>
+  </Upgrade>
   <VisualActor>
     <Actor>structures/carthaginians/bireme.xml</Actor>
   </VisualActor>
