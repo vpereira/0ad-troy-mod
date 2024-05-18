@@ -82,14 +82,6 @@
     <Radius>80</Radius>
     <Weight>4000</Weight>
   </TerritoryInfluence>
-  <SoundGroups>
-      <select>interface/select/building/sel_civ_center.xml</select>
-      <upgraded>interface/complete/building/complete_civ_center.xml</upgraded>
-      <alert_raise>interface/alarm/alarm_alert_0.xml</alert_raise>
-      <alert_end>interface/alarm/alarm_alert_1.xml</alert_end>
-      <attack_ranged>attack/weapon/bow_attack.xml</attack_ranged>
-      <attack_impact_ranged>attack/impact/arrow_impact.xml</attack_impact_ranged>
-    </SoundGroups>
   <VisualActor>
     <Actor>units/myce/ship_warship_tent.xml</Actor>
     <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
