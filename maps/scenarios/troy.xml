@@ -1077,8 +1077,8 @@
 		<Entity uid="160">
 			<Template>skirmish/structures/default_dock</Template>
 			<Player>1</Player>
-			<Position x="644.27466" z="619.35505"/>
-			<Orientation y="-0.75"/>
+			<Position x="644.27466" z="610.35505"/>
+			<Orientation y="0.1636"/>
 			<Actor seed="26203"/>
 		</Entity>
 		<Entity uid="161">
@@ -2112,7 +2112,7 @@
 		</Entity>
 		<Entity uid="315">
 			<Template>gaia/tree/oak_hungarian</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="510.96735" z="58.95794"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="55852"/>
@@ -2154,14 +2154,14 @@
 		</Entity>
 		<Entity uid="321">
 			<Template>gaia/fish/tilapia</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="246.7664" z="455.93805"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="38729"/>
 		</Entity>
 		<Entity uid="322">
 			<Template>gaia/fish/tilapia</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="610.44275" z="244.07093"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="60600"/>
@@ -2182,14 +2182,14 @@
 		</Entity>
 		<Entity uid="325">
 			<Template>gaia/fish/tilapia</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="878.38874" z="781.29017"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="17285"/>
 		</Entity>
 		<Entity uid="326">
 			<Template>gaia/fish/tilapia</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="274.33344" z="680.9231"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44422"/>
@@ -2203,7 +2203,7 @@
 		</Entity>
 		<Entity uid="328">
 			<Template>gaia/fish/tilapia</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="119.53255" z="712.52637"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="14967"/>
@@ -2231,7 +2231,7 @@
 		</Entity>
 		<Entity uid="332">
 			<Template>gaia/fish/generic</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="367.23386" z="697.8194"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="26059"/>
@@ -2245,7 +2245,7 @@
 		</Entity>
 		<Entity uid="334">
 			<Template>gaia/fish/generic</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="253.95731" z="566.982"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="37853"/>
@@ -2273,7 +2273,7 @@
 		</Entity>
 		<Entity uid="338">
 			<Template>gaia/fauna_whale_fin</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="870.69043" z="795.6233"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="56343"/>
