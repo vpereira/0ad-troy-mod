@@ -2084,7 +2084,7 @@
 		</Entity>
 		<Entity uid="311">
 			<Template>gaia/tree/oak_hungarian</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="667.37903" z="32.48398"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="62642"/>
@@ -2539,7 +2539,7 @@
 		</Entity>
 		<Entity uid="384">
 			<Template>gaia/tree/oak_hungarian</Template>
-			<Player>1</Player>
+			<Player>0</Player>
 			<Position x="557.40674" z="921.59937"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="54772"/>
@@ -3510,62 +3510,6 @@
 			<Orientation y="2.35621"/>
 			<Actor seed="59729"/>
 		</Entity>
-		<Entity uid="530">
-			<Template>skirmish/structures/default_civil_centre</Template>
-			<Player>3</Player>
-			<Position x="451.77894" z="965.17682"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="19667"/>
-		</Entity>
-		<Entity uid="531">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>3</Player>
-			<Position x="459.37159" z="941.02674"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="34035"/>
-		</Entity>
-		<Entity uid="532">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>3</Player>
-			<Position x="462.39683" z="944.55213"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="51613"/>
-		</Entity>
-		<Entity uid="533">
-			<Template>skirmish/units/default_infantry_melee_b</Template>
-			<Player>3</Player>
-			<Position x="465.61582" z="948.31727"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="11519"/>
-		</Entity>
-		<Entity uid="534">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>3</Player>
-			<Position x="452.25556" z="936.18519"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="9504"/>
-		</Entity>
-		<Entity uid="535">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>3</Player>
-			<Position x="448.04853" z="939.13996"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="20547"/>
-		</Entity>
-		<Entity uid="536">
-			<Template>skirmish/units/default_support_female_citizen</Template>
-			<Player>3</Player>
-			<Position x="444.25184" z="942.33576"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="10011"/>
-		</Entity>
-		<Entity uid="537">
-			<Template>skirmish/units/default_infantry_ranged_b</Template>
-			<Player>3</Player>
-			<Position x="437.17618" z="947.55842"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="15879"/>
-		</Entity>
 		<Entity uid="538">
 			<Template>gaia/fauna_deer</Template>
 			<Player>0</Player>
@@ -3672,385 +3616,385 @@
 			<Actor seed="38387"/>
 		</Entity>
 		<Entity uid="553">
-			<Template>gaia/fruit/fig</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="490.52277" z="853.35676"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="14945"/>
 		</Entity>
 		<Entity uid="554">
-			<Template>gaia/fruit/fig</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="492.3159" z="861.17103"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="63611"/>
 		</Entity>
 		<Entity uid="555">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="503.0611" z="918.79151"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="51021"/>
 		</Entity>
 		<Entity uid="556">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="511.8826" z="907.46229"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="35409"/>
 		</Entity>
 		<Entity uid="557">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="523.73945" z="896.38074"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="14079"/>
 		</Entity>
 		<Entity uid="558">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="526.1875" z="880.93122"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15169"/>
 		</Entity>
 		<Entity uid="559">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="522.5622" z="870.71448"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15169"/>
 		</Entity>
 		<Entity uid="560">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="520.34632" z="861.563"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="17792"/>
 		</Entity>
 		<Entity uid="561">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="596.90571" z="854.1344"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="53081"/>
 		</Entity>
 		<Entity uid="562">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="601.87507" z="858.66724"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="37878"/>
 		</Entity>
 		<Entity uid="563">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="606.13746" z="861.90217"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="37878"/>
 		</Entity>
 		<Entity uid="564">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="610.08375" z="865.59522"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="37878"/>
 		</Entity>
 		<Entity uid="565">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="615.28553" z="869.21546"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="50762"/>
 		</Entity>
 		<Entity uid="566">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="619.24762" z="872.89264"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="17593"/>
 		</Entity>
 		<Entity uid="567">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="623.42798" z="875.59559"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="17593"/>
 		</Entity>
 		<Entity uid="568">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="627.09101" z="879.77228"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="6383"/>
 		</Entity>
 		<Entity uid="569">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="631.10956" z="882.74177"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="36091"/>
 		</Entity>
 		<Entity uid="570">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="635.44111" z="887.18018"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="29482"/>
 		</Entity>
 		<Entity uid="571">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="639.44733" z="890.21351"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="29482"/>
 		</Entity>
 		<Entity uid="572">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="634.90601" z="893.70081"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="43466"/>
 		</Entity>
 		<Entity uid="573">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="630.13831" z="889.11725"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="43466"/>
 		</Entity>
 		<Entity uid="574">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="625.82972" z="885.81946"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44163"/>
 		</Entity>
 		<Entity uid="575">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="623.39332" z="883.33448"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44163"/>
 		</Entity>
 		<Entity uid="576">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="617.94935" z="878.68763"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44163"/>
 		</Entity>
 		<Entity uid="577">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="615.26343" z="876.00104"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44163"/>
 		</Entity>
 		<Entity uid="578">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="613.71003" z="874.68018"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44163"/>
 		</Entity>
 		<Entity uid="579">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="604.77662" z="867.39051"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="42474"/>
 		</Entity>
 		<Entity uid="580">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="602.71515" z="865.62171"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="42474"/>
 		</Entity>
 		<Entity uid="581">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="600.14002" z="863.41218"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="42474"/>
 		</Entity>
 		<Entity uid="582">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="596.1092" z="860.3404"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="22772"/>
 		</Entity>
 		<Entity uid="583">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="593.7815" z="858.37745"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="22772"/>
 		</Entity>
 		<Entity uid="584">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="832.83375" z="423.48829"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="22772"/>
 		</Entity>
 		<Entity uid="585">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="831.39502" z="430.3216"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="12093"/>
 		</Entity>
 		<Entity uid="586">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="829.47687" z="433.43561"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="12093"/>
 		</Entity>
 		<Entity uid="587">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="824.46357" z="435.62507"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="12093"/>
 		</Entity>
 		<Entity uid="588">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="797.30726" z="357.05896"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="36408"/>
 		</Entity>
 		<Entity uid="589">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="793.37555" z="355.723"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="45209"/>
 		</Entity>
 		<Entity uid="590">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="791.4015" z="354.51124"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="45209"/>
 		</Entity>
 		<Entity uid="591">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="796.33112" z="349.8288"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="7147"/>
 		</Entity>
 		<Entity uid="592">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="798.00806" z="350.81733"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="7147"/>
 		</Entity>
 		<Entity uid="593">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="800.51465" z="350.20771"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="7147"/>
 		</Entity>
 		<Entity uid="594">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
 			<Position x="801.41028" z="349.06104"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="7147"/>
 		</Entity>
 		<Entity uid="595">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="983.97431" z="332.0127"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="7147"/>
 		</Entity>
 		<Entity uid="596">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="987.48505" z="341.70127"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15013"/>
 		</Entity>
 		<Entity uid="597">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="988.79188" z="350.623"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="59506"/>
 		</Entity>
 		<Entity uid="598">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="987.87562" z="355.57837"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="59506"/>
 		</Entity>
 		<Entity uid="599">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="988.41663" z="362.21088"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="59506"/>
 		</Entity>
 		<Entity uid="600">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="989.11835" z="364.46842"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="59506"/>
 		</Entity>
 		<Entity uid="601">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="990.55127" z="369.0055"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="64679"/>
 		</Entity>
 		<Entity uid="602">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="992.19605" z="373.25342"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="64679"/>
 		</Entity>
 		<Entity uid="603">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="993.87067" z="377.54407"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="64679"/>
 		</Entity>
 		<Entity uid="604">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="994.18555" z="379.99131"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="64679"/>
 		</Entity>
 		<Entity uid="605">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="994.66047" z="383.72321"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="31531"/>
 		</Entity>
 		<Entity uid="606">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="995.58625" z="387.4217"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="31531"/>
 		</Entity>
 		<Entity uid="607">
-			<Template>gaia/tree/cretan_date_palm_patch</Template>
+			<Template>gaia/tree/oak_hungarian</Template>
 			<Player>0</Player>
 			<Position x="996.09296" z="389.62073"/>
 			<Orientation y="2.35621"/>
