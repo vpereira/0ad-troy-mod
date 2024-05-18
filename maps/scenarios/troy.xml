@@ -106,7 +106,7 @@
     }
   ],
   "Preview": "troy.png",
-  "RevealMap": true,
+  "RevealMap": false,
   "VictoryConditions": [
     "conquest"
   ]
