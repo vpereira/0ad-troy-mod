@@ -1078,7 +1078,7 @@
 			<Template>skirmish/structures/default_dock</Template>
 			<Player>1</Player>
 			<Position x="644.27466" z="619.35505"/>
-			<Orientation y="0.0636"/>
+			<Orientation y="0.0"/>
 			<Actor seed="26203"/>
 		</Entity>
 		<Entity uid="161">
