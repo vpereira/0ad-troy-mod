@@ -12,7 +12,7 @@
     <Civ>troj</Civ>
     <Lang>napatan</Lang>
     <GenericName>Aethiopian Kings Guard</GenericName>
-    <SpecificName>rs ʿIprmk</SpecificName>
+    <SpecificName>Rs ʿIprmk</SpecificName>
     <Classes datatype="tokens">ApedemakGuard</Classes>
     <Icon>units/troj/champion_apedemak.png</Icon>
   </Identity>
