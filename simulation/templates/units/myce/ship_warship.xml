@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_ship_bireme">
+  
   <Auras datatype="tokens">
     myce/ship
   </Auras>
@@ -27,7 +28,7 @@
       <Entity>structures/myce/tent</Entity>
       <Tooltip>Upgrade your ship to a tent.</Tooltip>
       <Variant>upgrading</Variant>
-      <Time>15</Time>
+      <Time>10</Time>
     </Tent>
   </Upgrade>
   <VisualActor>
