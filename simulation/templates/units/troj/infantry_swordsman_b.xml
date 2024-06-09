@@ -19,7 +19,7 @@
     <Civ>troj</Civ>
     <Lang>greek</Lang>
     <GenericName>Thracian Mercenary Swordsman</GenericName>
-    <SpecificName>Thrakiotis xiphomachus</SpecificName>
+    <SpecificName>Thrakiotis Xiphomachus</SpecificName>
     <SelectionGroupName>units/iber/infantry_swordsman_b</SelectionGroupName>
     <Icon>units/cart/infantry_swordsman.png</Icon>
   </Identity>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_support_trader">
+  <Cost>
+    <BuildTime op="mul_round">0.9</BuildTime>
+  </Cost>
   <Footprint replace="">
     <Square width="5" depth="10"/>
     <Height>4</Height>

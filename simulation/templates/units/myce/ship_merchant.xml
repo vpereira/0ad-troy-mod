@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_ship_merchant">
+  <Cost>
+    <BuildTime op="mul_round">0.8</BuildTime>
+  </Cost>
   <Footprint>
     <Square width="6.0" depth="25.0"/>
     <Height>8.0</Height>

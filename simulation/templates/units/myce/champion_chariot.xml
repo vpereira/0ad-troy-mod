@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_cavalry_archer">
    <Cost>
-    <BuildTime op="mul">1.2</BuildTime>
+    <BuildTime op="mul_round">0.95</BuildTime>
     <Resources>
       <food op="mul_round">1.2</food>
       <wood op="mul_round">1.25</wood>

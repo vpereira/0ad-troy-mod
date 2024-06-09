@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_support_female_citizen">
+  <Cost>
+    <BuildTime op="mul_round">0.95</BuildTime>
+  </Cost>
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
