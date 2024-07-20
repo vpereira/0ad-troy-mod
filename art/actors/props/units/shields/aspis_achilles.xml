@@ -13,9 +13,9 @@
   <group>
     <variant frequency="1" name="ptol_round_d_silver_player">
       <textures>
-        <texture file="props/shield/emblem_achaeans.png" name="baseTex"/>
-        <texture file="props/shield/emblem_achaeans.png" name="normTex"/>
-        <texture file="props/shield/emblem_achaeans.png" name="specTex"/>
+        <texture file="props/shield/shield_achilles.png" name="baseTex"/>
+        <texture file="props/shield/shield_achilles.png" name="normTex"/>
+        <texture file="props/shield/shield_achilles.png" name="specTex"/>
       </textures>
     </variant>
   </group>
