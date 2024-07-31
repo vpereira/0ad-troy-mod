@@ -60,7 +60,7 @@ To install the 0 A.D. Troy Mod:
 ## Known Issues
 
 - **Balancing**: Some units may require further balancing. Feedback is appreciated.
-- **Bugs**: Occasional graphical glitches. Report any issues on the [issue tracker](https://github.com/yourusername/0AD-Troy-Mod/issues).
+- **Bugs**: Occasional graphical glitches. Report any issues on the [issue tracker](https://github.com/vpereira/0ad-troy-mod/issues).
 
 ## Contributing
 
@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions, suggestions, or feedback, please open an issue on GitHub or contact me at [your-email@example.com](mailto:your-email@example.com).
+For questions, suggestions, or feedback, please open an issue on GitHub.
 
 Enjoy the mod and happy gaming!
 
