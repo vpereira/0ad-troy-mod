@@ -31,7 +31,7 @@ To install the 0 A.D. Troy Mod:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/0AD-Troy-Mod.git
+    git clone https://github.com/vpereira/0ad-troy-mod.git
     ```
 
 2. **Copy to Mods Folder**:
