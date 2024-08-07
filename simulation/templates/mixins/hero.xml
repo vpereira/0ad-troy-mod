@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Entity>
-  <Decay>
-    <SinkingAnim>false</SinkingAnim>
-    <DelayTime>0</DelayTime>
-    <SinkRate>2.5</SinkRate>
-    <SinkAccel>0</SinkAccel>
-  </Decay>
   <Identity>
     <Tooltip>A mythic hero of the Trojan War.</Tooltip>
   </Identity>
-  <TrainingRestrictions>
-    <Category>Hero</Category>
-    <MatchLimit>100000</MatchLimit>
-  </TrainingRestrictions>
 </Entity>
