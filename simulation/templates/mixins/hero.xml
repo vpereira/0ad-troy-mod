@@ -3,7 +3,7 @@
   <Decay>
     <SinkingAnim>false</SinkingAnim>
     <DelayTime>0</DelayTime>
-    <SinkRate>-5</SinkRate>
+    <SinkRate>5</SinkRate>
     <SinkAccel>0</SinkAccel>
   </Decay>
   <Identity>
