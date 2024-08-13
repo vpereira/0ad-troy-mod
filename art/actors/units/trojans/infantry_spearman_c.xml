@@ -39,30 +39,30 @@
     <variant frequency="2" name="Scale-1b">
       <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Lamellar-1b">
       <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1a">
       <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1b">
       <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1c">
       <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
