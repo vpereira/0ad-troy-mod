@@ -14,7 +14,7 @@
         <prop actor="props/units/armor/greave_02_silver_l.xml" attachpoint="leg_L"/>
       </props>
       <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
