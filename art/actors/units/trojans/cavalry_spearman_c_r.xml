@@ -55,7 +55,7 @@
     <variant frequency="1" name="Lamellar-1b">
       <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <textures>
-        <texture file="skeletal/sele/cuirass_hero_antiochus.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
@@ -71,7 +71,7 @@
     </variant>
     <variant frequency="1" name="Linothorax-1c">
       <textures>
-        <texture file="skeletal/sele/cuirass_hero_antiochus.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
