@@ -34,10 +34,6 @@
           <Duration>0.0</Duration>
           <BlockChance>1</BlockChance>
         </Pierce>
-        <Crush>
-          <Duration>0.0</Duration>
-          <BlockChance>1</BlockChance>
-        </Crush>
       </Damage>
     </Entity>
   </Resistance>
