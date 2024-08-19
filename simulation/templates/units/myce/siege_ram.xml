@@ -26,14 +26,8 @@
         </Poisoned>
       </ApplyStatus>
       <Damage>
-        <Hack>
-          <Duration>0.0</Duration>
-          <BlockChance>1</BlockChance>
-        </Hack>
-        <Pierce>
-          <Duration>0.0</Duration>
-          <BlockChance>1</BlockChance>
-        </Pierce>
+        <Duration>0.0</Duration>
+        <BlockChance>1</BlockChance>
       </Damage>
     </Entity>
   </Resistance>
