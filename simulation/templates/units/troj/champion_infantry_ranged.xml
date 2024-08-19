@@ -36,12 +36,16 @@
       <Bonuses>
         <bonusStruct>
           <Classes>Structure</Classes>
-          <Multiplier>50</Multiplier>
+          <Multiplier>5</Multiplier>
         </bonusStruct>
         <bonusSiege>
           <Classes>Siege</Classes>
-          <Multiplier>30</Multiplier>
+          <Multiplier>4</Multiplier>
         </bonusSiege>
+        <bonusShip>
+          <Classes>Ship</Classes>
+          <Multiplier>4</Multiplier>
+        </bonusShip>
       </Bonuses>
     </Ranged>
   </Attack>
@@ -51,7 +55,7 @@
     <GenericName>Rundiyan Guard Archer</GenericName>
     <SpecificName>Rountigián Toxotes</SpecificName>
     <Icon>units/troj/champion_ranged.png</Icon>
-    <Tooltip>Counters: 50x vs. Structures. 30x vs. Siege Units</Tooltip>
+    <Tooltip>Counters: 5x vs. Structures. 4x vs. Siege Units and Ships</Tooltip>
   </Identity>
   <VisualActor>
     <Actor>units/persians/infantry_archer_e.xml</Actor>
