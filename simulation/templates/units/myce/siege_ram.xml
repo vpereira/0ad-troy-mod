@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_siege_ram">
+  <Attack disable=""/>
   <Cost>
     <BuildTime op="mul_round">0.8</BuildTime>
   </Cost>
+  <GarrisonHolder>
+    <Max>40</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Infantry</List>
+    <BuffHeal>0</BuffHeal>
+    <LoadingRange>2</LoadingRange>
+  </GarrisonHolder>
   <Identity>
     <Civ>myce</Civ>
     <GenericName>Trojan horse</GenericName>
     <Icon>units/hele/siege_ram.png</Icon>
   </Identity>
+  <Resistance>
+    <Entity>
+      <ApplyStatus>
+        <Poisoned>
+          <Duration>0.0</Duration>
+          <BlockChance>1</BlockChance>
+        </Poisoned>
+      </ApplyStatus>
+      <Damage>
+        <Hack>
+          <Duration>0.0</Duration>
+          <BlockChance>1</BlockChance>
+        </Hack>
+        <Pierce>
+          <Duration>0.0</Duration>
+          <BlockChance>1</BlockChance>
+        </Pierce>
+        <Crush>
+          <Duration>0.0</Duration>
+          <BlockChance>1</BlockChance>
+        </Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
   <VisualActor>
     <Actor>structures/iberians/siege_ram.xml</Actor>
   </VisualActor>
