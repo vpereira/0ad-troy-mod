@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="hoplite|template_unit_hero_infantry_spearman">
+<Entity parent="hero|hoplite|template_unit_hero_infantry_spearman">
   <Cost>
     <BuildTime op="mul">1.7</BuildTime>
     <Resources>
@@ -51,7 +51,7 @@
     <Acceleration op="mul">2</Acceleration>
   </UnitMotion>
   <Health>
-    <Max op="mul">1.5</Max>
+    <Max op="mul">1.6</Max>
   </Health>
   <VisualActor>
     <Actor>units/myce/hero_achilles.xml</Actor>
