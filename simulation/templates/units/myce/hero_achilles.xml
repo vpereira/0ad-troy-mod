@@ -51,7 +51,7 @@
     <Acceleration op="mul">2</Acceleration>
   </UnitMotion>
   <Health>
-    <Max op="mul">1.5</Max>
+    <Max op="mul">1.6</Max>
   </Health>
   <VisualActor>
     <Actor>units/myce/hero_achilles.xml</Actor>
