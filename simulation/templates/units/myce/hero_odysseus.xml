@@ -15,6 +15,10 @@
     <SpecificName> </SpecificName>
     <Icon>units/hele/hero_brasidas.png</Icon>
   </Identity>
+  <UnitMotion>
+    <WalkSpeed op="mul_round">1.11</WalkSpeed>
+    <Acceleration op="mul">1.5</Acceleration>
+  </UnitMotion>
   <VisualActor>
     <Actor>units/myce/hero_odysseus.xml</Actor>
   </VisualActor>
