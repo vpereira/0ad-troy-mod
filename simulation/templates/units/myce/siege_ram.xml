@@ -5,7 +5,7 @@
     <BuildTime op="mul_round">0.8</BuildTime>
   </Cost>
   <GarrisonHolder>
-    <Max>40</Max>
+    <Max>60</Max>
     <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Infantry</List>
@@ -20,9 +20,9 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>50</Hack>
+        <Hack>35</Hack>
         <Pierce>50</Pierce>
-        <Crush>50</Crush>
+        <Crush>40</Crush>
       </Damage>
     </Entity>
   </Resistance>
