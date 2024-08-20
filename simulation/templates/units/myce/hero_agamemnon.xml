@@ -15,7 +15,7 @@
     <Icon>units/hele/hero_craterus.png</Icon>
   </Identity>
   <Health>
-    <Max>1000</Max>
+    <Max>1200</Max>
   </Health>
   <VisualActor>
     <Actor>units/myce/hero_agamemnon.xml</Actor>
