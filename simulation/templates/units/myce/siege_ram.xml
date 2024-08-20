@@ -19,15 +19,10 @@
   </Identity>
   <Resistance>
     <Entity>
-      <ApplyStatus>
-        <Poisoned>
-          <Duration>0.0</Duration>
-          <BlockChance>1</BlockChance>
-        </Poisoned>
-      </ApplyStatus>
       <Damage>
-        <Duration>0.0</Duration>
-        <BlockChance>1</BlockChance>
+        <Hack>50</Hack>
+        <Pierce>50</Pierce>
+        <Crush>50</Crush>
       </Damage>
     </Entity>
   </Resistance>
