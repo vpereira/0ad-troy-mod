@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_infantry_melee_spearman">
   <Cost>
+    <BuildTime op="mul_round">0.8</BuildTime>
     <Resources>
-      <BuildTime>8</BuildTime>
       <metal op="add">30</metal>
     </Resources>
   </Cost>
