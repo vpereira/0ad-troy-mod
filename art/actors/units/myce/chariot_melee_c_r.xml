@@ -91,7 +91,7 @@
     </variant>
   </group>
   <group>
-    <variant file="biped/base_elephant_turret_pikeman_relax.xml"/>
+    <variant file="biped/base_chariot_melee.xml"/>
     <variant file="biped/attack_capture.xml"/>
     <variant file="biped/rider/elephantry/african_turret_death.xml">
     </variant>
