@@ -3,9 +3,9 @@
     <animation file="biped/infantry/pikeman/idle_relax_01.dae" name="Idle" speed="25"/>
     <animation file="biped/infantry/pikeman/idle_relax_01.dae" name="Walk" speed="15"/>
     <animation file="biped/infantry/pikeman/idle_relax_01.dae" name="Run" speed="10"/>
-    <animation event="0.5" file="biped/infantry/pikeman/attack_melee_07.dae" name="attack_melee" id="attack1" speed="120"/>
-    <animation event="0.5" file="biped/infantry/pikeman/attack_melee_07.dae" name="attack_melee" id="attack2" speed="120"/>
-    <animation event="0.5" file="biped/infantry/pikeman/attack_melee_07.dae" name="attack_melee" id="attack3" speed="120"/>
+    <animation event="0.5" file="biped/infantry/pikeman/attack_melee_01.dae" name="attack_melee" id="attack1" speed="120"/>
+    <animation event="0.5" file="biped/infantry/pikeman/attack_melee_01.dae" name="attack_melee" id="attack2" speed="120"/>
+    <animation event="0.5" file="biped/infantry/pikeman/attack_melee_01.dae" name="attack_melee" id="attack3" speed="120"/>
     <animation file="biped/infantry/pikeman/idle_relax_01.dae" name="attack_ranged" speed="25"/>
   </animations>
 </variant>
