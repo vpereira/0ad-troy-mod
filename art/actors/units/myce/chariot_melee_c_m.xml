@@ -48,9 +48,11 @@
     </variant>
   </group>
   <group>
-    <variant file="biped/base_elephant_turret_pikeman_relax.xml"/>
-    <variant file="biped/attack_capture.xml"/>
-    <variant file="biped/rider/elephantry/african_turret_death.xml">
+    <variant>
+      <textures>
+        <texture file="default_norm.png" name="normTex"/>
+        <texture file="null_black.dds" name="specTex"/>
+      </textures>
     </variant>
   </group>
   <material>player_trans_norm_spec.xml</material>
