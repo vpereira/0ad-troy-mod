@@ -92,7 +92,7 @@
   </group>
   <group>
     <variant frequency="1" name="Idle"/>
-    <variant file="biped/attack_melee_chariot.xml"/>
+    <variant file="biped/base_elephant_turret_pikeman_relax.xml"/>
     <variant file="biped/attack_capture.xml"/>
     <variant file="biped/death_infantry.xml"/>
   </group>
