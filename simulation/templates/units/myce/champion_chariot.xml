@@ -32,8 +32,8 @@
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
-    <GenericName>Myceneas Scythed Chariot</GenericName>
-    <SpecificName>Mykinaïkós drepáni árma</SpecificName>
+    <GenericName>Mycenean Chariot</GenericName>
+    <SpecificName>Mykinaïkós árma</SpecificName>
     <Icon>units/hele/chariot_melee.png</Icon>
   </Identity>
   <Loot>
