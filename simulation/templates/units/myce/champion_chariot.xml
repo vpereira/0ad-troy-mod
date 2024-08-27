@@ -2,7 +2,7 @@
 <Entity parent="template_unit_champion_cavalry_spearman">
    <Attack>
     <Melee>
-      <MaxRange op="add">3.0</MaxRange>
+      <MaxRange op="add">6.0</MaxRange>
     </Melee>
   </Attack>
    <Cost>
