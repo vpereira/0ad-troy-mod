@@ -44,7 +44,7 @@
     <xp op="mul_round">1.2</xp>
   </Loot>
   <Position>
-    <TurnRate>5</TurnRate>
+    <TurnRate>25</TurnRate>
   </Position>
   <Resistance>
     <Entity>
