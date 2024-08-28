@@ -15,6 +15,7 @@
   <Identity>
     <Civ>myce</Civ>
     <GenericName>Trojan horse</GenericName>
+    <Tooltip>Garrison units and eject behind the enemie`s lines.</Tooltip>
     <Icon>units/hele/siege_ram.png</Icon>
   </Identity>
   <Resistance>
