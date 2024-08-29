@@ -14,9 +14,6 @@
       <metal op="mul_round">1.2</metal>
     </Resources>
   </Cost>
-  <Health>
-    <Max op="mul">1.25</Max>
-  </Health>
   <GarrisonHolder>
     <Max>1</Max>
     <EjectHealth>0.1</EjectHealth>
