@@ -19,7 +19,7 @@
       units/{civ}/hero_odysseus
       units/{civ}/hero_aias
       units/{civ}/champion_infantry
-      units/{civ}/siege_ram
+      units/{civ}/siege_horse
       units/{civ}/champion_infantry_guard
       units/{civ}/champion_infantry_guard_02
     </Entities>
