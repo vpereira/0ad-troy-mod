@@ -4,6 +4,9 @@
     troj/hektor
     troj/penthesilea
   </Auras>
+  <Health>
+    <Max>1200</Max>
+  </Health>
   <Identity>
     <Civ>troj</Civ>
     <Lang>persian</Lang>
