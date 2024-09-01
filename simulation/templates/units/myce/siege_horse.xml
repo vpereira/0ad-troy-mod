@@ -43,7 +43,7 @@
     <GenericName>Trojan horse</GenericName>
     <Tooltip>Garrison units and eject behind the enemie`s lines. THIS UNIT DOESNT DEAL ANY DAMAGE!</Tooltip>
     <Icon>units/hele/siege_ram.png</Icon>
-    <VisibleClasses datatype="tokens">-Siege -Melee Ram TrojanHorse</VisibleClasses>
+    <VisibleClasses datatype="tokens">-Siege TrojanHorse</VisibleClasses>
   </Identity>
   <Loot>
     <xp>200</xp>
