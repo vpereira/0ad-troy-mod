@@ -21,7 +21,6 @@
     </Melee>
   </Attack>
   <Cost>
-    <BuildTime>30</BuildTime>
     <Resources>
       <wood>300</wood>
       <metal>150</metal>
@@ -43,7 +42,7 @@
     <GenericName>Trojan horse</GenericName>
     <Tooltip>Garrison units and eject behind the enemie`s lines. THIS UNIT DOESNT DEAL ANY DAMAGE!</Tooltip>
     <Icon>units/hele/siege_ram.png</Icon>
-    <VisibleClasses datatype="tokens">-Siege -Melee Ramm TrojanHorse</VisibleClasses>
+    <VisibleClasses datatype="tokens">-Siege TrojanHorse</VisibleClasses>
   </Identity>
   <Loot>
     <xp>200</xp>
