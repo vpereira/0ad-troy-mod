@@ -13,11 +13,13 @@
       <RestrictedClasses datatype="tokens">Field Organic</RestrictedClasses>
     </Melee>
   </Attack>
-  <BuildTime>30</BuildTime>
+  <Cost>
+    <BuildTime>30</BuildTime>
     <Resources>
       <wood>300</wood>
       <metal>150</metal>
     </Resources>
+  </Cost>
   <GarrisonHolder>
     <Max>60</Max>
     <EjectHealth>0.1</EjectHealth>
