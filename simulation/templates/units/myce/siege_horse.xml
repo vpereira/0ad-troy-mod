@@ -3,7 +3,7 @@
   <Attack>
     <Capture>
       <AttackName>Capture</AttackName>
-      <Capture>60</Capture>
+      <Capture>200</Capture>
       <MaxRange>6</MaxRange>
       <RepeatTime>1000</RepeatTime>
       <RestrictedClasses datatype="tokens">Field Palisade Wall</RestrictedClasses>
