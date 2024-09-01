@@ -9,7 +9,7 @@
       <RestrictedClasses datatype="tokens">Field Palisade Wall</RestrictedClasses>
     </Capture>
     <Melee>
-      <AttackName> </AttackName>
+      <AttackName disable=""/>
       <Damage>
         <Crush>0</Crush>
       </Damage>
