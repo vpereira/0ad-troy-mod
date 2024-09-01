@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_siege">
   <Attack>
+    <Capture>
+      <AttackName>Capture</AttackName>
+      <Capture>10</Capture>
+      <MaxRange>6</MaxRange>
+      <RepeatTime>1000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Field Palisade Wall</RestrictedClasses>
+    </Capture>
     <Melee>
       <AttackName> </AttackName>
       <Damage>
         <Crush>0</Crush>
       </Damage>
-      <MaxRange>6.5</MaxRange>
+      <MaxRange>6</MaxRange>
       <PrepareTime>750</PrepareTime>
       <RepeatTime>1500</RepeatTime>
       <PreferredClasses datatype="tokens">Structure</PreferredClasses>
