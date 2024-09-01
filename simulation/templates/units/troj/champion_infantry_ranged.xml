@@ -3,9 +3,9 @@
   <Cost>
     <Resources>
       <food op="mul_round">0.9</food>
-      <wood op="mul_round">0.95</wood>
+      <wood op="mul_round">0.9</wood>
       <stone op="mul_round">1</stone>
-      <metal op="mul_round">1.11</metal>
+      <metal op="mul_round">1.1</metal>
     </Resources>
   </Cost>
   <Attack>

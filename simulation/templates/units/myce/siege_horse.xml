@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_siege">
+  <Attack>
+    <Melee>
+      <AttackName> </AttackName>
+      <Damage>
+        <Crush>0</Crush>
+      </Damage>
+      <MaxRange>6.5</MaxRange>
+      <PrepareTime>750</PrepareTime>
+      <RepeatTime>1500</RepeatTime>
+      <PreferredClasses datatype="tokens">Structure</PreferredClasses>
+      <RestrictedClasses datatype="tokens">Field Organic</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <BuildTime>30</BuildTime>
+    <Resources>
+      <wood>300</wood>
+      <metal>150</metal>
+    </Resources>
+  <GarrisonHolder>
+    <Max>60</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Infantry</List>
+    <BuffHeal>0</BuffHeal>
+    <LoadingRange>2</LoadingRange>
+  </GarrisonHolder>
+  <Health>
+    <Max>400</Max>
+  </Health>
+  <Identity>
+    <Civ>myce</Civ>
+    <GenericName>Trojan horse</GenericName>
+    <Tooltip>Garrison units and eject behind the enemie`s lines. THIS UNIT DOESNT DEAL ANY DAMAGE!</Tooltip>
+    <Icon>units/hele/siege_ram.png</Icon>
+    <VisibleClasses datatype="tokens">-Siege -Ram TrojanHorse</VisibleClasses>
+  </Identity>
+  <Loot>
+    <xp>200</xp>
+    <wood>60</wood>
+    <metal>30</metal>
+  </Loot>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>35</Hack>
+        <Pierce>50</Pierce>
+        <Crush>40</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.8</WalkSpeed>
+    <Acceleration op="mul">0.8</Acceleration>
+  </UnitMotion>
+  <Vision>
+    <Range>80</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>structures/iberians/siege_ram.xml</Actor>
+  </VisualActor>
+</Entity>

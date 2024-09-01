@@ -20,7 +20,7 @@
     </Resources>
   </Cost>
   <Health>
-    <Max op="mul">1.25</Max>
+    <Max op="mul">1.375</Max>
   </Health>
   <Identity>
     <Civ>troj</Civ>
