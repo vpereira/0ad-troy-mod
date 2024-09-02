@@ -14,15 +14,12 @@
         <Burning>
           <Interval>3000</Interval>
           <Damage>
-            <Fire>6</Fire>
+            <Fire>4</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
           <Duration>9000</Duration>
         </Burning>
       </ApplyStatus>
-      <Damage>
-        <Pierce>20</Pierce>
-      </Damage>
       <Projectile>
         <Speed>120</Speed>
         <Spread>0</Spread>
