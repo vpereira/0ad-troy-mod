@@ -17,6 +17,15 @@
   <Health>
     <Max>1200</Max>
   </Health>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">2</Hack>
+        <Pierce op="add">4</Pierce>
+        <Crush op="add">4</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
   <VisualActor>
     <Actor>units/myce/hero_agamemnon.xml</Actor>
   </VisualActor>
