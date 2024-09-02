@@ -6,6 +6,7 @@
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_hele_b.xml" attachpoint="head"/>
+        <prop actor="props/units/shields/pelte_bronze_01.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/weapons/sarissa.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/capes/cape_long_player.xml" attachpoint="root"/>
         <prop actor="props/units/weapons/sheath_xiphos.xml" attachpoint="sheath_02_L"/>
@@ -15,95 +16,95 @@
   <group>
     <variant frequency="2" name="Hele Phrygian Silver-1">
       <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_thracian_b6.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Hele Thracian Silver-2">
       <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_thracian_b6.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Hele Thracian Silver-3">
       <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_thracian_b6.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
   <group>
     <variant frequency="2" name="sele-cuirass-1f">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="2" name="sele-cuirass-1g">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="mace-cuirass-vergina-1a">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="mace-cuirass-vergina-1b">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="mace-cuirass-vergina-1c">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="mace-cuirass-vergina-1d">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="mace-linothorax-1h">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="mace-linothorax-1j">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="mace-cuirass-gorgon-1a">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="mace-scale-2b">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="mace-scale-3b">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/linothorax_02_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
