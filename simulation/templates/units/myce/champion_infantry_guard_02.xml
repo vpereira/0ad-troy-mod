@@ -6,8 +6,8 @@
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
-    <GenericName>Mycenean Guard Infantry</GenericName>
-    <SpecificName>Agema Mykenaios</SpecificName>
+    <GenericName>Argive Guard Infantry</GenericName>
+    <SpecificName>Agema Argive</SpecificName>
     <Icon>units/hele/champion_infantry_spear.png</Icon>
   </Identity>
   <Health>
