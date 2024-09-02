@@ -21,7 +21,6 @@
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/infantry_javelineer
       units/{civ}/champion_infantry_aethiopian
       units/{civ}/champion_infantry_guard
     </Entities>
