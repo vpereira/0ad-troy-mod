@@ -15,7 +15,7 @@
     </Melee>
   </Attack>
   <Health>
-    <Max op="mul">1.40</Max>
+    <Max op="mul">1.50</Max>
   </Health>
   <Identity>
     <Civ>myce</Civ>
