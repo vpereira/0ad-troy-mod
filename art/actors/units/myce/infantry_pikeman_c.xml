@@ -15,17 +15,17 @@
   <group>
     <variant frequency="2" name="Hele Phrygian Silver-1">
       <props>
-        <prop actor="props/units/helmets/hele_thracian_b6.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Hele Thracian Silver-2">
       <props>
-        <prop actor="props/units/helmets/hele_thracian_b6.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Hele Thracian Silver-3">
       <props>
-        <prop actor="props/units/helmets/hele_thracian_b6.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
