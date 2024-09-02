@@ -13,10 +13,7 @@
   </Identity>
   <Trainer>
     <Entities datatype="tokens">
-      units/{civ}/infantry_spearman_b
-      units/{civ}/infantry_javelineer_b
       units/{civ}/infantry_spearman_2_b
-      units/{civ}/infantry_archer_b
       units/{civ}/champion_infantry_guard
       units/{civ}/champion_infantry
       units/{civ}/champion_infantry_ranged
