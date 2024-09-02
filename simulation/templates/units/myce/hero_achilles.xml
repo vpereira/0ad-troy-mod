@@ -46,6 +46,15 @@
     <metal op="mul_round">2</metal>
     <xp op="mul_round">1.5</xp>
   </Loot>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">5</Hack>
+        <Pierce op="add">5</Pierce>
+        <Crush op="add">8</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
   <UnitMotion>
     <WalkSpeed op="mul_round">1.5</WalkSpeed>
     <Acceleration op="mul">2</Acceleration>
