@@ -8,7 +8,7 @@
     <Lang>greek</Lang>
     <GenericName>Argive Guard Infantry</GenericName>
     <SpecificName>Agema Argive</SpecificName>
-    <Icon>units/hele/champion_infantry_spear.png</Icon>
+    <Icon>units/hele/guard.png</Icon>
   </Identity>
   <Health>
     <Max>260</Max>
