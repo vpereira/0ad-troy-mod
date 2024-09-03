@@ -40,7 +40,7 @@
         </bonusSiege>
         <bonusShip>
           <Classes>Ship</Classes>
-          <Multiplier>4</Multiplier>
+          <Multiplier>5</Multiplier>
         </bonusShip>
       </Bonuses>
     </Ranged>
