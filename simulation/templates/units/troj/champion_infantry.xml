@@ -20,8 +20,8 @@
     <Entity>
       <Damage>
         <Hack op="add">2</Hack>
-        <Pierce op="add">3</Pierce>
-        <Crush op="add">2.5</Crush>
+        <Pierce op="add">4</Pierce>
+        <Crush op="add">3</Crush>
       </Damage>
     </Entity>
   </Resistance>
