@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_infantry_pikeman">
-  <Attack>
-    <Melee>
-      <MaxRange>4.0</MaxRange>
-    </Melee>
-  </Attack>
+<Entity parent="template_unit_champion_infantry_spearman">
   <Cost>
     <BuildTime op="mul_round">0.8</BuildTime>
   </Cost>
