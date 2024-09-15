@@ -16,7 +16,7 @@
     <Icon>units/hele/hero_brasidas.png</Icon>
   </Identity>
   <UnitMotion>
-    <WalkSpeed op="mul_round">1.11</WalkSpeed>
+    <WalkSpeed op="mul_round">1.2</WalkSpeed>
     <Acceleration op="mul">1.5</Acceleration>
   </UnitMotion>
   <VisualActor>

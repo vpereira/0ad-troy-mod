@@ -19,7 +19,7 @@
       units/{civ}/hero_penthesilea
       units/{civ}/hero_memnon
       units/{civ}/champion_cavalry
-      units/{civ}/champion_infantry
+      units/{civ}/champion_infantry_guard
     </Entities>
   </Trainer>
   <ResourceDropsite>

@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_siege">
   <Attack>
+    <Capture>
+      <AttackName>Capture</AttackName>
+      <Capture>200</Capture>
+      <MaxRange>6</MaxRange>
+      <RepeatTime>1000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Field Palisade Wall</RestrictedClasses>
+    </Capture>
     <Melee>
-      <AttackName> </AttackName>
+      <AttackName>None</AttackName>
       <Damage>
         <Crush>0</Crush>
       </Damage>
-      <MaxRange>6.5</MaxRange>
+      <MaxRange>6</MaxRange>
       <PrepareTime>750</PrepareTime>
       <RepeatTime>1500</RepeatTime>
       <PreferredClasses datatype="tokens">Structure</PreferredClasses>
       <RestrictedClasses datatype="tokens">Field Organic</RestrictedClasses>
     </Melee>
   </Attack>
-  <BuildTime>30</BuildTime>
+  <Cost>
+    <BuildTime>30</BuildTime>
     <Resources>
       <wood>300</wood>
       <metal>150</metal>
     </Resources>
+  </Cost>
   <GarrisonHolder>
     <Max>60</Max>
     <EjectHealth>0.1</EjectHealth>
@@ -34,7 +43,7 @@
     <GenericName>Trojan horse</GenericName>
     <Tooltip>Garrison units and eject behind the enemie`s lines. THIS UNIT DOESNT DEAL ANY DAMAGE!</Tooltip>
     <Icon>units/hele/siege_ram.png</Icon>
-    <VisibleClasses datatype="tokens">-Siege -Ram TrojanHorse</VisibleClasses>
+    <VisibleClasses datatype="tokens">-Siege TrojanHorse</VisibleClasses>
   </Identity>
   <Loot>
     <xp>200</xp>
@@ -50,6 +59,9 @@
       </Damage>
     </Entity>
   </Resistance>
+  <TrainingRestrictions>
+    <Category>Hero</Category>
+  </TrainingRestrictions>
   <UnitMotion>
     <WalkSpeed op="mul">0.8</WalkSpeed>
     <Acceleration op="mul">0.8</Acceleration>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_swordsman">
   <Cost>
-    <BuildTime op="mul_round">0.9</BuildTime>
+    <BuildTime op="mul_round">0.6</BuildTime>
     <Resources>
-      <food op="mul_round">0.9</food>
-      <wood op="mul_round">1</wood>
-      <stone op="mul_round">1</stone>
-      <metal op="mul_round">0.9</metal>
+      <food op="mul_round">0.8</food>
+      <wood op="mul_round">0.8</wood>
+      <stone op="mul_round">0.8</stone>
+      <metal op="mul_round">0.8</metal>
     </Resources>
   </Cost>
   <Identity>
