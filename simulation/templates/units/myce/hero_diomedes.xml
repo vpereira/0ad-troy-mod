@@ -22,6 +22,10 @@
     <SpecificName> </SpecificName>
     <Icon>units/hele/hero_craterus.png</Icon>
   </Identity>
+  <TrainingRestrictions>
+    <Category>Monument</Category>
+    <MatchLimit>1</MatchLimit>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/myce/hero_diomedes.xml</Actor>
   </VisualActor>
