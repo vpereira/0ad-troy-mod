@@ -20,6 +20,9 @@
   <Health>
     <Max>220</Max>
   </Health>
+  <TrainingRestrictions>
+    <Category>Animal</Category>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/trojans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
