@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_spearman">
+  <Auras datatype="tokens">
+    troj/hektor
+    troj/penthesilea
+  </Auras>
+  <Identity>
+    <Civ>troj</Civ>
+    <Lang>persian</Lang>
+    <SpecificName>Sarpedon</SpecificName>
+    <Icon>units/hele/hero_ptolemy_I.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/trojans/hero_sarpedon.xml</Actor>
+  </VisualActor>
+</Entity>
