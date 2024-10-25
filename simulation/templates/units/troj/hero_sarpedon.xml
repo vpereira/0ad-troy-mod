@@ -14,6 +14,10 @@
     <WalkSpeed op="mul_round">1.2</WalkSpeed>
     <Acceleration op="mul">1.25</Acceleration>
   </UnitMotion>
+  <TrainingRestrictions>
+    <Category>Monument</Category>
+    <MatchLimit>1</MatchLimit>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/trojans/hero_sarpedon.xml</Actor>
   </VisualActor>
