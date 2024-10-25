@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
-    troj/hektor
+    troj/sarpedon
     troj/penthesilea
   </Auras>
   <Identity>
@@ -10,6 +10,10 @@
     <SpecificName>Sarpedon</SpecificName>
     <Icon>units/hele/hero_craterus.png</Icon>
   </Identity>
+  <UnitMotion>
+    <WalkSpeed op="mul_round">1.2</WalkSpeed>
+    <Acceleration op="mul">1.25</Acceleration>
+  </UnitMotion>
   <VisualActor>
     <Actor>units/trojans/hero_sarpedon.xml</Actor>
   </VisualActor>
