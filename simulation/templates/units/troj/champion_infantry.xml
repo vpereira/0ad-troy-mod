@@ -25,6 +25,9 @@
       </Damage>
     </Entity>
   </Resistance>
+  <TrainingRestrictions>
+    <Category>Animal</Category>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/trojans/infantry_spearman_c.xml</Actor>
   </VisualActor>
