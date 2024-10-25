@@ -19,6 +19,10 @@
     <WalkSpeed op="mul_round">1.2</WalkSpeed>
     <Acceleration op="mul">1.5</Acceleration>
   </UnitMotion>
+  <TrainingRestrictions>
+    <Category>Monument</Category>
+    <MatchLimit>1</MatchLimit>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/myce/hero_odysseus.xml</Actor>
   </VisualActor>
