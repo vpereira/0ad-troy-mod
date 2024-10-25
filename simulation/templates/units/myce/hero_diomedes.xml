@@ -3,6 +3,13 @@
   <Cost>
     <BuildTime op="mul_round">0.8</BuildTime>
   </Cost>
+  <Attack>
+    <Melee>
+      <Damage>
+        <Pierce op="mul">1.25</Pierce>
+      </Damage>
+    </Melee>
+  </Attack>
   <Auras datatype="tokens">
     myce/odysseus
     troj/penthesilea
@@ -15,10 +22,6 @@
     <SpecificName> </SpecificName>
     <Icon>units/troj/hero_ptolemy_I.png</Icon>
   </Identity>
-  <UnitMotion>
-    <WalkSpeed op="mul_round">1.2</WalkSpeed>
-    <Acceleration op="mul">1.5</Acceleration>
-  </UnitMotion>
   <VisualActor>
     <Actor>units/myce/hero_odysseus.xml</Actor>
   </VisualActor>
