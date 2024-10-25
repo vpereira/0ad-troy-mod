@@ -8,7 +8,7 @@
     <Civ>troj</Civ>
     <Lang>persian</Lang>
     <SpecificName>Sarpedon</SpecificName>
-    <Icon>units/hele/hero_ptolemy_I.png</Icon>
+    <Icon>units/hele/hero_craterus.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/trojans/hero_sarpedon.xml</Actor>
