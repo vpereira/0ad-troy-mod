@@ -11,8 +11,8 @@
         <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield"/>
       </props>
       <textures>
-        <texture file="skeletal/iber/padded_leather_01_01.png" name="baseTex"/>
-        <texture file="skeletal/iber/padded_leather_01_01.png" name="specTex"/>
+        <texture file="skeletal/iber/thorax_leather_01.png" name="baseTex"/>
+        <texture file="skeletal/iber/thorax_leather_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
