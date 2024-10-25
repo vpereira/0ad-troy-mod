@@ -11,7 +11,7 @@
     </Melee>
   </Attack>
   <Auras datatype="tokens">
-    myce/odysseus
+    myce/diomedes
     troj/penthesilea
     myce/ship
   </Auras>
