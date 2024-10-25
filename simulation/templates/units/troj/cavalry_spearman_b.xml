@@ -21,6 +21,9 @@
     <Icon>units/troj/cavalry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
+  <TrainingRestrictions>
+    <Category>Animal</Category>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/persians/cavalry_spearman_b_m.xml</Actor>
   </VisualActor>
