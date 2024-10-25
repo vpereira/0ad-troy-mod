@@ -10,6 +10,9 @@
     <SpecificName>Satıcı</SpecificName>
     <Icon>units/hele/support_trader.png</Icon>
   </Identity>
+  <TrainingRestrictions>
+    <Category>Animal</Category>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/athenians/trader.xml</Actor>
   </VisualActor>
