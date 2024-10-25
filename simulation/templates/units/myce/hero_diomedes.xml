@@ -20,7 +20,7 @@
     <Lang>greek</Lang>
     <GenericName>Diomedes</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/troj/hero_ptolemy_I.png</Icon>
+    <Icon>units/hele/hero_craterus.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/myce/hero_diomedes.xml</Actor>
