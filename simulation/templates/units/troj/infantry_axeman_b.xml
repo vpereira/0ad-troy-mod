@@ -8,7 +8,7 @@
   <Attack>
     <Melee>
       <Damage>
-        <Hack op="mul">1.75</Hack>
+        <Hack op="mul">1.5</Hack>
          <Crush op="mul">1.25</Crush>
       </Damage>
     </Melee>
