@@ -11,6 +11,10 @@
     <Phenotype>female</Phenotype>
     <Icon>units/troj/hero_boudicca.png</Icon>
   </Identity>
+  <TrainingRestrictions>
+    <Category>Monument</Category>
+    <MatchLimit>1</MatchLimit>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/trojans/hero_penthesilea_m.xml</Actor>
   </VisualActor>
