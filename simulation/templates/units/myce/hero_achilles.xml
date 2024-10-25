@@ -62,6 +62,10 @@
   <Health>
     <Max op="mul">1.6</Max>
   </Health>
+  <TrainingRestrictions>
+    <Category>Monument</Category>
+    <MatchLimit>1</MatchLimit>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/myce/hero_achilles.xml</Actor>
   </VisualActor>
