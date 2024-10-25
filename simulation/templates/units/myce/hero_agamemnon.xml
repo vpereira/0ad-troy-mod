@@ -12,7 +12,7 @@
     <Lang>greek</Lang>
     <GenericName>Agamemnon</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/hele/hero_craterus.png</Icon>
+    <Icon>units/troj/hero_ptolemy_I.png</Icon>
   </Identity>
   <Health>
     <Max>1200</Max>
