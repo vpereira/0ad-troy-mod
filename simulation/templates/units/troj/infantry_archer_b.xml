@@ -25,6 +25,9 @@
     <Icon>units/cart/infantry_archer.png</Icon>
   </Identity>
   <Promotion disable=""/>
+  <TrainingRestrictions>
+    <Category>Animal</Category>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/persians/infantry_archer_b.xml</Actor>
   </VisualActor>

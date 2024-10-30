@@ -12,10 +12,10 @@
     <Lang>greek</Lang>
     <GenericName>Agamemnon</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/hele/hero_craterus.png</Icon>
+    <Icon>units/troj/hero_ptolemy_I.png</Icon>
   </Identity>
   <Health>
-    <Max>1200</Max>
+    <Max>1100</Max>
   </Health>
   <Resistance>
     <Entity>
@@ -26,6 +26,10 @@
       </Damage>
     </Entity>
   </Resistance>
+  <TrainingRestrictions>
+    <Category>Monument</Category>
+    <MatchLimit>1</MatchLimit>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/myce/hero_agamemnon.xml</Actor>
   </VisualActor>

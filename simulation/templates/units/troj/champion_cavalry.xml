@@ -48,6 +48,9 @@
     <WalkSpeed op="mul">0.95</WalkSpeed>
     <Acceleration op="mul">0.8</Acceleration>
   </UnitMotion>
+  <TrainingRestrictions>
+    <Category>Animal</Category>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/trojans/cavalry_spearman_c_m.xml</Actor>
   </VisualActor>

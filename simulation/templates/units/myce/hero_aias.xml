@@ -23,6 +23,10 @@
       </Damage>
     </Entity>
   </Resistance>
+  <TrainingRestrictions>
+    <Category>Monument</Category>
+    <MatchLimit>1</MatchLimit>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/myce/hero_aias.xml</Actor>
   </VisualActor>

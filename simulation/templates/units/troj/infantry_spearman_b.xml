@@ -18,6 +18,9 @@
     <Icon>units/cart/infantry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
+  <TrainingRestrictions>
+    <Category>Animal</Category>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/trojans/infantry_spearman_b.xml</Actor>
   </VisualActor>

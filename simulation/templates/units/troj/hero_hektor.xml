@@ -13,6 +13,10 @@
     <SpecificName>Hektor</SpecificName>
     <Icon>units/troj/hero_ptolemy_I.png</Icon>
   </Identity>
+  <TrainingRestrictions>
+    <Category>Monument</Category>
+    <MatchLimit>1</MatchLimit>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/trojans/hero_hektor.xml</Actor>
   </VisualActor>

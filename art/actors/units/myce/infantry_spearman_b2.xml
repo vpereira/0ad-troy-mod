@@ -13,29 +13,14 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Samnite-Attic-01">
+    <variant frequency="2" name="sele-cuirass-1f">
       <props>
         <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
       </props>
     </variant>
-    <variant frequency="1" name="Samnite-Attic-02">
+    <variant frequency="2" name="sele-cuirass-1g">
       <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
-      </props>
-    </variant>
-    <variant frequency="1" name="Samnite-Attic-03">
-      <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
-      </props>
-    </variant>
-    <variant frequency="1" name="Samnite-Attic-04">
-      <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
-      </props>
-    </variant>
-    <variant frequency="1" name="Samnite-Phrygian-01">
-      <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_boar_a.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>

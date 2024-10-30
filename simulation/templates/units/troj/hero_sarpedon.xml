@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
-    troj/memnon
+    troj/sarpedon
     troj/penthesilea
   </Auras>
   <Identity>
     <Civ>troj</Civ>
-    <Lang>napatan</Lang>
-    <GenericName>Memnon</GenericName>
-    <SpecificName> </SpecificName>
-    <Icon>units/troj/hero_nastasen.png</Icon>
+    <Lang>persian</Lang>
+    <SpecificName>Sarpedon</SpecificName>
+    <Icon>units/hele/hero_craterus.png</Icon>
   </Identity>
+  <UnitMotion>
+    <WalkSpeed op="mul_round">1.2</WalkSpeed>
+    <Acceleration op="mul">1.25</Acceleration>
+  </UnitMotion>
   <TrainingRestrictions>
     <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>
-    <Actor>units/trojans/hero_memnon.xml</Actor>
+    <Actor>units/trojans/hero_sarpedon.xml</Actor>
   </VisualActor>
 </Entity>

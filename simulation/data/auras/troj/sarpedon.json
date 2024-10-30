@@ -1,0 +1,14 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Soldier"],
+	"modifications": [
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.20 },
+    		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.20 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.20 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.20 }
+	],
+	"auraName": "Incentive",
+	"auraDescription": "Own Soldiers and Siege Engines +20% Speed and melee attack damage.",
+	"overlayIcon": "art/textures/ui/session/auras/speed_bonus.png"
+}

@@ -53,6 +53,9 @@
     <Icon>units/troj/champion_ranged.png</Icon>
     <Tooltip>Counters: 5x vs. Structures. 4x vs. Siege Units and Ships</Tooltip>
   </Identity>
+  <TrainingRestrictions>
+    <Category>Animal</Category>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/persians/infantry_archer_e.xml</Actor>
   </VisualActor>

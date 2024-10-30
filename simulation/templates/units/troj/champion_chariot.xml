@@ -47,7 +47,7 @@
     </Entity>
   </Resistance>
    <TrainingRestrictions>
-    <Category>WarDog</Category>
+    <Category>Animal</Category>
   </TrainingRestrictions>
   <VisualActor>
     <Actor>units/persians/chariot_archer_e_m.xml</Actor>

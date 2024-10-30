@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_infantry_swordsman">
+<Entity parent="template_unit_hero_infantry_spearman">
   <Cost>
     <BuildTime op="mul_round">0.8</BuildTime>
   </Cost>
+  <Attack>
+    <Melee>
+      <Damage>
+        <Pierce op="mul">1.25</Pierce>
+      </Damage>
+    </Melee>
+  </Attack>
   <Auras datatype="tokens">
-    myce/odysseus
+    myce/diomedes
     troj/penthesilea
-    myce/ship
   </Auras>
   <Identity>
     <Civ>myce</Civ>
     <Lang>greek</Lang>
-    <GenericName>Odysseus</GenericName>
+    <GenericName>Diomedes</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/hele/hero_brasidas.png</Icon>
+    <Icon>units/hele/hero_craterus.png</Icon>
   </Identity>
-  <UnitMotion>
-    <WalkSpeed op="mul_round">1.2</WalkSpeed>
-    <Acceleration op="mul">1.5</Acceleration>
-  </UnitMotion>
   <TrainingRestrictions>
     <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>
-    <Actor>units/myce/hero_odysseus.xml</Actor>
+    <Actor>units/myce/hero_diomedes.xml</Actor>
   </VisualActor>
 </Entity>
