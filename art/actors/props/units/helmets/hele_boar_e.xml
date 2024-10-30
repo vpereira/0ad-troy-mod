@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant name="Pilos-01">
-      <mesh>props/helmet/hele_pilos_a1.dae</mesh>
+      <mesh>props/helmet/hele_pilos_a.dae</mesh>
       <props>
         <prop actor="props/units/helmets/props/hele_highcrest_bronze_01.xml" attachpoint="crest"/>
       </props>
