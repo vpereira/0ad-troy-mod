@@ -24,7 +24,7 @@
         <prop actor="props/units/helmets/hele_boar_a.xml" attachpoint="helmet"/>
       </props>
     </variant>
-  <group>
+  </group>
   <group>
     <variant frequency="2" name="sele-cuirass-1f">
       <textures>
