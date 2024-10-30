@@ -15,6 +15,18 @@
     </variant>
   </group>
   <group>
+    <variant frequency="2" name="sele-cuirass-1f">
+      <props>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="2" name="sele-cuirass-1f">
+      <props>
+        <prop actor="props/units/helmets/hele_boar_a.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+  <group>
+  <group>
     <variant frequency="1" name="hele-tunic-fur-1-a">
       <textures>
         <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
