@@ -18,7 +18,7 @@
         <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
       </props>
     </variant>
-    <variant frequency="2" name="sele-cuirass-1f">
+    <variant frequency="2" name="sele-cuirass-1g">
       <props>
         <prop actor="props/units/helmets/hele_boar_a.xml" attachpoint="helmet"/>
       </props>
