@@ -7,9 +7,9 @@
       <props>
         <prop actor="props/units/heads/new/head_hele_a.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/hele_pilos_crested_transversal.xml" attachpoint="helmet"/>
-        <prop actor="props/units/weapons/csword.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/weapons/xiphos.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/scutum_ital_04.xml" attachpoint="shield"/>
-        <prop actor="props/units/weapons/sheath_celt_iron_e.xml" attachpoint="sheath_01_L"/>
+        <prop actor="props/units/weapons/sheath_xiphos_e.xml" attachpoint="sheath_01_L"/>
         <prop actor="props/units/armor/greave_04_bronze_r.xml" attachpoint="leg_R"/>
         <prop actor="props/units/armor/greave_04_bronze_l.xml" attachpoint="leg_L"/>
       </props>
