@@ -11,7 +11,9 @@
     <GenericName>Trojan Woman</GenericName>
     <Icon>units/cart/support_female_citizen.png</Icon>
   </Identity>
-  WarDog
+  <TrainingRestrictions>
+    <Category>WarDog</Category>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/carthaginians/female_citizen.xml</Actor>
   </VisualActor>
