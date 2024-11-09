@@ -13,7 +13,7 @@
     <Lang>greek</Lang>
     <GenericName>Odysseus</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/hele/hero_brasidas.png</Icon>
+    <Icon>units/hele/hero_odysseus.png</Icon>
   </Identity>
   <UnitMotion>
     <WalkSpeed op="mul_round">1.2</WalkSpeed>

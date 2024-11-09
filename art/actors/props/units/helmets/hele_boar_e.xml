@@ -5,7 +5,7 @@
     <variant name="Pilos-01">
       <mesh>props/helmet/hele_pilos_a.dae</mesh>
       <props>
-        <prop actor="props/units/helmets/props/hele_highcrest_bronze_01.xml" attachpoint="crest"/>
+        <prop actor="props/units/helmets/props/hele_highcrest_bronze_02.xml" attachpoint="crest"/>
       </props>
     </variant>
   </group>
