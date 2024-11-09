@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_siege">
+<Entity parent="template_unit_siege_ram">
   <Attack>
     <Capture>
       <AttackName>Capture</AttackName>
@@ -11,6 +11,8 @@
     <Melee>
       <AttackName>None</AttackName>
       <Damage>
+        <Pierce>0</Pierce>
+        <Hack>0</Hack>
         <Crush>0</Crush>
       </Damage>
       <MaxRange>6</MaxRange>
@@ -43,7 +45,7 @@
     <GenericName>Trojan horse</GenericName>
     <Tooltip>Garrison units and eject behind the enemie`s lines. THIS UNIT DOESNT DEAL ANY DAMAGE!</Tooltip>
     <Icon>units/hele/siege_ram.png</Icon>
-    <VisibleClasses datatype="tokens">-Siege TrojanHorse</VisibleClasses>
+    <VisibleClasses datatype="tokens">TrojanHorse</VisibleClasses>
   </Identity>
   <Loot>
     <xp>200</xp>
