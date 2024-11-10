@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sprites>
-	<sprite name="TrojanHorse">
+	<sprite name="TrojanHorse1">
 		<image
 			texture="pregame/backgrounds/TrojanHorse.png"
 			fixed_h_aspect_ratio="2"
 			round_coordinates="false"
 		/>
 	</sprite>
-	<sprite name="HektorAchilles">
+	<sprite name="TrojanHorse2">
 		<image
 			texture="pregame/backgrounds/TrojanHorse.png"
 			fixed_h_aspect_ratio="0"
 			round_coordinates="false"
 		/>
 	</sprite>
-  <sprite name="AgamemnonCelebrating">
+  <sprite name="TrojanHorse3">
 		<image
 			texture="pregame/backgrounds/TrojanHorse.png"
 			fixed_h_aspect_ratio="0"
