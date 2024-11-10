@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sprites>
-	<sprite name="Battle1">
+	<sprite name="Battle">
 		<image
 			texture="pregame/backgrounds/Battle_of_the_ships.png"
 			fixed_h_aspect_ratio="2"
-			round_coordinates="false"
-		/>
-	</sprite>
-	<sprite name="Battle2">
-		<image
-			texture="pregame/backgrounds/Battle_of_the_ships.png"
-			fixed_h_aspect_ratio="0"
-			round_coordinates="false"
-		/>
-	</sprite>
-  <sprite name="Battle3">
-		<image
-			texture="pregame/backgrounds/Battle_of_the_ships.png"
-			fixed_h_aspect_ratio="0"
 			round_coordinates="false"
 		/>
 	</sprite>
