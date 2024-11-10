@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprites>
+	<sprite name="TrojanHorse">
+		<image
+			texture="pregame/backgrounds/Battle_of_the_ships.png"
+			fixed_h_aspect_ratio="2"
+			round_coordinates="false"
+		/>
+	</sprite>
+	<sprite name="HektorAchilles">
+		<image
+			texture="pregame/backgrounds/Battle_of_the_ships.png"
+			fixed_h_aspect_ratio="0"
+			round_coordinates="false"
+		/>
+	</sprite>
+  <sprite name="AgamemnonCelebrating">
+		<image
+			texture="pregame/backgrounds/Battle_of_the_ships.png"
+			fixed_h_aspect_ratio="0"
+			round_coordinates="false"
+		/>
+	</sprite>
+</sprites>
