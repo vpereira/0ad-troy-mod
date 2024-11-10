@@ -9,14 +9,14 @@
 	</sprite>
 	<sprite name="HektorAchilles">
 		<image
-			texture="pregame/backgrounds/TrojanHorse.png"
+			texture="pregame/backgrounds/Battle_of_the_ships.png"
 			fixed_h_aspect_ratio="0"
 			round_coordinates="false"
 		/>
 	</sprite>
   <sprite name="AgamemnonCelebrating">
 		<image
-			texture="pregame/backgrounds/TrojanHorse.png"
+			texture="pregame/backgrounds/Battle_of_the_ships.png"
 			fixed_h_aspect_ratio="0"
 			round_coordinates="false"
 		/>
