@@ -2,7 +2,7 @@
 <sprites>
 	<sprite name="AeneasAchilles">
 		<image
-			texture="pregame/backgrounds/AeneasAchilles.png"
+			texture="pregame/backgrounds/AchillesAeneas.png"
 			fixed_h_aspect_ratio="2"
 			round_coordinates="false"
 		/>
