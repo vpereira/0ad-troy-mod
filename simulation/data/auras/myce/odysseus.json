@@ -1,6 +1,7 @@
 {
-	"type": "range",
-	"radius": 100,
+	"type": "global",
+	"affects": ["Siege"],
+	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 4 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 4 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 4 },
