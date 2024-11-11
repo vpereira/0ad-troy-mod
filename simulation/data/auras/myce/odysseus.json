@@ -1,21 +1,12 @@
 {
 	"type": "range",
 	"radius": 100,
-	"affects": ["Siege"],
-	"modifications": [
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 2 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 2 },
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 2 },
-		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 2 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 2 },
-		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 2 },
-		{ "value": "Attack/Ranged/MaxRange", "multiply": 1 },
-		{ "value": "Resistance/Entity/Damage/Hack", "add": 2 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 2 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": 2 },
-		{ "value": "Vision/Range", "multiply": 1 }
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 4 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 4 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 4 },
+		{ "value": "Vision/Range", "multiply": 1.5 }
 	],
 	"auraName": "Inventor of the Trojan Horse",
-	"auraDescription": "Siege Engines +1 crush, hack, pierce resistance, +100% melee attack damage.",
+	"auraDescription": "Siege Engines +4 crush, hack, pierce resistance, +50% Vision Range.",
 	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }
