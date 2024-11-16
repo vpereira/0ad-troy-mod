@@ -44,7 +44,6 @@
       </textures>
     </variant>
     <variant frequency="1" name="Lamellar-1b">
-      <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <textures>
         <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
