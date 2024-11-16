@@ -9,8 +9,6 @@
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/kush_beja_reinforced_rhino.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/weapons/sheath_xiphos.xml" attachpoint="sheath_02_L"/>
-        <prop actor="props/units/armor/greave_02_bronze_r.xml" attachpoint="leg_R"/>
-        <prop actor="props/units/armor/greave_02_bronze_l.xml" attachpoint="leg_L"/>
       </props>
       <textures>
         <texture file="skeletal/arab/robes_02_04.png" name="specTex"/>
@@ -69,7 +67,7 @@
   <group>
     <variant frequency="1" name="Hele Phrygian Helmet-02">
       <props>
-        <prop actor="props/units/shields/pelta_thra_elite.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
     <variant frequency="2" name="Hele Phrygian Helmet-03">
@@ -79,7 +77,7 @@
     </variant>
     <variant frequency="3" name="Hele Phrygian Helmet-04">
       <props>
-        <prop actor="props/units/shields/kush_beja_reinforced_rhino.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
     <variant frequency="4" name="Hele Phrygian Helmet-06">
