@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant>
-      <mesh>skeletal/new/m_dress.dae</mesh>
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_pers_a.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
