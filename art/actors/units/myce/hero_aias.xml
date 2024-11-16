@@ -14,8 +14,8 @@
         <prop actor="props/units/armor/greave_04_bronze_l.xml" attachpoint="leg_L"/>
       </props>
       <textures>
-        <texture file="skeletal/sele/cuirass_07.png" name="baseTex"/>
-        <texture file="skeletal/sele/cuirass_07.png" name="specTex"/>
+        <texture file="skeletal/hele/cuirass_dendra.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_dendra.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
