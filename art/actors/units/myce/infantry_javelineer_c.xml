@@ -29,17 +29,17 @@
   <group>
     <variant frequency="1" name="hele-tunic-fur-1-a">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="hele-tunic-fur-1-b">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="hele-tunic-fur-1-c">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
