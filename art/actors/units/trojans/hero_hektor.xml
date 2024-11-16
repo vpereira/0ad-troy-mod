@@ -11,8 +11,8 @@
         <prop actor="props/units/shields/kush_beja_reinforced_gold_rhino.xml" attachpoint="shield"/>
       </props>
       <textures>
-        <texture file="skeletal/imp/scale_bronze_01.png" name="baseTex"/>
-        <texture file="skeletal/imp/scale_bronze_01.png" name="specTex"/>
+        <texture file="skeletal/maur/scale_royal_01.png" name="baseTex"/>
+        <texture file="skeletal/maur/scale_royal_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
