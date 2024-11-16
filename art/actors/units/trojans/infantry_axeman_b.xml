@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant>
-      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_iber_hero_1.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/pers_conical_b1.xml" attachpoint="helmet"/>
@@ -11,8 +11,8 @@
         <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield"/>
       </props>
       <textures>
-        <texture file="skeletal/iber/thorax_leather_01.png" name="baseTex"/>
-        <texture file="skeletal/iber/thorax_leather_01.png" name="specTex"/>
+        <texture file="skeletal/arab/robes_02_04.png" name="baseTex"/>
+        <texture file="skeletal/arab/robes_02_04.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
