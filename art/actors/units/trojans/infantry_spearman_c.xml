@@ -36,29 +36,29 @@
   <group>
     <variant frequency="2" name="Scale-1b">
       <textures>
-        <texture file="skeletal/arab/robes_02_04.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Lamellar-1b">
       <textures>
-        <texture file="skeletal/arab/robes_02_04.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1a">
       <textures>
-        <texture file="skeletal/arab/robes_02_04.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1b">
       <textures>
-        <texture file="skeletal/arab/robes_02_04.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1c">
       <textures>
-        <texture file="skeletal/arab/robes_02_04.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
