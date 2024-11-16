@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="Base">
-      <mesh>skeletal/new/m_tunic_short.dae</mesh>
+      <mesh>skeletal/new/m_tunic_long.dae</mesh>
       <props>
         <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
@@ -36,7 +36,7 @@
     </variant>
     <variant frequency="3" name="Hele Phrygian Helmet-04">
       <props>
-        <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
     <variant frequency="4" name="Hele Phrygian Helmet-06">
@@ -48,20 +48,21 @@
   <group>
     <variant frequency="1" name="tunic_01_01">
       <textures>
-        <texture file="skeletal/cart/tunic_01_01.png" name="baseTex"/>
-        <texture file="skeletal/cart/tunic_01_01.png" name="specTex"/>
+        <texture file="skeletal/arab/robes_01_02.png" name="baseTex"/>
+        <texture file="skeletal/arab/robes_01_02.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tunic_01_02">
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
       <textures>
-        <texture file="skeletal/cart/tunic_01_02.png" name="baseTex"/>
-        <texture file="skeletal/cart/tunic_01_01.png" name="specTex"/>
+        <texture file="skeletal/arab/skirt_01_02.png" name="baseTex"/>
+        <texture file="skeletal/arab/skirt_01_02.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tunic_01_03">
       <textures>
-        <texture file="skeletal/cart/tunic_01_03.png" name="baseTex"/>
-        <texture file="skeletal/cart/tunic_01_01.png" name="specTex"/>
+        <texture file="skeletal/arab/robes_01_02.png" name="baseTex"/>
+        <texture file="skeletal/arab/robes_01_02.png" name="specTex"/>
       </textures>
     </variant>
   </group>
