@@ -5,7 +5,7 @@
     <variant frequency="1" name="Base">
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
-        <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/heads/new/head_pers_a.xml" attachpoint="head"/>
       </props>
@@ -26,22 +26,22 @@
   <group>
     <variant frequency="1" name="Hele Phrygian Helmet-05">
       <props>
-        <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
     <variant frequency="2" name="Hele Phrygian Helmet-03">
       <props>
-        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
     <variant frequency="3" name="Hele Phrygian Helmet-04">
       <props>
-        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
     <variant frequency="4" name="Hele Phrygian Helmet-06">
       <props>
-        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
   </group>
