@@ -4,9 +4,6 @@
   <group>
     <variant frequency="1" name="base">
       <mesh>props/shield/shield_8.dae</mesh>
-      <props>
-        <prop actor="props/units/shields/round_back.xml" attachpoint="back"/>
-      </props>
     </variant>
   </group>
   <group>
