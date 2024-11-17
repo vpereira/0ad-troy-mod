@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="base">
-      <mesh>props/shield/shield_8.blend</mesh>
+      <mesh>props/shield/shield_8.dae</mesh>
       <props>
         <prop actor="props/units/shields/round_back.xml" attachpoint="back"/>
       </props>
