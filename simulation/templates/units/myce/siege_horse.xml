@@ -1,34 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_siege_ram">
-  <Attack>
-    <Capture>
-      <AttackName>Capture</AttackName>
-      <Capture>200</Capture>
-      <MaxRange>6</MaxRange>
-      <RepeatTime>1000</RepeatTime>
-      <RestrictedClasses datatype="tokens">Field Palisade Wall</RestrictedClasses>
-    </Capture>
-    <Melee>
-      <AttackName>None</AttackName>
-      <Damage>
-        <Pierce>0</Pierce>
-        <Hack>0</Hack>
-        <Crush>0</Crush>
-      </Damage>
-      <MaxRange>6</MaxRange>
-      <PrepareTime>750</PrepareTime>
-      <RepeatTime>1500</RepeatTime>
-      <PreferredClasses datatype="tokens">Structure</PreferredClasses>
-      <RestrictedClasses datatype="tokens">Field Organic</RestrictedClasses>
-    </Melee>
-  </Attack>
-  <Cost>
-    <BuildTime>30</BuildTime>
-    <Resources>
-      <wood>300</wood>
-      <metal>150</metal>
-    </Resources>
-  </Cost>
   <GarrisonHolder>
     <Max>60</Max>
     <EjectHealth>0.1</EjectHealth>
@@ -37,30 +8,12 @@
     <BuffHeal>0</BuffHeal>
     <LoadingRange>2</LoadingRange>
   </GarrisonHolder>
-  <Health>
-    <Max>400</Max>
-  </Health>
   <Identity>
     <Civ>myce</Civ>
     <GenericName>Trojan horse</GenericName>
-    <Tooltip>Garrison units and eject behind the enemie`s lines. THIS UNIT DOESNT DEAL ANY DAMAGE!</Tooltip>
     <Icon>units/hele/siege_ram.png</Icon>
     <VisibleClasses datatype="tokens">TrojanHorse</VisibleClasses>
   </Identity>
-  <Loot>
-    <xp>200</xp>
-    <wood>60</wood>
-    <metal>30</metal>
-  </Loot>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>35</Hack>
-        <Pierce>50</Pierce>
-        <Crush>40</Crush>
-      </Damage>
-    </Entity>
-  </Resistance>
   <TrainingRestrictions>
     <Category>Hero</Category>
   </TrainingRestrictions>
@@ -68,9 +21,6 @@
     <WalkSpeed op="mul">0.8</WalkSpeed>
     <Acceleration op="mul">0.8</Acceleration>
   </UnitMotion>
-  <Vision>
-    <Range>80</Range>
-  </Vision>
   <VisualActor>
     <Actor>structures/iberians/siege_ram.xml</Actor>
   </VisualActor>
