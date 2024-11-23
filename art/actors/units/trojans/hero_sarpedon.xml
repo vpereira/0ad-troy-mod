@@ -11,8 +11,8 @@
         <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield"/>
       </props>
       <textures>
-        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
-        <texture file="skeletal/cart/scale_01_01.png" name="specTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
