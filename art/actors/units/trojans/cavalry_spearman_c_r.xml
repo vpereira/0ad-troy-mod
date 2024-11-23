@@ -75,7 +75,7 @@
     </variant>
   </group>
   <group>
-    <variant file="biped/rider/cavalry/base_spearman_fast_relax_troy.xml" frequency="1" name="Spearman-2h-Fast-Relax"/>
+    <variant file="biped/rider/cavalry/base_spearman_ready.xml" frequency="1" name="Spearman-2h-Fast-Relax"/>
     <variant file="biped/rider/death_2h.xml"/>
   </group>
   <material>player_trans_norm_spec.xml</material>
