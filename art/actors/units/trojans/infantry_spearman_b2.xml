@@ -53,7 +53,6 @@
       </textures>
     </variant>
     <variant frequency="1" name="tunic_01_02">
-      <mesh>skeletal/new/m_tunic_short.dae</mesh>
       <textures>
         <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
         <texture file="skeletal/cart/scale_01_01.png" name="specTex"/>
