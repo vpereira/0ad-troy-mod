@@ -23,6 +23,7 @@
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_aethiopian
       units/{civ}/champion_infantry_guard
+      units/{civ}/infantry_spearman_2_b
     </Entities>
   </Trainer>
 </Entity>
