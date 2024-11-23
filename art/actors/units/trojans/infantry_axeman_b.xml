@@ -11,7 +11,7 @@
         <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield"/>
       </props>
       <textures>
-        <texture file="skeletal/hele/tunic_03_01" name="baseTex"/>
+        <texture file="skeletal/hele/tunic_03_01.png" name="baseTex"/>
         <texture file="skeletal/hele/tunic_03_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
