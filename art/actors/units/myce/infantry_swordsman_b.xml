@@ -6,9 +6,9 @@
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
-        <prop actor="props/units/heads/new/head_iber_hero_1.xml" attachpoint="head"/>
-        <prop actor="props/units/weapons/xiphos_alexander.xml" attachpoint="weapon_R"/>
-        <prop actor="props/units/shields/kush_beja_reinforced_gold_rhino.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/heads/new/head_hele_a.xml" attachpoint="head"/>
+        <prop actor="props/units/weapons/xiphos.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/shields/pelta_spart_elite.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/weapons/sheath_xiphos_e.xml" attachpoint="sheath_01_L"/>
       </props>
     </variant>
@@ -16,12 +16,12 @@
   <group>
     <variant frequency="3" name="padded_brasidas_01">
       <textures>
-        <texture file="skeletal/sele/cuirass_07.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="2" name="padded_brasidas_02">
       <textures>
-        <texture file="skeletal/sele/cuirass_07.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
