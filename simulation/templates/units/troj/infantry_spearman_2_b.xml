@@ -21,11 +21,10 @@
     <Lang>greek</Lang>
     <GenericName>Dardanian Allied Warrior</GenericName>
     <SpecificName>Dardanós Symmachikós Polemistís</SpecificName>
-    <SelectionGroupName>units/iber/infantry_swordsman_b</SelectionGroupName>
-    <Icon>units/cart/infantry_swordsman.png</Icon>
+    <Icon>units/troj/pers_merc_hoplite_kardakes.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/trojans/infantry_swordsman_b.xml</Actor>
+    <Actor>units/trojans/infantry_spearman_b2.xml</Actor>
   </VisualActor>
 </Entity>
