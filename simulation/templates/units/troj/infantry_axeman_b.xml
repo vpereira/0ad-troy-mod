@@ -20,7 +20,7 @@
     <Civ>troj</Civ>
     <Lang>greek</Lang>
     <GenericName>Lycian Allied Infantryman</GenericName>
-    <SpecificName>Lýkios Symmachikós Pezikós</SpecificName>
+    <SpecificName>Lýkios Symmachikós Stratiótis</SpecificName>
     <Icon>units/troj/infantry_swordsman.png</Icon>
   </Identity>
   <Promotion disable=""/>
