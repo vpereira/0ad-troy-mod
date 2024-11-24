@@ -12,7 +12,6 @@
     <Icon>units/troj/hero_boudicca.png</Icon>
   </Identity>
   <TrainingRestrictions>
-    <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>
