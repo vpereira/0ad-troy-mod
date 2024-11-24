@@ -15,7 +15,6 @@
     <Acceleration op="mul">1.25</Acceleration>
   </UnitMotion>
   <TrainingRestrictions>
-    <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>
