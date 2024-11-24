@@ -2,12 +2,15 @@
 	"type": "global",
 	"affects": ["Siege"],
 	"modifications": [
-		{ "value": "Resistance/Entity/Damage/Hack", "add": 4 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 4 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": 4 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.2 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.2 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.2 },
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.2 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.2 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.2 },
 		{ "value": "Vision/Range", "multiply": 1.5 }
 	],
 	"auraName": "Inventor of the Trojan Horse",
-	"auraDescription": "Siege Engines +4 crush, hack, pierce resistance, +50% Vision Range.",
+	"auraDescription": "Siege Engines +20% crush, hack, pierce damage, +50% Vision Range.",
 	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }
