@@ -19,8 +19,8 @@
   <Identity>
     <Civ>troj</Civ>
     <Lang>greek</Lang>
-    <GenericName>Lycian Axeman</GenericName>
-    <SpecificName>Lýkios Tsekoúrimachos</SpecificName>
+    <GenericName>Lycian Allied Infantryman</GenericName>
+    <SpecificName>Lýkios Symmachikós Pezikós</SpecificName>
     <Icon>units/troj/infantry_swordsman.png</Icon>
   </Identity>
   <Promotion disable=""/>
