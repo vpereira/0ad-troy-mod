@@ -20,7 +20,6 @@
     <Acceleration op="mul">1.5</Acceleration>
   </UnitMotion>
   <TrainingRestrictions>
-    <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>
