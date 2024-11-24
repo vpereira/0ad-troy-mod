@@ -24,7 +24,6 @@
     </Entity>
   </Resistance>
   <TrainingRestrictions>
-    <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>
