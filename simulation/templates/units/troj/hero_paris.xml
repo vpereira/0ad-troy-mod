@@ -14,6 +14,6 @@
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>
-    <Actor>units/persians/hero_infantry_archer_xerxes.xml</Actor>
+    <Actor>units/trojans/hero_paris.xml</Actor>
   </VisualActor>
 </Entity>
