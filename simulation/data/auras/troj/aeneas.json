@@ -1,18 +1,11 @@
 {
-	"type": "range",
-	"radius": 60,
+	"type": "global",
 	"affects": ["Soldier"],
-	"affectedPlayers": ["Ally"],
 	"modifications": [
-		{ "value": "Attack/Capture/Capture", "add": 1 },
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.2 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.2 },
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.2 },
-		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.2 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.2 },
-		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.2 }
+		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 1.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 1.5 },
+		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 1.5 }
 	],
-	"auraName": "Fight until the End",
-	"auraDescription": "Own and Allied Soldiers +25% Hack.",
-	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+	"auraName": "Pight until the End",
+	"auraDescription": "Own and allied Soldier +50% crush, hack, pierce resistance."
 }
