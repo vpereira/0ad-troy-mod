@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Soldier"],
+	"modifications": [
+		{ "value": "Builder/Rate", "multiply": 1 },
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1}
+	],
+	"auraName": "Steadfastness",
+	"auraDescription": "Soldiers +20% Health",
+}
