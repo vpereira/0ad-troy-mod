@@ -80,7 +80,10 @@
 		"Deiphobus",
 		"Asteropaeus",
 		"Antiphus",
-		"Polydamas"
+		"Polydamas",
+		"Hypsenor",
+		"Euphorbus"
+
 	],
 	"SkirmishReplacements": {
 		"skirmish/units/default_infantry_ranged_b": "units/troj/infantry_archer_b",
