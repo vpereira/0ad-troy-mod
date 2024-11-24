@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|template_unit_hero_infantry_spearman">
+  <Cost>
+    <BuildTime op="mul_round">0.8</BuildTime>
+  </Cost>
+  <Auras datatype="tokens">
+    myce/menelaus
+    troj/penthesilea
+  </Auras>
+  <Identity>
+    <Civ>myce</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Menelaos</GenericName>
+    <SpecificName> </SpecificName>
+    <Icon>units/troj/hero_ptolemy_I.png</Icon>
+  </Identity>
+  <TrainingRestrictions>
+    <MatchLimit>1</MatchLimit>
+  </TrainingRestrictions>
+  <VisualActor>
+    <Actor>units/myce/hero_menelaus.xml</Actor>
+  </VisualActor>
+</Entity>
