@@ -2,7 +2,7 @@
 <Entity parent="template_unit_infantry_melee_spearman">
   <Cost>
     <Resources>
-      <metal op="add">20</metal>
+      <metal op="add">40</metal>
     </Resources>
   </Cost>
   <Attack>
