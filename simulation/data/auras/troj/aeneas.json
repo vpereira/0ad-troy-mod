@@ -2,10 +2,10 @@
 	"type": "global",
 	"affects": ["Soldier"],
 	"modifications": [
-		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 1.5 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 1.5 },
-		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 1.5 }
+		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 1.25 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 1.25 },
+		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 1.25 }
 	],
-	"auraName": "Pight until the End",
-	"auraDescription": "Own and allied Soldier +50% crush, hack, pierce resistance."
+	"auraName": "Fight until the End",
+	"auraDescription": "Own and allied Soldiers +25% crush, hack, pierce resistance."
 }
