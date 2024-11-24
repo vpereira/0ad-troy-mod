@@ -12,7 +12,7 @@
     <Lang>greek</Lang>
     <GenericName>Menelaos</GenericName>
     <SpecificName> </SpecificName>
-    <Icon>units/troj/hero_ptolemy_I.png</Icon>
+    <Icon>units/hele/hero_demetrius.png</Icon>
   </Identity>
   <TrainingRestrictions>
     <MatchLimit>1</MatchLimit>
