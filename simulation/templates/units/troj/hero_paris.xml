@@ -11,7 +11,6 @@
     <Icon>units/troj/hero_ptolemy_IV.png</Icon>
   </Identity>
   <TrainingRestrictions>
-    <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>
