@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_treasure">
   <Footprint>
-    <Square width="2.0" depth="2.0"/>
+    <Square width="0.5" depth="0.5"/>
     <Height>12.0</Height>
   </Footprint>
   <Identity>
