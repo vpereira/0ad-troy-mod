@@ -5,7 +5,6 @@
   </Cost>
   <Auras datatype="tokens">
     myce/odysseus
-    troj/penthesilea
     myce/ship
   </Auras>
   <Identity>
