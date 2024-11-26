@@ -5,5 +5,5 @@
 		{ "value": "Health/Max", "multiply": 1.2 }
 	],
 	"auraName": "Steadfastness",
-	"auraDescription": "Soldiers +20% Health",
+	"auraDescription": "Soldiers +20% Health"
 }
