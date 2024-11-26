@@ -1,6 +1,7 @@
 {
 	"type": "global",
 	"affects": ["Human"],
+	"affectedPlayers": ["Enemy"],
 	"modifications": [
 		{ "value": "Looter/Resource/metal", "multiply": 0 }
 	],
