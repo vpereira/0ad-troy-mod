@@ -8,7 +8,7 @@
     <SpecificName>Armor</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="7.0" depth="7.0"/>
+    <Static width="2.0" depth="2.0"/>
   </Obstruction>
   <Sound>
     <SoundGroups>
