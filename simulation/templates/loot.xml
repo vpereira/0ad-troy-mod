@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_treasure">
   <Footprint>
-    <Square width="0.5" depth="0.5"/>
+    <Square width="1" depth="1"/>
     <Height>12.0</Height>
   </Footprint>
   <Identity>
     <SpecificName>Armor</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="0.5" depth="0.5"/>
+    <Static width="1" depth="1"/>
   </Obstruction>
   <Sound>
     <SoundGroups>
