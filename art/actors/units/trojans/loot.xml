@@ -17,12 +17,12 @@
     <variant frequency="1" name="barrel">
       <mesh>props/rome_blacksmith_armorstand_rome_csp_a.dae</mesh>
       <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="root"/>
+        <prop actor="props/units/helmets/pers_conical_a1.xml" attachpoint="root"/>
         <prop actor="props/units/weapons/spear.xml" attachpoint="root"/>
         <prop actor="props/units/weapons/xiphos_alexander.xml" attachpoint="root"/>
       </props>
       <textures>
-        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
         <texture file="structural/ao/rome_blacksmith.png" name="aoTex"/>
       </textures>
     </variant>
