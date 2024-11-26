@@ -5,7 +5,7 @@
     <variant frequency="1" name="barrel">
       <mesh>props/rome_blacksmith_armorstand_rome_csp_a.dae</mesh>
       <textures>
-        <texture file="skeletal/rome/chainmail_02_03.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
         <texture file="structural/ao/rome_blacksmith.png" name="aoTex"/>
       </textures>
     </variant>
