@@ -3,6 +3,13 @@
   <Auras datatype="tokens">
     myce/achilles_01
   </Auras>
+  <Attack>
+    <Melee>
+      <Damage>
+        <Pierce op="mul">2.5</Pierce>
+      </Damage>
+    </Melee>
+  </Attack>
   <Cost>
     <BuildTime op="mul">1.2</BuildTime>
     <Resources>
