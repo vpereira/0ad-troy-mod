@@ -39,11 +39,11 @@
     <Tooltip>Counters: 3x vs. Heroes. 4x vs. cavalry.</Tooltip>
   </Identity>
   <Loot>
-    <food op="mul_round">2</food>
-    <wood op="mul_round">0.75</wood>
-    <stone op="mul_round">1.5</stone>
-    <metal op="mul_round">2</metal>
-    <xp op="mul_round">1.5</xp>
+    <food op="mul_round">0</food>
+    <wood op="mul_round">0</wood>
+    <stone op="mul_round">0</stone>
+    <metal op="mul_round">0</metal>
+    <xp op="mul_round">1.6</xp>
   </Loot>
   <Resistance>
     <Entity>
