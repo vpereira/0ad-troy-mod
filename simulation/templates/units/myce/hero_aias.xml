@@ -13,6 +13,13 @@
     <SpecificName> </SpecificName>
     <Icon>units/hele/hero_leonidas.png</Icon>
   </Identity>
+  <Loot>
+    <food op="mul_round">0</food>
+    <wood op="mul_round">0</wood>
+    <stone op="mul_round">0</stone>
+    <metal op="mul_round">0</metal>
+    <xp op="mul_round">1.6</xp>
+  </Loot>
   <Resistance>
     <Entity>
       <Damage>
