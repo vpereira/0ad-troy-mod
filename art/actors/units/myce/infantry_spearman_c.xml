@@ -19,46 +19,46 @@
   <group>
     <variant frequency="1" name="Helmet-Thracian-Bronze-Black">
       <props>
-        <prop actor="props/units/helmets/hele_corinthian_i1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_chalcidean_i5.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet-Thracian-Bronze">
       <props>
-        <prop actor="props/units/helmets/hele_corinthian_i1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_chalcidean_i5.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet-Phrygian-Bronze">
       <props>
-        <prop actor="props/units/helmets/hele_corinthian_i1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_chalcidean_i5.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
   <group>
     <variant frequency="2" name="Scale-1b">
       <textures>
-        <texture file="skeletal/hele/cuirass_black.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_vergina_01_05.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Lamellar-1b">
       <textures>
-        <texture file="skeletal/hele/cuirass_black.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_vergina_01_05.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1a">
       <textures>
-        <texture file="skeletal/hele/cuirass_black.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_vergina_01_05.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1b">
       <textures>
-        <texture file="skeletal/hele/cuirass_black.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_vergina_01_05.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1c">
       <textures>
-        <texture file="skeletal/hele/cuirass_black.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_vergina_01_05.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
