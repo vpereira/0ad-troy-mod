@@ -7,19 +7,47 @@
 			"Type": "peace"
 		},
 		{
-			"File": "Peaks_of_Atlas.ogg",
+			"File": "As_Seasons_Change.ogg",
 			"Type": "peace"
 		},
 		{
-			"File": "Forging_a_City-State.ogg",
+			"File": "Bandit_Country.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Calm_Before_the_Storm.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Cradle_of_Civilization.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Elysian_Fields.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Expedition.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "In_the_Shadow_of_Olympus.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Mediterranean_Waves.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Tale_of_Warriors.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Point_of_No_Return.ogg",
 			"Type": "peace"
 		},
 		{
 			"File": "The_Hellespont.ogg",
-			"Type": "peace"
-		},
-		{
-			"File": "Only_300_Stood.ogg",
 			"Type": "peace"
 		}
 		 ],
@@ -77,7 +105,10 @@
 		"Polypoetes",
 		"Patroclus",
 		"Tlepolemus",
-		"Nestor"
+		"Elphenor",
+		"Nestor",
+		"Thrasymedes",
+		"Eurypylus"
 	],
 	"SkirmishReplacements": {
 		"skirmish/structures/default_house_10": "structures/{civ}/house",

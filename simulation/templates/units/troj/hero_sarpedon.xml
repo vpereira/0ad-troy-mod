@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_infantry_spearman">
+<Entity parent="hero|template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
     troj/sarpedon
-    troj/penthesilea
   </Auras>
   <Identity>
     <Civ>troj</Civ>
@@ -15,7 +14,6 @@
     <Acceleration op="mul">1.25</Acceleration>
   </UnitMotion>
   <TrainingRestrictions>
-    <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>

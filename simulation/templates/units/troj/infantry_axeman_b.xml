@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_melee_axeman">
+<Entity parent="hero|template_unit_infantry_melee_axeman">
   <Cost>
     <Resources>
       <metal op="add">40</metal>
@@ -19,8 +19,8 @@
   <Identity>
     <Civ>troj</Civ>
     <Lang>greek</Lang>
-    <GenericName>Lycian Axeman</GenericName>
-    <SpecificName>Lýkios Tsekoúrimachos</SpecificName>
+    <GenericName>Lycian Allied Infantryman</GenericName>
+    <SpecificName>Lýkios Symmachikós Stratiótis</SpecificName>
     <Icon>units/troj/infantry_swordsman.png</Icon>
   </Identity>
   <Promotion disable=""/>

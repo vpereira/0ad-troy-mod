@@ -6,5 +6,5 @@
 		{ "value": "Looter/Resource/metal", "add": 30 }
 	],
 	"auraName": "Armor removal",
-	"auraDescription": "Humans, Siege Engines, and Ships gain +20 metal loot."
+	"auraDescription": "Humans, Siege Engines, and Ships gain +30 metal loot."
 }
