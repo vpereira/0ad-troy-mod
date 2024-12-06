@@ -3,15 +3,15 @@
   <castshadow/>
   <group>
     <variant name="Chalcidean-05">
-      <mesh>props/helmet/hele_chalcidean_e.dae</mesh>
+      <mesh>props/helmet/hele_chalcidean_b.dae</mesh>
     </variant>
   </group>
   <group>
     <variant frequency="1" name="Bronze">
       <textures>
-        <texture file="props/helmet/hele_corinthian_01_iron.png" name="baseTex"/>
-        <texture file="props/helmet/hele_corinthian_01_type_a_norm.png" name="normTex"/>
-        <texture file="props/helmet/hele_corinthian_01_spec.png" name="specTex"/>
+        <texture file="props/helmet/hele_corinthian_04_iron.png" name="baseTex"/>
+        <texture file="props/helmet/hele_corinthian_04_type_a_norm.png" name="normTex"/>
+        <texture file="props/helmet/hele_corinthian_04_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
