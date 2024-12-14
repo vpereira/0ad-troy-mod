@@ -19,8 +19,8 @@
     <Civ>troj</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/mace/infantry_javelineer_b</SelectionGroupName>
-    <GenericName>Thracian Javelineer</GenericName>
-    <SpecificName>Thracic Acontium</SpecificName>
+    <GenericName>Thracian Light Infantryman</GenericName>
+    <SpecificName>Thrakikós Elaphrýs Pezikós</SpecificName>
     <Icon>units/troj/infantry_javelinist.png</Icon>
   </Identity>
   <Promotion disable=""/>

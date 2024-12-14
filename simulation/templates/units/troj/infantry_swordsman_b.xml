@@ -18,8 +18,8 @@
   <Identity>
     <Civ>troj</Civ>
     <Lang>greek</Lang>
-    <GenericName>Thracian Mercenary Swordsman</GenericName>
-    <SpecificName>Thrakiotis Xiphomachus</SpecificName>
+    <GenericName>Thracian Medium Infantryman</GenericName>
+    <SpecificName>Thrakiótis Mesaíos Pezikós</SpecificName>
     <SelectionGroupName>units/iber/infantry_swordsman_b</SelectionGroupName>
     <Icon>units/cart/infantry_swordsman.png</Icon>
   </Identity>

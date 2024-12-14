@@ -6,8 +6,7 @@
       <mesh>skeletal/horse_lusitano.dae</mesh>
       <props>
         <prop actor="units/trojans/cavalry_spearman_c_r.xml" attachpoint="rider"/>
-        <prop actor="props/horse/cav_peytral_sele.xml" attachpoint="root"/>
-        <prop actor="props/horse/cav_blanket_kart.xml" attachpoint="root"/>
+        <prop actor="props/horse/cav_armor_sele.xml" attachpoint="root"/>
       </props>
     </variant>
   </group>

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_cavalry_javelineer">
-  <Auras datatype="tokens">
-    troj/penthesilea
-  </Auras>
+<Entity parent="hero|template_unit_hero_cavalry_javelineer">
   <Identity>
     <Civ>troj</Civ>
     <Lang>persian</Lang>
@@ -12,7 +9,6 @@
     <Icon>units/troj/hero_boudicca.png</Icon>
   </Identity>
   <TrainingRestrictions>
-    <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>

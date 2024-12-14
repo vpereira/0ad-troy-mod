@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_infantry_spearman">
+<Entity parent="hoplite|template_unit_champion_infantry_spearman">
   <Cost>
     <BuildTime op="mul_round">0.8</BuildTime>
   </Cost>
@@ -8,12 +8,12 @@
     <Lang>greek</Lang>
     <GenericName>Mycenean Guard Infantry</GenericName>
     <SpecificName>Agema Mykenaíos</SpecificName>
-    <Icon>units/hele/champion_guard.png</Icon>
+    <Icon>units/hele/champion_infantry_spear.png</Icon>
   </Identity>
   <Health>
     <Max>260</Max>
   </Health>
   <VisualActor>
-    <Actor>units/myce/infantry_pikeman_c2.xml</Actor>
+    <Actor>units/myce/infantry_spearman_c2.xml</Actor>
   </VisualActor>
 </Entity>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_infantry_archer">
+<Entity parent="hero|template_unit_hero_infantry_archer">
   <Auras datatype="tokens">
     troj/paris
   </Auras>
@@ -11,10 +11,9 @@
     <Icon>units/troj/hero_ptolemy_IV.png</Icon>
   </Identity>
   <TrainingRestrictions>
-    <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>
-    <Actor>units/persians/hero_infantry_archer_xerxes.xml</Actor>
+    <Actor>units/trojans/hero_paris.xml</Actor>
   </VisualActor>
 </Entity>
