@@ -3,12 +3,9 @@
   <castshadow/>
   <group>
     <variant name="Pilos-01">
-      <mesh>props/helmet/rome_montefortino_b_2.dae</mesh>
+      <mesh>props/helmet/rome_montefortino_a_2.dae</mesh>
       <props>
-        <prop actor="props/units/helmets/props/hele_highcrest_bronze_01.xml" attachpoint="feather_left"/>
-        <prop actor="props/units/helmets/props/hele_highcrest_bronze_01.xml" attachpoint="feather_left_mid"/>
-        <prop actor="props/units/helmets/props/hele_highcrest_bronze_01.xml" attachpoint="feather_right_mid"/>
-        <prop actor="props/units/helmets/props/hele_highcrest_bronze_01.xml" attachpoint="feather_right"/>
+        <prop actor="props/units/helmets/props/hele_highcrest_bronze_01.xml" attachpoint="feather_mid"/>
       </props>
     </variant>
   </group>
