@@ -6,7 +6,6 @@
       <mesh>props/helmet/rome_montefortino_a_2.dae</mesh>
       <props>
         <prop actor="props/units/helmets/props/hele_highcrest_bronze_01.xml" attachpoint="feather_mid"/>
-        <prop actor="props/units/helmets/props/hele_attic_mask_b2.xml" attachpoint="root"/>
       </props>
     </variant>
   </group>
