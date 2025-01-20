@@ -7,6 +7,7 @@
       <props>
         <prop actor="units/trojans/cavalry_spearman_c_r.xml" attachpoint="rider"/>
         <prop actor="props/horse/cav_armor_sele.xml" attachpoint="root"/>
+        <prop actor="props/horse/sele_crest.xml" attachpoint="head"/>
       </props>
     </variant>
   </group>
