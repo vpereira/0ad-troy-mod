@@ -25,6 +25,11 @@
         <prop actor="props/units/helmets/hele_boar_a.xml" attachpoint="helmet"/>
       </props>
     </variant>
+    <variant frequency="2" name="sele-cuirass-1h">
+      <props>
+        <prop actor="props/units/helmets/hele_myce_champion.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
   </group>
   <group>
     <variant frequency="1" name="hele-tunic-fur-1-a">
