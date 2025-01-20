@@ -26,6 +26,18 @@
     </variant>
   </group>
   <group>
+    <variant frequency="2" name="sele-cuirass-1h">
+      <props>
+        <prop actor="props/units/helmets/hele_myce_champion.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="2" name="sele-cuirass-1i">
+      <props>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+  </group>
+  <group>
     <variant file="biped/base_swordsman_shield_fast.xml" name="Swordsman-Shield-Relax-Fast" frequency="1"/>
     <variant file="biped/attack_capture.xml"/>
     <variant file="biped/attack_slaughter.xml"/>
