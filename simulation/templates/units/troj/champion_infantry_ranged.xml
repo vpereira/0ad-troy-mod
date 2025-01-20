@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="hero|template_unit_champion_infantry_archer">
+<Entity parent="template_unit_champion_infantry_archer">
   <Cost>
     <Resources>
       <food op="mul_round">0.9</food>
