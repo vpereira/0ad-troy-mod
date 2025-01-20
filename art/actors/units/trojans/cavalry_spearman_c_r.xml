@@ -45,17 +45,17 @@
     </variant>
     <variant frequency="1" name="Helmet-Thracian-01">
       <props>
-        <prop actor="props/units/helmets/pers_conical_a1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_troj_champion.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet-Thracian-02">
       <props>
-        <prop actor="props/units/helmets/pers_conical_a1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_troj_champion.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="3" name="Helmet Thracian P1">
       <props>
-        <prop actor="props/units/helmets/pers_conical_a1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_troj_champion.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet Thracian P1 Crested">
