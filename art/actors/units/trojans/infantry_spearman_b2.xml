@@ -27,7 +27,7 @@
   <group>
     <variant frequency="1" name="Hele Phrygian Helmet-05">
       <props>
-        <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/gerron_cow.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
     <variant frequency="2" name="Hele Phrygian Helmet-03">
@@ -37,7 +37,7 @@
     </variant>
     <variant frequency="3" name="Hele Phrygian Helmet-04">
       <props>
-        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/gerron_cow.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
     <variant frequency="4" name="Hele Phrygian Helmet-06">
