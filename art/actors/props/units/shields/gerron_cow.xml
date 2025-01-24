@@ -12,7 +12,7 @@
   <group>
     <variant frequency="1" name="shield-gerron-a">
       <textures>
-        <texture file="props/shield/kart_round_s.dds" name="baseTex"/>
+        <texture file="props/shield/kart_round_a.dds" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="shield-gerron-b">
@@ -22,7 +22,7 @@
     </variant>
     <variant frequency="1" name="shield-gerron-e">
       <textures>
-        <texture file="props/shield/kart_round_s.dds" name="baseTex"/>
+        <texture file="props/shield/kart_round_a.dds" name="baseTex"/>
       </textures>
     </variant>
   </group>
