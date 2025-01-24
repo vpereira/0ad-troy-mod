@@ -12,8 +12,8 @@
         <prop actor="props/units/weapons/sheath_xiphos_e.xml" attachpoint="sheath_02_L"/>
       </props>
       <textures>
-        <texture file="skeletal/maur/scale_royal_01.png" name="baseTex"/>
-        <texture file="skeletal/maur/scale_royal_01.png" name="specTex"/>
+        <texture file="skeletal/hele/scale_hektor_01.png" name="baseTex"/>
+        <texture file="skeletal/hele/scale_hektor_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
