@@ -16,7 +16,7 @@
     </variant>
   </group>
   <group>
-    <variant frequency="3" name="Hele Phrygian Helmet-03">
+    <variant frequency="4" name="Hele Phrygian Helmet-03">
       <props>
         <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield"/>
       </props>
