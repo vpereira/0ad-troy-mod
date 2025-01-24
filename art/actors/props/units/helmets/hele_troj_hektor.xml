@@ -10,7 +10,7 @@
         <texture file="props/helmet/pers_conical_01_bronze_spec.png" name="specTex"/>
       </textures>
       <props>
-        <prop actor="props/units/helmets/props/hele_highcrest_bronze_01.xml" attachpoint="hair"/>
+        <prop actor="props/units/helmets/props/hele_boeotian_hair.xml" attachpoint="hair"/>
       </props>
     </variant>
   </group>
