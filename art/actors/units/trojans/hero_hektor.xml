@@ -9,7 +9,7 @@
         <prop actor="props/units/helmets/hele_troj_hektor.xml" attachpoint="helmet"/>
         <prop actor="props/units/weapons/xiphos_alexander.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/gerron_cow.xml" attachpoint="shield"/>
-        <prop actor="props/units/weapons/sheath_xiphos_e.xml" attachpoint="sheath_02_L"/>
+        <prop actor="props/units/weapons/spear_gold.xml" attachpoint="sheath_02_L"/>
       </props>
       <textures>
         <texture file="skeletal/hele/scale_hektor_01.png" name="baseTex"/>
@@ -19,7 +19,7 @@
     </variant>
   </group>
   <group>
-    <variant file="biped/base_swordsman_shield_ready.xml" frequency="1" name="Swordsman-Shield-Ready"/>
+    <variant file="biped/base__shield_ready.xml" frequency="1" name="Swordsman-Shield-Ready"/>
     <variant file="biped/gather_praise.xml"/>
     <variant file="biped/attack_capture.xml"/>
     <variant file="biped/attack_slaughter.xml"/>
