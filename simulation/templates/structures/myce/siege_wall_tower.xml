@@ -50,21 +50,33 @@
         <X>1.5</X>
         <Y>11.5</Y>
         <Z>1.5</Z>
+        <AllowedClasses>
+          <List datatype="tokens">Infantry</List>
+        </AllowedClasses>
       </One>
       <Two>
         <X>-1.5</X>
         <Y>11.5</Y>
         <Z>1.5</Z>
+        <AllowedClasses>
+          <List datatype="tokens">Infantry</List>
+        </AllowedClasses>
       </Two>
       <Three>
         <X>1.5</X>
         <Y>11.5</Y>
         <Z>-1.5</Z>
+        <AllowedClasses>
+          <List datatype="tokens">Infantry</List>
+        </AllowedClasses>
       </Three>
       <Four>
         <X>-1.5</X>
         <Y>11.5</Y>
         <Z>-1.5</Z>
+        <AllowedClasses>
+          <List datatype="tokens">Infantry</List>
+        </AllowedClasses>
       </Four>
     </TurretPoints>
   </TurretHolder>
