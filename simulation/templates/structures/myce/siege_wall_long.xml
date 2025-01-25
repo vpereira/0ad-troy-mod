@@ -47,43 +47,36 @@
         <X>0</X>
         <Y>5.7</Y>
         <Z>0</Z>
-        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </One>
       <Two>
         <X>4</X>
         <Y>5.7</Y>
         <Z>0</Z>
-        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Two>
       <Three>
         <X>-4</X>
         <Y>5.7</Y>
         <Z>0</Z>
-        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Three>
       <Four>
         <X>8</X>
         <Y>5.7</Y>
         <Z>0</Z>
-        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Four>
       <Five>
         <X>-8</X>
         <Y>5.7</Y>
         <Z>0</Z>
-        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Five>
       <Six>
         <X>12</X>
         <Y>5.7</Y>
         <Z>0</Z>
-        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Six>
       <Seven>
         <X>-12</X>
         <Y>5.7</Y>
         <Z>0</Z>
-        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Seven>
     </TurretPoints>
   </TurretHolder>
