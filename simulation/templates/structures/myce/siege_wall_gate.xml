@@ -50,65 +50,49 @@
         <X>8</X>
         <Y>11.5</Y>
         <Z>1.5</Z>
-        <AllowedClasses>
-          <List datatype="tokens">Infantry</List>
-        </AllowedClasses>
+        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </One>
       <Two>
         <X>-8</X>
         <Y>11.5</Y>
         <Z>1.5</Z>
-        <AllowedClasses>
-          <List datatype="tokens">Infantry</List>
-        </AllowedClasses>
+        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Two>
       <Three>
         <X>8</X>
         <Y>11.5</Y>
         <Z>-1.5</Z>
-        <AllowedClasses>
-          <List datatype="tokens">Infantry</List>
-        </AllowedClasses>
+        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Three>
       <Four>
         <X>-8</X>
         <Y>11.5</Y>
         <Z>-1.5</Z>
-        <AllowedClasses>
-          <List datatype="tokens">Infantry</List>
-        </AllowedClasses>
+        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Four>
       <Five>
         <X>11</X>
         <Y>11.5</Y>
         <Z>1.5</Z>
-        <AllowedClasses>
-          <List datatype="tokens">Infantry</List>
-        </AllowedClasses>
+        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Five>
       <Six>
         <X>-11</X>
         <Y>11.5</Y>
         <Z>1.5</Z>
-        <AllowedClasses>
-          <List datatype="tokens">Infantry</List>
-        </AllowedClasses>
+        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Six>
       <Seven>
         <X>11</X>
         <Y>11.5</Y>
         <Z>-1.5</Z>
-        <AllowedClasses>
-          <List datatype="tokens">Infantry</List>
-        </AllowedClasses>
+        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Seven>
       <Eight>
         <X>-11</X>
         <Y>11.5</Y>
         <Z>-1.5</Z>
-        <AllowedClasses>
-          <List datatype="tokens">Infantry</List>
-        </AllowedClasses>
+        <AllowedClasses datatype="tokens"> Infantry</AllowedClasses>
       </Eight>
     </TurretPoints>
   </TurretHolder>
