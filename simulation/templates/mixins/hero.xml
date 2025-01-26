@@ -3,4 +3,5 @@
   <Health>
     <SpawnEntityOnDeath>loot</SpawnEntityOnDeath>
   </Health>
+  <TrainingRestrictions disable="">
 </Entity>
