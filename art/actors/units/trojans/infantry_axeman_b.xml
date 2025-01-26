@@ -6,13 +6,14 @@
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_iber_hero_1.xml" attachpoint="head"/>
-        <prop actor="props/units/helmets/pers_conical_b1.xml" attachpoint="helmet"/>
-        <prop actor="props/units/weapons/axe_sagaris.xml" attachpoint="weapon_R"/>
-        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield"/>
+        <prop actor="props/units/helmets/pers_conical_a1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/weapons/kush_axe_twohanded.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield"/>
+        <prop actor="props/units/weapons/sheath_xiphos_e.xml" attachpoint="sheath_02_L"/>
       </props>
       <textures>
-        <texture file="skeletal/iber/thorax_leather_01.png" name="baseTex"/>
-        <texture file="skeletal/iber/thorax_leather_01.png" name="specTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>

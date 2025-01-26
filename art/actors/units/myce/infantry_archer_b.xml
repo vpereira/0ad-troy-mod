@@ -29,17 +29,17 @@
   <group>
     <variant frequency="1" name="tunic_hellenistic_elite_1">
       <textures>
-        <texture file="skeletal/mace/tunic_hellenistic_sleeveless_boots_01_01.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_black.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tunic_hellenistic_elite_2">
       <textures>
-        <texture file="skeletal/mace/tunic_hellenistic_sleeveless_boots_01_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_black.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="tunic_hellenistic_elite_3">
       <textures>
-        <texture file="skeletal/mace/tunic_hellenistic_sleeveless_boots_01_03.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_black.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

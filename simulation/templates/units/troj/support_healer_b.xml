@@ -8,9 +8,6 @@
     <Icon>units/hele/support_healer.png</Icon>
   </Identity>
   <Promotion disable=""/>
-  <TrainingRestrictions>
-    <Category>Animal</Category>
-  </TrainingRestrictions>
   <VisualActor>
     <Actor>units/hellenes/healer.xml</Actor>
   </VisualActor>

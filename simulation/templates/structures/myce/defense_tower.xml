@@ -12,10 +12,9 @@
     <Static width="9.0" depth="9.0"/>
   </Obstruction>
   <StatusBars>
-    <HeightOffset>20.0</HeightOffset>
+    <HeightOffset>22.0</HeightOffset>
   </StatusBars>
   <VisualActor>
-    <FoundationActor>structures/carthaginians/fndn_defense_tower.xml</FoundationActor>
-    <Actor>structures/carthaginians/scout_tower.xml</Actor>
+    <Actor>structures/ptolemies/defense_tower.xml</Actor>
   </VisualActor>
 </Entity>

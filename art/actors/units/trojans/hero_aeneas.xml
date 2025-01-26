@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant>
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <props>
+        <prop actor="props/units/heads/new/head_iber_hero_1.xml" attachpoint="head"/>
+        <prop actor="props/units/helmets/hele_troj_hero.xml" attachpoint="helmet"/>
+        <prop actor="props/units/weapons/xiphos_alexander.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/shields/gerron_cow.xml" attachpoint="shield"/>
+        <prop actor="props/units/weapons/sheath_xiphos_e.xml" attachpoint="sheath_02_L"/>
+      </props>
+      <textures>
+        <texture file="skeletal/cart/scale_01_01.png" name="baseTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant file="biped/base_swordsman_shieldarm_ready.xml" frequency="1" name="Swordsman-Shieldarm-Ready"/>
+    <variant file="biped/gather_praise.xml"/>
+    <variant file="biped/attack_capture.xml"/>
+    <variant file="biped/attack_slaughter.xml"/>
+    <variant file="biped/death_infantry.xml"/>
+  </group>
+  <material>player_trans_norm_spec.xml</material>
+</actor>

@@ -4,7 +4,6 @@
     <Civ>myce</Civ>
   </Identity>
   <VisualActor>
-    <FoundationActor>structures/carthaginians/fndn_wooden_tower.xml</FoundationActor>
-    <Actor>structures/carthaginians/wooden_tower.xml</Actor>
+    <Actor>structures/ptolemies/wooden_tower.xml</Actor>
   </VisualActor>
 </Entity>

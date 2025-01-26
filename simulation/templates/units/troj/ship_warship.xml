@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_ship_bireme">
   <GarrisonHolder>
-    <Max>35</Max>
+    <Max>30</Max>
   </GarrisonHolder>
   <Footprint>
     <Square width="7.0" depth="37.0"/>

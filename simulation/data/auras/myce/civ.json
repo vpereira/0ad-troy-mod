@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Human"],
+	"affectedPlayers": ["Enemy", "Ally"],
+	"modifications": [
+		{ "value": "Looter/Resource/metal", "multiply": 0 }
+	],
+	"auraName": "Armor removal",
+	"auraDescription": "Humans gain no loot, but spawn Treasures."
+}

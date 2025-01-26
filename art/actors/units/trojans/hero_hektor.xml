@@ -5,20 +5,21 @@
     <variant>
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
-        <prop actor="props/units/heads/new/head_iber_hero_1.xml" attachpoint="head"/>
-        <prop actor="props/units/helmets/hele_thracian_b7_crested_hero.xml" attachpoint="helmet"/>
-        <prop actor="props/units/weapons/spatha.xml" attachpoint="weapon_R"/>
-        <prop actor="props/units/shields/kush_beja_reinforced_gold_rhino.xml" attachpoint="shield"/>
+        <prop actor="props/units/heads/new/head_chandragupta.xml" attachpoint="head"/>
+        <prop actor="props/units/helmets/hele_troj_hektor.xml" attachpoint="helmet"/>
+        <prop actor="props/units/weapons/spear_gold.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/shields/gerron_cow.xml" attachpoint="shield"/>
+        <prop actor="props/units/weapons/sheath_xiphos.xml" attachpoint="sheath_02_L"/>
       </props>
       <textures>
-        <texture file="skeletal/sele/cuirass_hero_antiochus.png" name="baseTex"/>
-        <texture file="skeletal/pers/scale_02_06.png" name="specTex"/>
+        <texture file="skeletal/hele/scale_hektor_01.png" name="baseTex"/>
+        <texture file="skeletal/hele/scale_hektor_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
   </group>
   <group>
-    <variant file="biped/base_swordsman_shieldarm_ready.xml" frequency="1" name="Swordsman-Shieldarm-Ready"/>
+    <variant file="biped/base_spearman_shield_ready.xml" frequency="1" name="Swordsman-Shieldarm-Ready"/>
     <variant file="biped/gather_praise.xml"/>
     <variant file="biped/attack_capture.xml"/>
     <variant file="biped/attack_slaughter.xml"/>

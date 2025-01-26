@@ -12,6 +12,23 @@
     </variant>
   </group>
   <group>
+    <variant frequency="2" name="sele-cuirass-1f">
+      <props>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="2" name="sele-cuirass-1g">
+      <props>
+        <prop actor="props/units/helmets/hele_boar_a.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="2" name="sele-cuirass-1h">
+      <props>
+        <prop actor="props/units/helmets/hele_myce_champion.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+  </group>
+  <group>
     <variant frequency="1" name="Greave-01">
       <props>
         <prop actor="props/units/armor/greave_04_bronze_l.xml" attachpoint="leg_L"/>
@@ -32,72 +49,50 @@
     </variant>
   </group>
   <group>
-    <variant frequency="3" name="Helmet-Corinthian-01">
-      <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
-      </props>
-    </variant>
-    <variant frequency="3" name="Helmet-Corinthian-02">
-      <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
-      </props>
-    </variant>
-    <variant frequency="3" name="Helmet-Corinthian-03">
-      <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
-      </props>
-    </variant>
-    <variant frequency="3" name="Helmet-Corinthian-04">
-      <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
-      </props>
-    </variant>
-  </group>
-  <group>
     <variant frequency="1" name="Hele Phrygian Helmet-05">
       <props>
-        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
     <variant frequency="2" name="Hele Phrygian Helmet-06">
       <props>
-        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
     <variant frequency="3" name="Hele Phrygian Helmet-07">
       <props>
-        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield_arm"/>
       </props>
     </variant>
   </group>
   <group>
     <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_01.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-2c">
+      <textures>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_dendra.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-2c">
+      <textures>
+        <texture file="skeletal/ital/cuirass_01_03.png" name="baseTex"/>
         <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
         <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="cuirass-2c">
-      <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="cuirass-2c">
-      <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
         <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
       </textures>
     </variant>

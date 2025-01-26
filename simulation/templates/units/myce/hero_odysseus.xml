@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_infantry_swordsman">
+<Entity parent="hero|template_unit_hero_infantry_swordsman">
   <Cost>
     <BuildTime op="mul_round">0.8</BuildTime>
   </Cost>
   <Auras datatype="tokens">
     myce/odysseus
-    troj/penthesilea
     myce/ship
   </Auras>
   <Identity>
@@ -15,12 +14,18 @@
     <SpecificName> </SpecificName>
     <Icon>units/hele/hero_odysseus.png</Icon>
   </Identity>
+  <Loot>
+    <food op="mul_round">0</food>
+    <wood op="mul_round">0</wood>
+    <stone op="mul_round">0</stone>
+    <metal op="mul_round">0</metal>
+    <xp op="mul_round">1.6</xp>
+  </Loot>
   <UnitMotion>
     <WalkSpeed op="mul_round">1.2</WalkSpeed>
     <Acceleration op="mul">1.5</Acceleration>
   </UnitMotion>
   <TrainingRestrictions>
-    <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>

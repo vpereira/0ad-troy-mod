@@ -3,17 +3,15 @@
   <castshadow/>
   <group>
     <variant>
-      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <props>
-        <prop actor="props/units/heads/new/head_pers_a.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/new/head_hele_a.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/kush_beja_reinforced_rhino.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/weapons/sheath_xiphos.xml" attachpoint="sheath_02_L"/>
-        <prop actor="props/units/armor/greave_02_bronze_r.xml" attachpoint="leg_R"/>
-        <prop actor="props/units/armor/greave_02_bronze_l.xml" attachpoint="leg_L"/>
       </props>
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
+        <texture file="skeletal/hele/linothorax_03_black_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
@@ -21,48 +19,46 @@
   <group>
     <variant frequency="1" name="Helmet-Thracian-Bronze-Black">
       <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_chalcidean_i5.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet-Thracian-Bronze">
       <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_chalcidean_i5.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet-Phrygian-Bronze">
       <props>
-        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_chalcidean_i5.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
   <group>
     <variant frequency="2" name="Scale-1b">
-      <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_vergina_01_05.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Lamellar-1b">
-      <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_vergina_01_05.png" name="baseTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1a">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_vergina_01_05.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1b">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_vergina_01_05.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="Linothorax-1c">
       <textures>
-        <texture file="skeletal/rome/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/cuirass_vergina_01_05.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

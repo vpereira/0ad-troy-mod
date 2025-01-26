@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="hoplite|template_unit_hero_infantry_spearman">
+<Entity parent="hoplite|hero|template_unit_hero_infantry_spearman">
   <Cost>
     <BuildTime op="mul">1.7</BuildTime>
     <Resources>
@@ -29,7 +29,6 @@
   <Auras datatype="tokens">
     myce/achilles_01
     myce/achilles_02
-    troj/penthesilea
   </Auras>
   <Identity>
     <Civ>myce</Civ>
@@ -40,11 +39,11 @@
     <Tooltip>Counters: 3x vs. Heroes. 4x vs. cavalry.</Tooltip>
   </Identity>
   <Loot>
-    <food op="mul_round">2</food>
-    <wood op="mul_round">0.75</wood>
-    <stone op="mul_round">1.5</stone>
-    <metal op="mul_round">2</metal>
-    <xp op="mul_round">1.5</xp>
+    <food op="mul_round">0</food>
+    <wood op="mul_round">0</wood>
+    <stone op="mul_round">0</stone>
+    <metal op="mul_round">0</metal>
+    <xp op="mul_round">1.6</xp>
   </Loot>
   <Resistance>
     <Entity>
@@ -63,7 +62,6 @@
     <Max op="mul">1.6</Max>
   </Health>
   <TrainingRestrictions>
-    <Category>Monument</Category>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
   <VisualActor>

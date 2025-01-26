@@ -32,15 +32,15 @@
       <Bonuses>
         <bonusStruct>
           <Classes>Structure</Classes>
-          <Multiplier>5</Multiplier>
+          <Multiplier>16</Multiplier>
         </bonusStruct>
         <bonusSiege>
           <Classes>Siege</Classes>
-          <Multiplier>4</Multiplier>
+          <Multiplier>12</Multiplier>
         </bonusSiege>
         <bonusShip>
           <Classes>Ship</Classes>
-          <Multiplier>5</Multiplier>
+          <Multiplier>12</Multiplier>
         </bonusShip>
       </Bonuses>
     </Ranged>
@@ -51,7 +51,7 @@
     <GenericName>Rundiyan Guard Archer</GenericName>
     <SpecificName>Rountigián Toxotes</SpecificName>
     <Icon>units/troj/champion_ranged.png</Icon>
-    <Tooltip>Counters: 5x vs. Structures. 4x vs. Siege Units and Ships</Tooltip>
+    <Tooltip>Counters: 16x vs. Structures. 12x vs. Siege Units and Ships</Tooltip>
   </Identity>
   <TrainingRestrictions>
     <Category>Animal</Category>

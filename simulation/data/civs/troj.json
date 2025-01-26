@@ -3,19 +3,51 @@
 	"Culture": "troj",
 	"Music": [
 		{
+			"File": "Helen_Leaves_Sparta.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "As_Seasons_Change.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Bandit_Country.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Calm_Before_the_Storm.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Cradle_of_Civilization.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Elysian_Fields.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Expedition.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "In_the_Shadow_of_Olympus.ogg",
+			"Type": "peace"
+		},
+		{
 			"File": "Mediterranean_Waves.ogg",
 			"Type": "peace"
 		},
 		{
-			"File": "Harsh_Lands_Rugged_People.ogg",
+			"File": "Tale_of_Warriors.ogg",
 			"Type": "peace"
 		},
 		{
-			"File": "Peaks_of_Atlas.ogg",
+			"File": "Point_of_No_Return.ogg",
 			"Type": "peace"
 		},
 		{
-			"File": "From_Every_Corner.ogg",
+			"File": "The_Hellespont.ogg",
 			"Type": "peace"
 		}
 	],
@@ -57,11 +89,14 @@
 		}
 	],
 	"AINames": [
-		"Hektor",
+		"Hector",
 		"Paris",
 		"Troilus",
 		"Rhesus",
 		"Aeneas",
+		"Achates",
+		"Palinurus",
+		"Helenus",
 		"Priam",
 		"Pandarus",
 		"Memnon",
@@ -75,10 +110,12 @@
 		"Coon",
 		"Archelochus",
 		"Deiphobus",
-		"Asteropaios",
+		"Asteropaeus",
 		"Antiphus",
-		"Priam",
-		"Polydamas"
+		"Polydamas",
+		"Hypsenor",
+		"Euphorbus"
+
 	],
 	"SkirmishReplacements": {
 		"skirmish/units/default_infantry_ranged_b": "units/troj/infantry_archer_b",

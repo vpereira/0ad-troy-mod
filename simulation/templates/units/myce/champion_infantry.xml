@@ -3,13 +3,20 @@
   <Auras datatype="tokens">
     myce/achilles_01
   </Auras>
+  <Attack>
+    <Melee>
+      <Damage>
+        <Pierce op="mul">2.5</Pierce>
+      </Damage>
+    </Melee>
+  </Attack>
   <Cost>
-    <BuildTime op="mul">1.2</BuildTime>
+    <BuildTime op="mul">1.25</BuildTime>
     <Resources>
-      <food op="mul_round">1.25</food>
-      <wood op="mul_round">1.25</wood>
-      <stone op="mul_round">1.25</stone>
-      <metal op="mul_round">1.5</metal>
+      <food op="mul_round">1.4</food>
+      <wood op="mul_round">1.3</wood>
+      <stone op="mul_round"></stone>
+      <metal op="mul_round">1.66</metal>
     </Resources>
   </Cost>
   <Identity>
@@ -19,6 +26,15 @@
     <SpecificName>Myrmidónas</SpecificName>
     <Icon>units/hele/champion_infantry_polis.png</Icon>
   </Identity>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">2</Hack>
+        <Pierce op="add">2</Pierce>
+        <Crush op="add">2</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
   <Health>
     <Max>300</Max>
   </Health>

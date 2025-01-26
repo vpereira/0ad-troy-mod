@@ -6,41 +6,61 @@
       <mesh>skeletal/new/m_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_pers_a.xml" attachpoint="head"/>
-        <prop actor="props/units/weapons/sarissa.xml" attachpoint="weapon_R"/>
-        <prop actor="props/units/armor/greave_02_white_r.xml" attachpoint="leg_R"/>
-        <prop actor="props/units/armor/greave_02_white_l.xml" attachpoint="leg_L"/>
-        <prop actor="props/units/shields/pers_pelta_a_b_reverse.xml" attachpoint="back"/>
+        <prop actor="props/units/weapons/spear.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/weapons/jav_ammo.xml" attachpoint="weapon_R"/>
       </props>
       <textures>
-        <texture file="skeletal/pers/scale_02_06.png" name="specTex"/>
+        <texture file="skeletal/cart/scale_01_01.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
   </group>
   <group>
+    <variant frequency="1" name="Hele Phrygian Helmet-02">
+      <props>
+        <prop actor="props/units/shields/gerron_plain.xml" attachpoint="shield_arm"/>
+      </props>
+    </variant>
+    <variant frequency="2" name="Hele Phrygian Helmet-03">
+      <props>
+        <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield_arm"/>
+      </props>
+    </variant>
+    <variant frequency="3" name="Hele Phrygian Helmet-04">
+      <props>
+        <prop actor="props/units/shields/gerron_cow.xml" attachpoint="shield_arm"/>
+      </props>
+    </variant>
+    <variant frequency="4" name="Hele Phrygian Helmet-06">
+      <props>
+        <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield_arm"/>
+      </props>
+    </variant>
+  </group>
+  <group>
     <variant frequency="3" name="Helmet-Conical-01">
       <props>
-        <prop actor="props/units/helmets/pers_conical_a1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_troj_champion.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet-Thracian-01">
       <props>
-        <prop actor="props/units/helmets/pers_conical_a1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_troj_champion.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet-Thracian-02">
       <props>
-        <prop actor="props/units/helmets/pers_conical_a1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_troj_champion.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="3" name="Helmet Thracian P1">
       <props>
-        <prop actor="props/units/helmets/pers_conical_a1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_troj_champion.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Helmet Thracian P1 Crested">
       <props>
-        <prop actor="props/units/helmets/pers_conical_a1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_troj_champion.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
@@ -76,7 +96,7 @@
     </variant>
   </group>
   <group>
-    <variant file="biped/rider/cavalry/base_spearman_2h_fast_relax.xml" frequency="1" name="Spearman-2h-Fast-Relax"/>
+    <variant file="biped/rider/cavalry/base_spearman_ready.xml" frequency="1" name="Spearman-2h-Fast-Relax"/>
     <variant file="biped/rider/death_2h.xml"/>
   </group>
   <material>player_trans_norm_spec.xml</material>

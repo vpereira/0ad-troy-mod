@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_siege">
   <Attack>
-    <Capture>
-      <AttackName>Capture</AttackName>
-      <Capture>200</Capture>
-      <MaxRange>6</MaxRange>
-      <RepeatTime>1000</RepeatTime>
-      <RestrictedClasses datatype="tokens">Field Palisade Wall</RestrictedClasses>
-    </Capture>
     <Melee>
-      <AttackName>None</AttackName>
+      <AttackName>Ram</AttackName>
       <Damage>
-        <Crush>0</Crush>
+        <Crush>150</Crush>
       </Damage>
-      <MaxRange>6</MaxRange>
+      <MaxRange>6.5</MaxRange>
       <PrepareTime>750</PrepareTime>
       <RepeatTime>1500</RepeatTime>
       <PreferredClasses datatype="tokens">Structure</PreferredClasses>
@@ -27,6 +20,10 @@
       <metal>150</metal>
     </Resources>
   </Cost>
+  <Footprint replace="">
+    <Square width="8.0" depth="12.0"/>
+    <Height>5.0</Height>
+  </Footprint>
   <GarrisonHolder>
     <Max>60</Max>
     <EjectHealth>0.1</EjectHealth>
@@ -41,9 +38,9 @@
   <Identity>
     <Civ>myce</Civ>
     <GenericName>Trojan horse</GenericName>
-    <Tooltip>Garrison units and eject behind the enemie`s lines. THIS UNIT DOESNT DEAL ANY DAMAGE!</Tooltip>
     <Icon>units/hele/siege_ram.png</Icon>
-    <VisibleClasses datatype="tokens">-Siege TrojanHorse</VisibleClasses>
+    <Tooltip>Cannot attack Fields or Organic Units.</Tooltip>
+    <VisibleClasses datatype="tokens">TrojanHorse Melee</VisibleClasses>
   </Identity>
   <Loot>
     <xp>200</xp>
@@ -53,15 +50,22 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>35</Hack>
         <Pierce>50</Pierce>
-        <Crush>40</Crush>
       </Damage>
     </Entity>
   </Resistance>
   <TrainingRestrictions>
     <Category>Hero</Category>
   </TrainingRestrictions>
+  <Sound>
+    <SoundGroups>
+      <select>attack/siege/siege_select.xml</select>
+      <order_walk>attack/siege/ram_move.xml</order_walk>
+      <order_attack>attack/siege/ram_attack_order.xml</order_attack>
+      <trained>attack/siege/ram_trained.xml</trained>
+      <attack_melee>attack/siege/ram_attack.xml</attack_melee>
+    </SoundGroups>
+  </Sound>
   <UnitMotion>
     <WalkSpeed op="mul">0.8</WalkSpeed>
     <Acceleration op="mul">0.8</Acceleration>
