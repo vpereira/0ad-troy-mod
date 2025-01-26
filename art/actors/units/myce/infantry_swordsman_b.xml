@@ -52,6 +52,7 @@
     <variant file="biped/approach_ore.xml"/>
     <variant file="biped/approach_ruins.xml"/>
     <variant file="biped/approach_praise.xml"/>
+    <variant file="biped/death_infantry.xml"/>
   </group>
   <group>
     <variant>
