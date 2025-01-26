@@ -21,7 +21,7 @@
     </variant>
     <variant frequency="2" name="padded_brasidas_02">
       <textures>
-        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_03.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
