@@ -38,7 +38,7 @@
     </variant>
   </group>
   <group>
-    <variant file="biped/base_swordsman_shield_ready.xml" name="Swordsman-Shield-Relax-Ready" frequency="1"/>
+    <variant file="biped/base_swordsman_shield_ready.xml"/>
     <variant file="biped/carry_food.xml"/>
     <variant file="biped/carry_meat.xml"/>
     <variant file="biped/carry_wood.xml"/>
