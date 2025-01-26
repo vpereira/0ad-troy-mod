@@ -68,31 +68,31 @@
   <group>
     <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/hele/cuirass_dendra.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_01.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-2c">
+      <textures>
+        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_dendra.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/hele/cuirass_dendra.png" name="baseTex"/>
-        <texture file="skeletal/hele/cuirass_dendra.png" name="specTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="cuirass-2c">
-      <textures>
-        <texture file="skeletal/hele/cuirass_dendra.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
         <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/hele/cuirass_dendra.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
         <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/hele/cuirass_dendra.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
         <texture file="skeletal/rome/cuirass_01_01.png" name="specTex"/>
       </textures>
     </variant>
