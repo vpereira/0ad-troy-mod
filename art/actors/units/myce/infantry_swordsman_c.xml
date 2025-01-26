@@ -80,14 +80,14 @@
     </variant>
     <variant frequency="1" name="cuirass_01_02">
       <textures>
-        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass_01_03">
       <textures>
-        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_03.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
@@ -101,14 +101,14 @@
     </variant>
     <variant frequency="3" name="cardiopylax-2-c-b">
       <textures>
-        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="scale-1-a">
       <textures>
-        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_03.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
@@ -122,14 +122,14 @@
     </variant>
     <variant frequency="1" name="linothorax-lamellar-1a">
       <textures>
-        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax-lamellar-1b">
       <textures>
-        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_03.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
