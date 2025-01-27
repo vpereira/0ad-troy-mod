@@ -16,7 +16,6 @@
   </Health>
   <Identity>
     <Civ>myce</Civ>
-    <SelectionGroupName>structures/rome/wallset_siege</SelectionGroupName>
     <GenericName>Siege Wall</GenericName>
     <SpecificName>Poliorkétikos Teichos</SpecificName>
     <VisibleClasses datatype="tokens">SiegeWall</VisibleClasses>
@@ -82,7 +81,7 @@
   </TurretHolder>
   <Upgrade>
     <Gate>
-      <Entity>structures/rome/siege_wall_gate</Entity>
+      <Entity>structures/myce/siege_wall_gate</Entity>
     </Gate>
   </Upgrade>
   <VisualActor>
