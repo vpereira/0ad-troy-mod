@@ -3,5 +3,8 @@
   <Health>
     <SpawnEntityOnDeath>loot</SpawnEntityOnDeath>
   </Health>
-  <TrainingRestrictions disable="">
+  <TrainingRestrictions>
+    <Category>Animal</Category>
+    <MatchLimit>1</MatchLimit>
+  </TrainingRestrictions>
 </Entity>
