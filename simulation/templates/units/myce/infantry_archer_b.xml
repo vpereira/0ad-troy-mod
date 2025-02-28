@@ -25,6 +25,7 @@
     <Icon>units/hele/infantry_archer.png</Icon>
   </Identity>
   <Promotion disable=""/>
+  <Turretable/>
   <VisualActor>
     <Actor>units/myce/infantry_archer_b.xml</Actor>
   </VisualActor>
