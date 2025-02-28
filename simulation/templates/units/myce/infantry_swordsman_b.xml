@@ -24,6 +24,7 @@
     <Icon>units/hele/iber_infantry_swordsman.png</Icon>
   </Identity>
   <Promotion disable=""/>
+  <Turretable/>
   <VisualActor>
     <Actor>units/myce/infantry_swordsman_b.xml</Actor>
   </VisualActor>
