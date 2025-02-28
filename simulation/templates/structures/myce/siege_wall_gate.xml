@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="wall|template_structure_defensive_wall_gate">
+<Entity parent="template_structure_defensive_wall_gate">
+  <Auras datatype="tokens">
+    structures/wall_garrisoned
+    units/wall
+  </Auras>
   <Cost>
     <BuildTime>25</BuildTime>
     <Resources>
