@@ -1,6 +1,7 @@
 {
 	"type": "turretedUnits",
 	"affects": ["Melee Soldier"],
+	"affectedPlayers": ["Ally"],
 	"modifications": [
 		{ "value": "Attack/Melee/MaxRange", "add": 7 }
 	],
