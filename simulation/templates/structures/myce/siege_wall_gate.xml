@@ -2,7 +2,7 @@
 <Entity parent="template_structure_defensive_wall_gate">
   <Auras datatype="tokens">
     structures/wall_garrisoned
-    units/wall
+    myce/wall
   </Auras>
   <Cost>
     <BuildTime>25</BuildTime>
