@@ -38,6 +38,7 @@
   <Health>
     <Max>300</Max>
   </Health>
+  <Turretable/>
   <VisualActor>
     <Actor>units/myce/infantry_spearman_c.xml</Actor>
   </VisualActor>
