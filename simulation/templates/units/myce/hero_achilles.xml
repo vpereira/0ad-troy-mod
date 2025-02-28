@@ -54,6 +54,7 @@
       </Damage>
     </Entity>
   </Resistance>
+  <Turretable/>
   <UnitMotion>
     <WalkSpeed op="mul_round">1.5</WalkSpeed>
     <Acceleration op="mul">2</Acceleration>
