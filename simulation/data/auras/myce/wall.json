@@ -6,5 +6,5 @@
 		{ "value": "Attack/Melee/MaxRange", "add": 7 }
 	],
 	"auraName": "High Location",
-	"auraDescription": "Turreted MELEE Soldiers +7 attack Range."
+	"auraDescription": "Turreted Melee Soldiers +7 attack Range."
 }
