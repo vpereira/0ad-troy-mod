@@ -19,6 +19,6 @@
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/carthaginians/temple_big.xml</Actor>
+    <Actor>structures/persians/temple.xml</Actor>
   </VisualActor>
 </Entity>
