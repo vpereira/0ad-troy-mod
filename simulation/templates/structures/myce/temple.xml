@@ -12,7 +12,7 @@
     <SpecificName>Pylianós Naós</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="17.5" depth="17.5"/>
+    <Static width="17" depth="30"/>
   </Obstruction>
   <VisualActor>
     <Actor>structures/carthaginians/temple.xml</Actor>
