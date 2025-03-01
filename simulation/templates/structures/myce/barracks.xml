@@ -24,6 +24,6 @@
     <Static width="23.5" depth="23.5"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/ptolemies/mercenary_camp.xml</Actor>
+    <Actor>structures/ptolemies/settlement.xml</Actor>
   </VisualActor>
 </Entity>
