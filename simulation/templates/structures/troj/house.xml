@@ -5,6 +5,6 @@
     <SpecificName>Ev</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/pers/house_b.xml</Actor>
+    <Actor>props/structures/persians/alt_building_05.xml</Actor>
   </VisualActor>
 </Entity>
