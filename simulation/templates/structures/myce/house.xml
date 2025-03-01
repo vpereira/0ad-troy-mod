@@ -5,7 +5,7 @@
     <SpecificName>Oikos</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="13.0" depth="12.0"/>
+    <Static width="20.0" depth="12.0"/>
   </Obstruction>
   <VisualActor>
     <Actor>props/structures/persians/alt_building_02.xml</Actor>
