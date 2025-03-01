@@ -10,7 +10,7 @@
     <Tooltip>Train Healers and Champions, and research healing technologies.</Tooltip>
   </Identity>
   <Obstruction>
-    <Static width="17.0" depth="30.0"/>
+    <Static width="17.5" depth="17.5"/>
   </Obstruction>
   <Trainer>
     <Entities datatype="tokens">
