@@ -7,6 +7,9 @@
     <Civ>troj</Civ>
     <SpecificName>Agora</SpecificName>
   </Identity>
+  <Obstruction>
+    <Static width="38.5" depth="22.5"/>
+  </Obstruction>
   <Researcher>
     <Technologies datatype="tokens">
       colonization
