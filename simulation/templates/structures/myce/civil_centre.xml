@@ -12,9 +12,6 @@
     <GenericName>Mycenean Palace</GenericName>
     <SpecificName>Mykinaïkó Anáktoro</SpecificName>
   </Identity>
-  <Obstruction>
-    <Static width="38.5" depth="22.5"/>
-  </Obstruction>
   <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
