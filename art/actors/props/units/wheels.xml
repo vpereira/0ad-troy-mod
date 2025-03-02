@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant>
-      <mesh>structures/F-35_wheels.dae</mesh>
+      <mesh>structural/F-35_wheels.dae</mesh>
     </variant>
   </group>
   <group>
