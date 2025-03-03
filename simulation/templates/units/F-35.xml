@@ -4,13 +4,12 @@
     <Ranged>
       <AttackName context="Rocket">AIM-260 JATM</AttackName>
       <Damage>
-        <Pierce>200</Pierce>
-        <Crush>227</Crush>
+        <Crush>300</Crush>
       </Damage>
       <MaxRange>120</MaxRange>
-      <MinRange>80</MinRange>
+      <MinRange>0</MinRange>
       <PrepareTime>0</PrepareTime>
-      <RepeatTime>10000</RepeatTime>
+      <RepeatTime>3000</RepeatTime>
       <Projectile>
         <Speed>80</Speed>
         <Spread>0</Spread>
@@ -21,8 +20,8 @@
     </Ranged>
   </Attack>
   <BuildingAI>
-    <DefaultArrowCount>3</DefaultArrowCount>
-    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
+    <DefaultArrowCount>2</DefaultArrowCount>
+    <GarrisonArrowMultiplier>0</GarrisonArrowMultiplier>
     <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
   </BuildingAI>
   <Decay>
@@ -32,7 +31,7 @@
     <SinkAccel>7.0</SinkAccel>
   </Decay>
   <GarrisonHolder>
-    <Max>1</Max>
+    <Max>0</Max>
     <EjectHealth>0</EjectHealth>
     <List datatype="tokens">Support Infantry</List>
     <BuffHeal>1</BuffHeal>
@@ -40,12 +39,11 @@
     <EjectClassesOnDestroy datatype="tokens"/>
   </GarrisonHolder>
   <Health>
-    <Max>100</Max>
+    <Max>300</Max>
     <Unhealable>true</Unhealable>
   </Health>
   <Identity>
-    <SpecificName>P-51 Mustang</SpecificName>
-    <Tooltip>A World War II American fighter plane.</Tooltip>
+    <SpecificName>Lockheed Martin F-35</SpecificName>
     <Icon>units/global_mustang.png</Icon>
   </Identity>
   <Obstruction disable=""/>
@@ -53,7 +51,7 @@
     <Anchor>upright</Anchor>
     <Floating>true</Floating>
     <FloatDepth>0</FloatDepth>
-    <TurnRate>1</TurnRate>
+    <TurnRate>2</TurnRate>
   </Position>
   <Repairable>
     <RepairTimeRatio>3.0</RepairTimeRatio>
@@ -63,16 +61,16 @@
   </UnitAI>
   <UnitMotion disable=""/>
   <UnitMotionFlying>
-    <MaxSpeed>60.0</MaxSpeed>
+    <MaxSpeed>150.0</MaxSpeed>
     <TakeoffSpeed>50.0</TakeoffSpeed>
     <LandingSpeed>40.0</LandingSpeed>
-    <AccelRate>25.0</AccelRate>
+    <AccelRate>30.0</AccelRate>
     <SlowingRate>5.0</SlowingRate>
-    <BrakingRate>10.0</BrakingRate>
-    <TurnRate>2.0</TurnRate>
+    <BrakingRate>15.0</BrakingRate>
+    <TurnRate>3.0</TurnRate>
     <OvershootTime>2.0</OvershootTime>
     <FlyingHeight>80.0</FlyingHeight>
-    <ClimbRate>15.0</ClimbRate>
+    <ClimbRate>35.0</ClimbRate>
     <DiesInWater>true</DiesInWater>
     <PassabilityClass>unrestricted</PassabilityClass>
   </UnitMotionFlying>
@@ -80,6 +78,6 @@
     <Range>120</Range>
   </Vision>
   <VisualActor>
-    <Actor>units/global/plane.xml</Actor>
+    <Actor>units/global/F-35.xml</Actor>
   </VisualActor>
 </Entity>
