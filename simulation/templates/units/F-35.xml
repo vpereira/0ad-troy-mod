@@ -21,7 +21,7 @@
   </Attack>
   <BuildingAI>
     <DefaultArrowCount>2</DefaultArrowCount>
-    <GarrisonArrowMultiplier>0</GarrisonArrowMultiplier>
+    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
     <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
   </BuildingAI>
   <Decay>
@@ -30,14 +30,6 @@
     <SinkRate>3.0</SinkRate>
     <SinkAccel>7.0</SinkAccel>
   </Decay>
-  <GarrisonHolder>
-    <Max>0</Max>
-    <EjectHealth>0</EjectHealth>
-    <List datatype="tokens">Support Infantry</List>
-    <BuffHeal>1</BuffHeal>
-    <LoadingRange>5</LoadingRange>
-    <EjectClassesOnDestroy datatype="tokens"/>
-  </GarrisonHolder>
   <Health>
     <Max>300</Max>
     <Unhealable>true</Unhealable>
