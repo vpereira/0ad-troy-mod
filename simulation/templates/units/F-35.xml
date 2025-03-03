@@ -2,6 +2,16 @@
 <Entity parent="template_unit">
   <Attack>
     <Ranged>
+      <ApplyStatus>
+        <Burning>
+          <Interval>1000</Interval>
+          <Damage>
+            <Fire>20</Fire>
+          </Damage>
+          <Stackability>Stack</Stackability>
+          <Duration>7000</Duration>
+        </Burning>
+      </ApplyStatus>
       <AttackName context="Rocket">AIM-260 JATM</AttackName>
       <Damage>
         <Crush>300</Crush>
