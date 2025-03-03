@@ -43,7 +43,7 @@
     <Anchor>upright</Anchor>
     <Floating>true</Floating>
     <FloatDepth>0</FloatDepth>
-    <TurnRate>2</TurnRate>
+    <TurnRate>1.5</TurnRate>
   </Position>
   <Repairable>
     <RepairTimeRatio>3.0</RepairTimeRatio>
@@ -59,7 +59,7 @@
     <AccelRate>30.0</AccelRate>
     <SlowingRate>5.0</SlowingRate>
     <BrakingRate>15.0</BrakingRate>
-    <TurnRate>3.0</TurnRate>
+    <TurnRate>1.5</TurnRate>
     <OvershootTime>2.0</OvershootTime>
     <FlyingHeight>80.0</FlyingHeight>
     <ClimbRate>35.0</ClimbRate>
