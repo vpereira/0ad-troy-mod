@@ -21,7 +21,7 @@
       <PrepareTime>2000</PrepareTime>
       <RepeatTime>2000</RepeatTime>
       <Projectile>
-        <Speed>80</Speed>
+        <Speed>280</Speed>
         <Spread>0</Spread>
         <Gravity>1</Gravity>
         <FriendlyFire>true</FriendlyFire>
