@@ -76,7 +76,9 @@
     <DiesInWater>true</DiesInWater>
     <PassabilityClass>unrestricted</PassabilityClass>
   </UnitMotionFlying>
-  <DefaultStance>violent</DefaultStance>
+  <UnitAI>
+    <DefaultStance>violent</DefaultStance>
+  </UnitAI>
   <Vision>
     <Range>180</Range>
   </Vision>
