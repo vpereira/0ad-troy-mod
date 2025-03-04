@@ -77,7 +77,7 @@
     <PassabilityClass>unrestricted</PassabilityClass>
   </UnitMotionFlying>
   <Vision>
-    <Range>120</Range>
+    <Range>180</Range>
   </Vision>
   <VisualActor>
     <Actor>units/global/F-35.xml</Actor>
