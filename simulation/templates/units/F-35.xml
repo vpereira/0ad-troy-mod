@@ -6,7 +6,7 @@
         <Burning>
           <Interval>1000</Interval>
           <Damage>
-            <Fire>20</Fire>
+            <Fire>10</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
           <Duration>7000</Duration>
@@ -16,7 +16,7 @@
       <Bonuses>
         <BonusPlane>
           <Classes>Plane</Classes>
-          <Multiplier>3.0</Multiplier>
+          <Multiplier>10.0</Multiplier>
         </BonusPlane>
       </Bonuses>
       <Damage>
@@ -24,8 +24,8 @@
       </Damage>
       <MaxRange>120</MaxRange>
       <MinRange>0</MinRange>
-      <PrepareTime>2000</PrepareTime>
-      <RepeatTime>2000</RepeatTime>
+      <PrepareTime>0</PrepareTime>
+      <RepeatTime>3000</RepeatTime>
       <Projectile>
         <Speed>280</Speed>
         <Spread>0</Spread>
