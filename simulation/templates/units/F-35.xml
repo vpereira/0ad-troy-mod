@@ -36,7 +36,7 @@
     </Ranged>
   </Attack>
   <BuildingAI>
-    <DefaultArrowCount>2</DefaultArrowCount>
+    <DefaultArrowCount>3</DefaultArrowCount>
     <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
     <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
   </BuildingAI>
@@ -51,7 +51,7 @@
     <Unhealable>true</Unhealable>
   </Health>
   <Identity>
-    <VisibleClasses datatype="tokens">-Organic Plane</VisibleClasses>
+    <VisibleClasses datatype="tokens"> Plane</VisibleClasses>
     <SpecificName>Lockheed Martin F-35</SpecificName>
     <Icon>units/F-35.png</Icon>
   </Identity>
