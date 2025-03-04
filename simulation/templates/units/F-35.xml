@@ -13,8 +13,14 @@
         </Burning>
       </ApplyStatus>
       <AttackName context="Rocket">AIM-260 JATM</AttackName>
+      <Bonuses>
+        <BonusPlane>
+          <Classes>Plane</Classes>
+          <Multiplier>3.0</Multiplier>
+        </BonusPlane>
+      </Bonuses>
       <Damage>
-        <Crush>300</Crush>
+        <Crush>100</Crush>
       </Damage>
       <MaxRange>120</MaxRange>
       <MinRange>0</MinRange>
@@ -45,6 +51,7 @@
     <Unhealable>true</Unhealable>
   </Health>
   <Identity>
+    <VisibleClasses datatype="tokens">-Organic Plane</VisibleClasses>
     <SpecificName>Lockheed Martin F-35</SpecificName>
     <Icon>units/F-35.png</Icon>
   </Identity>
