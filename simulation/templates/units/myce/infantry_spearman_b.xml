@@ -15,6 +15,7 @@
     <Icon>units/hele/infantry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
+  <Turretable/>
   <VisualActor>
     <Actor>units/myce/infantry_spearman_b.xml</Actor>
   </VisualActor>

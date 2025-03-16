@@ -1,0 +1,10 @@
+{
+	"type": "turretedUnits",
+	"affects": ["Melee Soldier"],
+	"affectedPlayers": ["Ally"],
+	"modifications": [
+		{ "value": "Attack/Melee/MaxRange", "add": 7 }
+	],
+	"auraName": "High Location",
+	"auraDescription": "Turreted Melee Soldiers +7 attack Range."
+}

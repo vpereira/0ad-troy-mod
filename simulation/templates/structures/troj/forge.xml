@@ -4,6 +4,6 @@
     <Civ>troj</Civ>
   </Identity>
   <VisualActor>
-    <Actor>structures/carthaginians/blacksmith.xml</Actor>
+    <Actor>structures/persians/blacksmith.xml</Actor>
   </VisualActor>
 </Entity>

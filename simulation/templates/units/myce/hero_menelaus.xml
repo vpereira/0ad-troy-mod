@@ -23,6 +23,7 @@
   <TrainingRestrictions>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
+  <Turretable/>
   <VisualActor>
     <Actor>units/myce/hero_menelaus.xml</Actor>
   </VisualActor>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_house_big">
-  <Footprint>
-    <Square width="15.0" depth="14.0"/>
-  </Footprint>
   <Identity>
     <Civ>myce</Civ>
     <SpecificName>Oikos</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="13.0" depth="12.0"/>
+    <Static width="20.0" depth="12.0"/>
   </Obstruction>
   <VisualActor>
-    <FoundationActor>structures/fndn_4x4.xml</FoundationActor>
-    <Actor>structures/ptolemies/house.xml</Actor>
+    <Actor>props/structures/persians/alt_building_02.xml</Actor>
   </VisualActor>
 </Entity>

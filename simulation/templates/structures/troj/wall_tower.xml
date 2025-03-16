@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_defensive_wall_tower">
   <Footprint>
-    <Square width="12" depth="12"/>
-    <Height>20</Height>
+    <Square width="8" depth="8"/>
+    <Height>14.4</Height>
   </Footprint>
-<Health>
+  <Health>
     <Max>12000</Max>
-    <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
   </Health>
   <Identity>
     <Civ>troj</Civ>
     <SpecificName>Amyntikós Pýrgos</SpecificName>
   </Identity>
   <Obstruction>
-    <Static width="11" depth="11"/>
+    <Static width="7" depth="7"/>
   </Obstruction>
   <StatusBars>
-    <HeightOffset>21</HeightOffset>
+    <HeightOffset>15.4</HeightOffset>
   </StatusBars>
   <VisualActor>
-    <Actor>structures/carthaginians/wall_tower.xml</Actor>
-    <FoundationActor>structures/carthaginians/fndn_wall_tower.xml</FoundationActor>
+    <Actor>structures/persians/wall_tower.xml</Actor>
   </VisualActor>
   <WallPiece>
-    <Length>11</Length>
+    <Length>7</Length>
   </WallPiece>
 </Entity>

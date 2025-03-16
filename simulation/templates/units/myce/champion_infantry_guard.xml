@@ -20,6 +20,7 @@
       </Damage>
     </Entity>
   </Resistance>
+  <Turretable/>
   <VisualActor>
     <Actor>units/myce/infantry_swordsman_c.xml</Actor>
   </VisualActor>

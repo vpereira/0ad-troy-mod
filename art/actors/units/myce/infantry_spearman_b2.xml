@@ -32,22 +32,22 @@
   <group>
     <variant frequency="1" name="cardiopylax_01_01">
       <textures>
-        <texture file="skeletal/sele/linothorax_01_03.png" name="baseTex"/>
-        <texture file="skeletal/sele/linothorax_01_03.png" name="specTex"/>
+        <texture file="skeletal/iber/padded_cardiophylax_01_03.png" name="baseTex"/>
+        <texture file="skeletal/iber/padded_cardiophylax_01_03.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cardiopylax_01_02">
       <textures>
-        <texture file="skeletal/sele/linothorax_01_03.png" name="baseTex"/>
-        <texture file="skeletal/sele/linothorax_01_03.png" name="specTex"/>
+        <texture file="skeletal/iber/padded_cardiophylax_01_03.png" name="baseTex"/>
+        <texture file="skeletal/iber/padded_cardiophylax_01_03.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cardiopylax_01_03">
       <textures>
-        <texture file="skeletal/sele/linothorax_01_03.png" name="baseTex"/>
-        <texture file="skeletal/sele/linothorax_01_03.png" name="specTex"/>
+        <texture file="skeletal/iber/padded_cardiophylax_01_03.png" name="baseTex"/>
+        <texture file="skeletal/iber/padded_cardiophylax_01_03.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>

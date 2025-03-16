@@ -30,6 +30,7 @@
   <TrainingRestrictions>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
+  <Turretable/>
   <VisualActor>
     <Actor>units/myce/hero_diomedes.xml</Actor>
   </VisualActor>

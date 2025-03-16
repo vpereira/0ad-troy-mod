@@ -28,6 +28,7 @@
   <TrainingRestrictions>
     <MatchLimit>1</MatchLimit>
   </TrainingRestrictions>
+  <Turretable/>
   <VisualActor>
     <Actor>units/myce/hero_odysseus.xml</Actor>
   </VisualActor>

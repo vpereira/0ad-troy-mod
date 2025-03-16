@@ -13,6 +13,7 @@
   <Health>
     <Max>240</Max>
   </Health>
+  <Turretable/>
   <VisualActor>
     <Actor>units/myce/infantry_pikeman_c.xml</Actor>
   </VisualActor>
