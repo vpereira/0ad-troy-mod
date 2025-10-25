@@ -10,7 +10,6 @@
     <GenericName>Pylian Peltast</GenericName>
     <SpecificName>Pylianós Akontismós</SpecificName>
     <Icon>units/hele/champion_ranged_polis.png</Icon>
-   <RequiredTechnology>phase_city</RequiredTechnology>
   </Identity>
   <VisualActor>
     <Actor>units/myce/infantry_javelineer_c.xml</Actor>

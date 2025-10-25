@@ -4,5 +4,5 @@
   "version": "0.0.4",
   "url": "https://github.com/vpereira/0ad-trojan-war-mod",
   "description": "Super mod for 0 A.D",
-  "dependencies": [ "0ad=0.0.26"]
+  "dependencies": [ "0ad>=0.0.26"]
 }

@@ -12,7 +12,7 @@
     <Icon>units/cart/support_female_citizen.png</Icon>
   </Identity>
   <TrainingRestrictions>
-    <Category>WarDog</Category>
+    <Category>Animal</Category>
   </TrainingRestrictions>
   <VisualActor>
     <Actor>units/carthaginians/female_citizen.xml</Actor>
